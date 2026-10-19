@@ -172,3 +172,9 @@ was a crowd") — guards against the "Pure Land = just chanting" flattening.
   uploads: Abhinavabharati 39MB, Gupta aesthetics, Utpaladeva HOS galleys;
   gcomedy library/rasa/). FUTURE film, not this one: "Recognition: the other
   answer to rebirth" — owns the material properly.
+
+## THAI FOREST ADDED (owner, 2026-10-19)
+School was missing. Ruling: fold into Theravāda nutshell as the operational
+branch (masters check past lives by direct knowledge; adhiṭṭhāna as the
+strange one) + v2 quote bank from Thanissaro's *The Truth of Rebirth*.
+Files: library/theravada/thai-forest/ (full text imports, free distribution).
