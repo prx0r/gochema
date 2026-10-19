@@ -87,37 +87,31 @@ is COMMUNITY LAW: ibbur = licensed, dybbuk = offense. permission, not physics.
 > DIR: two-panel (ibbur-light enters calmly / dybbuk-shadow clings), both
 > collapsing into the gūp-garment glyph.
 
-## CH.5 — THE REST OF THE FIELD (11:00–14:00)
+## CH.5 — THE SAME PROCESS ELSEWHERE (11:00–13:30)
 
-five more claims, one panel each:
+the core family is small — traditions where ONE consciousness VOLUNTARILY
+takes up residence in a body:
 
-- **YORUBA/VOU — THE MOUNT**: the spirit rides the living (the medium is
-  the horse; egungun speaks through the mask). logic: a person is a SEAT
-  with a standing invitation — spirits are routine occupants; the body
-  as公共 chair. authorized by ritual + offering, refereed by the priest.
-  entry in BOTH directions is normal (ancestor rides in, rides out).
-- **GREEK — THE GOD ENTERS YOU**: plato's divine madness — the poet is
-  SEIZED (Ion/Symposium: Eros/god possessing the medium — "god takes
-  possession and the mind is not in him"). the reverse vector: not you
-  entering bodies — bodies as vessels a god uses. theurgy continues it
-  (Iamblichus: theurgist as channel, the god acts THROUGH the rite).
-- **BUDDHIST — THE LIFE-FACULTY TRANSFER**: the Vinaya's institutional case
-  — monks transferring jīvitindriya (life-faculty) to a dying brother
-  (the Tissa/Cunda episode — cite at draft). and note the RULE: the Buddha
-  banned public displays of iddhi — the feat exists, showing it is an
-  offense. entry-adjacent powers with the strictest rulebook in the film.
-- **CHRISTIAN — THE ONE VOLITIONAL ENTRY**: incarnation (God entering
-  flesh, once, on purpose) + exorcism (authorized ejection) + the bilocation
-  saints (one body, two places — the derivative form). logic: the entry is
-  divine-initiative only; human-initiated entry = the grimoire tradition the
-  churches fought (grimoires in our volume: agrippa, heptameron — filed
-  under prohibited, not doctrine).
-- **HINDU — THE SIDDHI FORM**: yogic iddhi and tantric siddhi include
-  manifold-body skills (ākṛśi-form concentration; the gītā's avatāra logic
-  as divine-entry-into-world). mostly closed-course (initiation-gated),
-  same graduation rule as the śaiva.
+- **BUDDHIST LIFE-FACULTY TRANSFER**: the Vinaya's institutional case —
+  monks transferring jīvitindriya (life-faculty) between bodies, dying monk
+  to living brother (Tissa/Cunda episode — exact cite at draft). logic: an
+  anattā-system still allows the ACT of gift — a transfer of vitality
+  without a transferee-self. and the strictest rule: the Buddha banned
+  public displays of iddhi to laypeople (Vinaya, the flying-monk-over-Vesali
+  incident — exact nikāya cite at draft) — the feat exists; showing it is
+  an offense.
+- **HINDU/TANTRIC SIDDHI**: course-gated body-skill (ākṛśi/form-manipulation
+  siddhi; tantras' dehāntara as advanced sādhana) — same graduation logic
+  as the śaiva: you may enter when the curriculum ends, not before.
 
-> DIR: five-panel montage, one glyph each; rules-glyph under ALL of them.
+**BORDER CASES (one breath, not our topic — flagged for fairness):**
+possession traditions where a DIFFERENT consciousness enters an ALREADY-LIVING
+body (Yoruba mount, dybbuk's bad night, Greek god-seizes-poet, Christian
+exorcism, incarnation) — that's occupancy, not one consciousness taking up
+a new body. ibbur from ch.4 is the honest Jewish answer and sits properly in
+the core family (a soul entering a living person, by permission — the
+temporary-vehicle form of the same feat). the films chapter stays a breather,
+not a claim.
 
 ## CH.6 — THE FILMS AND BOOKS (14:00–15:30)
 
@@ -144,12 +138,11 @@ let a stranger wear you. title cards only — no pop clips without clearance.
 |Christian | incarnation (once) + exorcism | divine initiative only; human-entry prohibited | body = creation, to be RESURRECTED not re-entered | dogma/grace |
 |Films/books | swap-ware | dropped rules for story | sleeves, shells, meat-puppets | no authority — the joke |
 
-**the four differences that matter:** (1) DIRECTION — self-anchoring (Śaiva)
+**the three differences that matter (core family only):** (1) DIRECTION — self-anchoring (Śaiva)
 vs god-entering (Greek/theurgic) vs spirit-riding (Yoruba) vs scheduled
-return (tulku); (2) SUBSTANCE — act (Śaiva/Tibetan) vs soul-object (Jewish/
-Yoruba) vs emanation (kāya-structure); (3) THE BODY ONTOLOGY — garment
-(Hindu gūp), seat/house (possession), display (kāyas), machine (films);
-(4) AUTHORITY — knowledge, lineage, community, god, or nobody (films).
+return (tulku); (2) SUBSTANCE — act (Śaiva/Tibetan) vs soul-object (Jewish) vs vitality-
+gift (Buddhist); (3) THE BODY ONTOLOGY — garment (gūp), emanation (kāyas),
+seat-in-course (siddhi), machine (films).
 
 the thesis: every system that admits voluntary entry instantly produces its
 four-column table. the features differ; the paperwork always appears.
