@@ -73,7 +73,7 @@ the garment-references across the series converge here.]
 > DIR: two-panel: ibbur-light entering calmly / dybbuk-shadow clinging —
 > then the garment glyph merges both panels.
 
-## CH.4 — THE TIBETAN TRANSMISSION: PHOWA (8:13–10:00)
+## CH.4 — THE TIBETAN TRANSMISSION: PHOWA (8:15–10:00)
 
 the machinery heads north in the yogas of naropa. phowa — "transference
 of consciousness at death" — is paradehapraveśa in tibetan dress, with the
@@ -86,39 +86,40 @@ this is the OPERATOR's manual angle.)
 
 > DIR: crown-ray visual; naropa-six-yogas card.
 
-## CH.5 — VARANASI: THE STATION (10:00–12:15)
+## CH.5 — EVERYONE ELSE ALREADY MADE THIS MOVIE (10:00–13:00)
 
-and if you want a MAP-COORDINATE for entry-and-exit, every tradition in
-this video agrees on one city. kashi: [READ — Sand 2010]: "Having arrived
-at the god Viśveśvara one is not born again" · "an intelligent man who does
-not want rebirth again on earth should go to avimukta" · and the moment:
-"at the time of death people lose their memory and in the moment that the
-soul departs from the body Viśveśvara… confers upon it a special mantra"
-(tāraka brahma). the perpetual fire at manikarnika never cools — the doms
-keep the entry-station staffed twenty-four hours, and the skull-crack rite
-is when the prāṇ leaves. [CALLBACK: Varanasi is NOT a separate film — it's
-this one's ground: the śaivite city of transfer, now the location spine.]
+before the guard: the trope is older and wider than any single school.
 
-> DIR: Ghats night footage slot (PULL: Manikarnika b-roll, license) +
-> Sand quotes as gold serif; fire-glyph = the series' flame motif returning.
+**the traditions that do it too.** tibetan tulkus: lamas who deliberately
+choose the next body — entry as ROUTINE, the tulku-system is paradehapraveśa
+on a career path (verify the standard cite: "the mind of enlightenment
+deliberately reincarnates" line at draft). yoruba and vodou possession: the
+spirit MOUNTS the living — the horse is ridden, the egungun speaks through
+the mask — authorized, scheduled body-sharing with a referee. (ibbur from
+ch.3 is this same category in jewish dress: permission makes possession a
+service, not a haunting.)
 
-## CH.6 — THE MODERN MIRROR: RE-ANCHORING (12:15–14:00)
+**the films and books** — culture has been shipping this idea in every form
+it can: altered carbon (sleeves — bodies as interchangeable hardware, the
+exact paradehapraveśa with a subscription), being john malkovich (entering
+another body as LITERALLY walking in), freaky friday (the comedy version),
+avatar / selfless / heaven can wait (the transfer-for-a-new-chassis romance),
+quantum leap (jumping body to body to fix things — a bodhisattva with a
+broken machine), the matrix-adjacent upload fiction. and the books: the
+shell-game of science fiction's mind-transfer (fort, dick, and their heirs)
+all the way down to children's fairy-tale rules: don't let a stranger wear you.
 
-and then the version with no god in it. thomas campbell's digital-physics
-line: consciousness is a stream of data; the body and its senses are an
-antenna plugged into one channel — and "switching data streams from the
-physical body and the senses" is what dying, or not-dying, is: re-anchoring,
-not traveling. [READ — Campbell MBT, verify exact line at draft]. the
-parallel is exact enough to say out loud: what the dhāraṇā achieves by will,
-the stream-switch describes by architecture — one feat, two grammars.
+the pattern: whenever a culture takes this idea seriously it immediately
+writes RULES — permission (ibbur), graduation (thirty-six tattvas),
+schedule (phowa's map), costume (tulku). nobody in the history of the idea
+has ever proposed it without a rulebook. that's the anthropological find of
+this special: the feat is universal, the rules are where the traditions live.
 
-observer note: campbell is a physics-framed metaphysician, not evidence.
-quoted as a mirror, not a proof — same rule as every stop in the series.
+> DIR: four-panel: tulku-lineage glyph · mounted-spirit mask · sleeve-swap
+> · mallows-closet-door (cleared pop references as title cards only, no
+> clips without clearance) — then all four collapse into the rulebook glyph.
 
-> DIR: split-screen: dhāraṇā-visual vs data-stream-switch (the film's
-> only machine-imagery; card: "same mechanism, two grammars").
-
-## CH.7 — GUARD + CLOSE (14:00–16:00)
+## CH.6 — GUARD + CLOSE (13:00–16:00)
 
 the guard, from our own sessions [READ — pushing-tantraloka hardest-objections/
 karma-rebirth, verbatim at draft]: karma is niyati — law. svātantrya is

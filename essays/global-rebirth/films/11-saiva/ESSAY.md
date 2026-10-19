@@ -108,6 +108,28 @@ sacred-place matters here exactly as Kashi matters in the Hindu film.
 > body's layers retract upward (tattva-ladder as anatomy: world-segments
 > lifting off into light) → white-flash. ≥20s take.
 
+## B8b — THE STATION: VARANASI (16:00–18:00, act III location beat — owner: kashi lives HERE, not in the special)
+
+and because "the place of death matters" in this system, there is one
+coordinate where the whole doctrine has a street address: kashi.
+[READ — Sand 2010]: "Having arrived at the god Viśveśvara one is not born
+again." · "If an intelligent man does not want rebirth again on earth, he
+should go to Avimukta which is frequented by gods, ṛṣis and gaṇas." the
+moment, in their own text: "at the time of death people lose their memory
+and in the moment that the soul departs from the body Viśveśvara… confers
+upon it a special mantra (tāraka brahma) by which the deceased becomes
+[liberated]." — the god meets the departing soul at the exit-station with
+a key-phrase.
+
+this is where sālokya/sāmīpya gets its geography (dying in sacred places),
+where the perpetual fire at manikarnika never cools — the doms staff the
+entry point around the clock — and where the skull-crack rite marks the
+exact release of the prāṇ. the śaivite film's dominant image gains its
+ground: the mirror stands on a ghat.
+
+> DIR: ghats night slot (PULL: Manikarnika b-roll, license) — fire-glyph of
+> the series returning; Sand quotes gold serif; three-cite card.
+
 ## B9–B10 / CH.4b — METAPHYSICS + THE CLIMAX (16:00–20:30, act III)
 
 > Rhythm: 2s hold after "death is not a prerequisite for final release" ·
