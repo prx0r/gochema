@@ -137,15 +137,11 @@ make it clearer?" — repeated as motif until the shared-ontology turn.
 - Shared: "they agree on everything except what carries it — like six
   airlines arguing about what happens to your luggage."
 
-### After S15 (shared metaphysics distillation + callbacks)
-NEW BEAT S15b (place after callbacks, before FAQ): SCIENCE — ONE HONEST CARD,
-≤45s, cite-only (keeps v2 as the full treatment): "and what does the science
-of it say? honestly — nobody's proved or disproved it. the forest tradition
-says it themselves: it's a wager. meanwhile AWARE-II had 21% of cardiac-
-arrest survivors recalling death with brainwaves an hour in, and a biologist
-named Levin studies meditators whose bodies don't rot. that's not proof.
-that's not nothing either. deep dive on that next video." (Sources:
-SCIENCE-REVIEW.md. Voice = observer, your register.)
-Better-direction verdict: yes to this compact beat over skipping science —
-the shared-metaphysics distillation raises "is any of this real?" and
-leaving it blank breaks the fairness law. But ONE card, not a section.
+### SCIENCE: CUT (owner 2026-10-19) — v1 is pure Buddhism
+The S15b science card is REMOVED. No AWARE-II, no Levin in v1. All science
+stays queued for the standalone "Science of Rebirth" video (STRUCTURE-V1V2.md).
+The gap it leaves after callbacks is filled by FAQ → cliffhanger directly.
+
+
+## RHYTHM UPDATE 2 (owner): shared metaphysics → callbacks → FAQ → cliffhanger
+No science anywhere in v1.
