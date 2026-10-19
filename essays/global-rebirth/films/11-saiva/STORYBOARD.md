@@ -18,7 +18,7 @@
 |---|---|---|---|---|---|
 | S05 | 4:00–5:15 | Axe scene: blade strikes its own edge (impossible-frame gag, then dissolve) | [READ — Nyāya axe-line via Ratié] + ch.3 narration | the regress diagram | 75s |
 | S06 | 5:15–6:15 | Three-power timeline: jñāna–smṛti–apohana unifying a thread across years | [READ — Ratié IPK outline: three powers] | ĪPK 1.3.7 cite | 60s |
-| S07 | 6:15–7:15 | Face-fill: "that, is me" — recognition-as-surprise (quick-cut: ordinary faces, one hit) | [READ — Ratié: felt-surprise quote] | gold serif | 60s |
+| S07 | 8:00–9:15 | Face-fill: "that, is me" — recognition-as-surprise (QUICK-CUT: 5 faces ≤2s each, one hit — film's only fast section, B6) | [READ — Ratié: felt-surprise quote] | gold serif | 60s |
 | S08 | 7:15–9:45 | Mirror-walk start; at merge: **tattva-ladder retraction** — body layers lifting off segment-by-segment into light (36-tattva reverse-evolution) | CH.4 three-layer reads (Tantrasāra udāna/dvadasanta · retraction · ch.16 post-mortem dīkṣā) | retraction-ladder card + dvadasanta marker | 150s |
 
 | S08b | 9:45–11:00 | Spider-web overlay + knot-points lighting (three malas) | CH.4b reads: PS 16 fettered beast · PS 32 spider · "death is not a prerequisite" | malas card; jīvanmukti card | 75s |
@@ -33,7 +33,8 @@
 | S12 | 13:50–14:00 | Black + bell | silence | series-next teaser placeholder | 15s |
 
 ## Totals
-~14:00 core (re-timed for CH.4+4b depth). Expansion path (20–30): split CH.3 into its own movement
+Movie cut: 26:00 per STRUCTURE.md (core rows re-timed; old 14:00 = trimmed variant).
+Rhythm: slow → burst(B6) → hold(B7) → deep → staccato(B11) → exhale(B12) → bell. Expansion path (20–30): split CH.3 into its own movement
 (axe/regress + synthesis + surprise = 3×60s, deeper reads from Torella), add
 bardo-comparison beat (same Indian grammar as Tibetan — cite egyptian-tibetan
 mapping file), Abhinavagupta parināma section (material for the Bergson
