@@ -43,30 +43,30 @@ another, the original flame does not travel unchanged").
 ## CANONICAL EXPLAINER PER SCHOOL — GOAT roster (owner-curated)
 
 > One GOAT voice per seat. Hand-picked (owner 2026-10-19): no Sumedho.
-> Video IDs from the open web. Same IP caveat: transcripts/downloads blocked on
-> this box (pull needs cookies/egress) — IDs verified, windows not yet cut.
-> Prefer short cuts from the chaptered talks; don't ship a 70-min clip.
+> **All main clips ≤20 min** (owner rule 2026-10-19). Video IDs from the open
+> web; durations verified via Data API / yt-dlp. Transcripts/downloads blocked
+> on this box (pull needs cookies/egress) — IDs verified, windows not yet cut.
+> Longer chaptered talks are noted as "deeper cut" only (cut a ≤15s window).
 
 | Seat | Teacher | videoId | Len | Clip / note |
 |---|---|---|---|---|
-| **Early Buddhism** (vortex / burden-of-proof) | **Hillside Hermitage** (Ajahn Ñāṇamoli Thero) | `sVc45SXDrEQ` | 10:58 | **244hh "Is Belief in Rebirth Necessary?" (MN 60)** — MN 60 IS the burden-of-proof sutta (how far to trust a claim). THE burden-of-proof-on-rebirth clip. alt `QXdTop65GTQ` (04hh "Do we live only once?", 8:33, has transcript) |
-| **Thai forest** | **Ajahn Chah** | `WvDk3K0pYoA` | 41:04 | "Why are We Here?" — his final teaching on life/death; chaptered → cut short |
+| **Early Buddhism** (vortex / burden-of-proof) | **Hillside Hermitage** (Ñāṇamoli) | `sVc45SXDrEQ` | 10:58 | 244hh "Is Belief in Rebirth Necessary?" (MN 60 = the burden-of-proof sutta). alt `QXdTop65GTQ` 04hh "Do we live only once?" 8:33 (transcript on disk) |
+| **Thai forest** | **Ajahn Chah** | `5cTN2gcHwME` | 9:16 | "No Ajahn Chah — Birth & Death" (deeper cut: `WvDk3K0pYoA` "Why are We Here?" 27:33, chaptered) |
 | **Pa-Auk** (relinking / verification) | **Beth Upton** | `tcur6EplDVA` | 6:07 | Discerning the rebirth moment |
-| **Tibetan / substrate** | **Alan Wallace** | `UxS95RrOe7o` | 6:05 | About Substrate Consciousness (the model) |
-| **Tibetan / Dzogchen** | **Lama Lena** | `KLNR6F07xyo` | — | Q&A: Karma, Lineage, Death & Dreaming |
-| **Tibetan / Lamrim** (bardo process) | **Thubten Chödrön** | (Sravasti Abbey YT) | — | "The death and rebirth process" (thubtenchodron.org) — clear-light → bardo → conception |
-| **Zen** | **Thich Nhat Hanh** | `AwoTsoeIfcQ` | short | No Birth, No Death (alt `LFBgfOPR0rQ` "No coming, no going") |
-| **Yogācāra** (storehouse / alaya) | **Thich Nhat Hanh** (Plum Village) | `T2WJ5Ts6ui0` | — | Class #34: The Role of Store Consciousness |
-| **Madhyamaka** (emptiness / no one reborn) | **Jan Westerhoff** (Oxford) | `CyhHz23AHb4` | — | "All Things Are Empty" (CosmicSkeptic × Westerhoff, 322K) — alt clean explainer `gWZ-OnmKl70` Let's Talk Religion |
-| **Pure Land** (rebirth by vow) | **Shifu Shengchi** | `bj9ytKtn3lE` | — | Who Is Amitabha Buddha? (alt `gsnJxGReV28`) |
+| **Tibetan** (substrate / bardo) | **Alan Wallace** | `UxS95RrOe7o` | 6:05 | About Substrate Consciousness (the model) |
+| **Zen** | **Thich Nhat Hanh** | `AwoTsoeIfcQ` | 11:27 | No Birth, No Death (alt `LFBgfOPR0rQ` "No coming, no going") |
+| **Yogācāra** (storehouse / alaya) | **Thich Nhat Hanh** (Plum Village) | `5yYZMwTw7wM` | 11:26 | "What is consciousness?" (deeper cut: `T2WJ5Ts6ui0` Class #34 Store Consciousness, 84:18) |
+| **Madhyamaka** (emptiness / no one reborn) | **Jan Westerhoff** (Oxford) | `mNj7UrsKTOk` | 10:31 | "Is there an external world?" (deeper cut: `CyhHz23AHb4` CosmicSkeptic × Westerhoff, 104:37; alt clean explainer `gWZ-OnmKl70` Let's Talk Religion 23:36) |
+| **Pure Land** (rebirth by vow) | **Shifu Shengchi** | `bj9ytKtn3lE` | 5:25 | Who Is Amitabha Buddha? (alt `gsnJxGReV28`) |
 
 Notes:
 - Thich Nhat Hanh / Plum Village carries **both** Zen and Yogācāra seats.
+- Tibetan main = Wallace (6:05). Deeper Tibetan pulls (long, cut a window):
+  **Lama Lena** `KLNR6F07xyo` (108:00 Q&A Karma/Death/Dreaming) · **Thubten
+  Chödrön** (Sravasti Abbey — "The death and rebirth process", clear-light→bardo→conception).
 - Bhikkhu Bodhi's written "Rebirth" talk (budsas.org) has a **"(6) Simile of
   the candle"** section — strongest doctrinal candle match; pair his short
   video `peyvXUSbNVk` with that quote if we want a Theravāda candle voice.
-- Hillside Hermitage + Thubten Chödrön need a specific clip pinned (channel/
-  site identified, exact video TBD).
 
 ### 🎯 Hillside Hermitage Archive (transcript source — bypasses the IP block)
 `archive.hillsidehermitage.org` — **546 talks, 129 WITH transcript PDFs**, each
