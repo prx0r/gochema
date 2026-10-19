@@ -130,7 +130,7 @@ ground: the mirror stands on a ghat.
 > DIR: ghats night slot (PULL: Manikarnika b-roll, license) — fire-glyph of
 > the series returning; Sand quotes gold serif; three-cite card.
 
-## B9–B10 / CH.4b — METAPHYSICS + THE CLIMAX (16:00–20:30, act III)
+## B9–B10 / CH.4b — METAPHYSICS + THE CLIMAX (18:00–22:00, act III)
 
 > Rhythm: 2s hold after "death is not a prerequisite for final release" ·
 > white-flash + 2s black at B10's "I am not dying."
@@ -157,7 +157,7 @@ deadline off the table. and the cold-open mirror gets its source: [READ —
 PS 9]: "As the face is revealed in a spotless mirror, so This (Self) is
 revealed as light in the mind purified by śaktipāta."
 
-## B11 / CH.5 — GUARD (20:30–22:30, act IV — hard cuts only, no dissolves)
+## B11 / CH.5 — GUARD (22:00–24:00, act IV — hard cuts only, no dissolves)
 
 says who: the only school that turns no-self positive without reinstalling a
 passenger — recognition-act, not substance. and the corpus is unbroken:
@@ -171,7 +171,7 @@ buddhist rejoins — you re-named the process; the dust of the charge from the
 jain film: you reified again. [READ — one objection verbatim from the
 session file, at draft].
 
-## B12–B13 / CH.6 — THE FACE RECOGNIZED + CLOSE (22:30–26:00, act IV)
+## B12–B13 / CH.6 — THE FACE RECOGNIZED + CLOSE (24:00–27:30, act IV)
 
 so what is death, here? the moment the mirror stops being funny. the loop of
 not-seeing that was wearing bodies ends — or starts again. there is no
@@ -180,7 +180,7 @@ commute; there is either the face or another room of not-faces.
 > B12 DIR: recognition reprise — SAME camera height, SAME mirror as B1, but
 > the reflection is lit divine from FRAME 1 (the callback law: mismatch now
 > reversed). longest exhale of the film: 5s hold, no cuts, no narration
-> until 2s in. > B13 DIR: bell, black, series-next card.
+> until 2s in. > B13 DIR: bell, black, series-next card. Runtime now ~27:30 with B8b (was 26:00).
 
 [END — film 11. Series close (five-family table, finale) rides in the
 series' own episode per _shared/CLOSE.md when the cycle completes.]

@@ -1,6 +1,6 @@
 # STRUCTURE — film 11 as a MOVIE (beats + rhythm)
 
-> Beethoven mapping (family doctrine) + CINEMA rules. Runtime target 26:00.
+> Beethoven mapping (family doctrine) + CINEMA rules. Runtime target 27:30 (B8b Varanasi added per owner).
 > Bell = the film's metronome (one strike per act boundary, silence for the
 > money shot). Speed: reads slower (~130wpm), bridges at 150.
 
@@ -10,8 +10,8 @@
 |---|---|---|---|
 | **I — THE MIRROR** (exposition) | B1 cold-open scene · B2 two-layers · B3 the question-flip | 0:00–5:00 | state the motif: recognition, not transit |
 | **II — THE PROOF** (development) | B4 axe/regress · B5 synthesis (three powers) · B6 felt-surprise · B7 MIRROR-MERGE money shot | 5:00–12:30 | motif varied: every proof returns to "that, is me" |
-| **III — THE MOMENT** (development deepens) | B8 four-layer death (prāṇa/retraction/ritual/destinations) · B9 the metaphysics (malas/spider/deadline-off) · B10 self-initiation climax ("I am not dying") | 12:30–20:30 | the payload: exact-moment + why-it-repeats + the exception |
-| **IV — THE FACE** (recapitulation, changed) | B11 guard (objection cards) · B12 recognition-reprise (mirror returns, now lit) · B13 close + next-hook | 20:30–26:00 | motif returns carrying everything: the face was always there |
+| **III — THE MOMENT** (development deepens) | B8 four-layer death · **B8b VARANASI station (owner: kashi lives here)** · B9 malas/spider/deadline-off · B10 climax ("I am not dying") | 12:30–22:00 | the payload: exact-moment + why-it-repeats + the exception |
+| **IV — THE FACE** (recapitulation, changed) | B11 guard · B12 recognition-reprise · B13 close | 22:00–27:30 | motif returns carrying everything: the face was always there |
 
 ## Beat table (rhythm-bearing)
 
@@ -24,12 +24,13 @@
 | B5 | 6:45–8:00 | three powers | timeline builds in 3 beats, one per power (jñāna/smṛti/apohana), 3-click rhythm |
 | B6 | 8:00–9:15 | felt-surprise | quick-cut montage (faces ×5, one hit) — the film's only fast section (cut density ≤2s) |
 | B7 | 9:15–12:00 | **MIRROR-MERGE money shot** | ONE TAKE ≥20s. no cuts, no narration for first 6s (bell at merge), voice enters under retraction |
-| B8 | 12:30–16:00 | four-layer death | steady lecture-rhythm reads; the destinations ladder builds level by level (4 clicks) |
-| B9 | 16:00–18:30 | malas + spider + deadline-off | web overlays; SLOW on "death is not a prerequisite" — 2s hold after the line |
-| B10 | 18:30–20:30 | SELF-INITIATION climax | the peak: Brahmavidyā line delivered with [slowly]; white-flash at "I am not dying"; 2s black |
-| B11 | 20:30–22:30 | guard | hard cuts only (objections are arguments: no dissolves) — 3 cards, 1 cut each |
-| B12 | 22:30–24:45 | recognition reprise | mirror returns, reflections ALREADY lit from B1 (the callback logic: it was lit frame 1); longest exhale of the film |
-| B13 | 24:45–26:00 | close + hook | final line, bell, black; series-next card |
+| B8 | 12:30–16:00 | four-layer death | steady lecture-rhythm reads; the destinations ladder (4 clicks) |
+| B8b | 16:00–18:00 | VARANASI station | ghats fire-slot; Sand quotes gold serif; 3 cites; SLOW (location beat) |
+| B9 | 18:00–20:30 | malas + spider + deadline-off | web overlays; SLOW on "death is not a prerequisite" — 2s hold after the line |
+| B10 | 20:30–22:00 | SELF-INITIATION climax | the peak: Brahmavidyā line delivered with [slowly]; white-flash at "I am not dying"; 2s black |
+| B11 | 22:00–24:00 | guard | hard cuts only (objections are arguments: no dissolves) — 3 cards, 1 cut each |
+| B12 | 24:00–26:30 | recognition reprise | mirror returns, reflections ALREADY lit from B1 (the callback logic: it was lit frame 1); longest exhale of the film |
+| B13 | 26:30–27:30 | close + hook | final line, bell, black; series-next card |
 
 ## Rhythm laws (specific to this film)
 1. **Bell = act marker** (I/II/III/IV strikes) + merge-strike at B7. Never
