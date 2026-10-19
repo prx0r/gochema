@@ -82,6 +82,9 @@ tukdam-project link (thoughtforms post), his Platonic-space substack (fetch),
 
 ---
 
+## STATUS (2026-10-19 late)
+- GLOBAL REBIRTH: full compilation (resources 01-13 + RESEARCH-ADDENDA + WEAVE-GLOBAL + ONTOLOGY) AND full master script (essays/global-rebirth/ESSAY.md, 2-part, 2,680w) DONE.
+
 ## Queue order (my read)
 1. **Finish rebirth v1** (voice review + prototype) — critical path.
 2. Recognition (compile is basically done — argument map exists).
