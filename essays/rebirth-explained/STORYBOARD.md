@@ -33,11 +33,12 @@
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
 | S14 | 11:15–12:15 | Five-column comparison table (all five mechanisms side by side, one row each) | OWNER: "we can compare the general shared ontology and metaphysics across schools without being lectury" + short source-voiced agreement rows | shared-ontology table (5 rows) | 60s |
-| S15 | 12:15–13:30 | Question cards land one by one | OWNER verbatim: "hard questions like how does karma work , origins of the universe, metaphysics etc" + SOURCE-VO one-line answers (teachers' words, ≤10s each) | five-question card (v2 trailer) | 75s |
-| S16 | 13:30–14:00 | Flame goes out | OWNER: nothing further (coda = silence + flame-out) | end card | 30s |
+| S15 | 12:15–13:00 | FAQ cards land one by one | OWNER VOICE or compiled: the best counter-argument in the opponent's words (FAQ.md bank) + one-line answers | FAQ card (fairness law) | 45s |
+| S16 | 13:00–13:55 | Vortex re-forms, moment after moment (fire-simile motif reused, now as *ongoing* process) | **CLIFFHANGER ENDING — OWNER WRITES (placeholder):** the Nanavira/Nanamanda psychological interpretation: rebirth is constantly happening; Buddhist notions of time (kṣaṇa/santāna — moment and stream); tension held, not resolved | kṣaṇa/santāna cards (Trumbull/Jung cite optional, card-only) | 55s |
+| S17 | 13:55–14:00 | Black. One line: "Stream Entry Actually Explained — next." | none | end card | 5s |
 
 ## Totals
-840s = 14:00.
+840s = 14:00 (S15 trimmed vs old 75s per trilogy ruling; FAQ replaced the science question-trailer).
 
 ## CLIP KEY (PULL-REQUIRED before render)
 - 10× flame/water voices (record our own TTS chorus — no clearance)
