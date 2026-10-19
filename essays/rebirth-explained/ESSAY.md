@@ -2,7 +2,10 @@
 
 > Format: gcomedy script — beat headers = storyboard rows. [OWNER VERBATIM]
 > = draft1 words, exact. Written autonomously (owner: "write it all out").
-> Word count target: ~1,900 spoken + frames ≈ 14:00 with clips/pauses.
+> RUNTIME TARGET: 30:00 (owner 2026-01-19 fix: 2026-10-19) — see RUNTIME-30.md.
+> This file = the 14-min skeleton + frame verbatim; NEXT COMMIT adds: ch.2 PROBE,
+> deepened per-school sections (word budgets in RUNTIME-30), ch.9 NĀṆAVĪRA-TIME
+> (fs-TIME-PASSAGES.txt + skip marker). ~2,580 words total at 30 min.
 
 ---
 

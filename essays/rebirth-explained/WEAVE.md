@@ -167,3 +167,26 @@ Entries flagged "via" = quoted by the scholar from the primary — cite BOTH whe
 **[HH3] Ñāṇamoli, ibid.** — "temporal things (events in time) are possible *only* because there is an atemporal structure (*nature* of time) – time is *secondary* to one's experience. Hence, the p.s. is said to be *akālika*, 'timeless'." — S17 (the Buddhist-time comment, in the school's own words).
 
 **[HH4] Ñāṇamoli (via r/HH, partial — full chain pending unblock)** — "Rebirth is a claim, and that claim has a burden of proof. Without proof, the default is not to have a belief in…" — S16 FAQ fairness line.
+
+---
+
+## N. DEEP READ-SETS for the 30-min cut (RUNTIME-30 budgets)
+**[RS-T1 Theravāda]** MN 38 full read-passage (three-conditions, quotes/mn.038.than.txt,
+   already banked TH1) + AbSanga §12 relinking (TH2) + §13 javana footnote (TH3)
+   — the footnote is the drama: everyone thinks the death-thought decides; the
+   text says it doesn't.
+**[RS-T2 Yogācāra]** Y1 + Y2 (seed/support + nurturing into next life) + the
+   nirodhasamāpatti origin story (SEP: what happens to consciousness when
+   ALL consciousness ceases in deep absorption? — the problem that FORCED the
+   store; best "what's going on" narrative) + Y3 identity line.
+**[RS-T3 Pure Land]** PL1 full 18th-vow read (BDK) + PL3 entrust gāthā + the
+   lotus-bud school debate (Hōnen vs Shinran — treatment).
+**[RS-T4 Madhyamaka]** M1 middle read (sn12.015) + M2 four-positions (sn22.086)
+   + owner guard (draft1) + Yamaka opening view (TH4) as the opponent.
+**[RS-T5 Tibetan]** dissolution-table narration (library/tibetan: element →
+   external sign → what ceases — read column by column as VO) + T1 Kongtrul
+   + T2 clear-light recognition + 49 days + tukdam.
+**[RS-T6 Nanavira-time]** fs-TIME-PASSAGES.txt paras (lamp+clock duration;
+   o/x interchange; space not spatial) + HH1–3 (With birth, death applies) +
+   E6 whirlpool convergence.
+**[RS-PROBE]** owner's new text (RUNTIME-30 §PROBE) + Vism three-deaths.
