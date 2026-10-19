@@ -147,3 +147,11 @@ was a crowd") — guards against the "Pure Land = just chanting" flattening.
 - **Token audit:** the pasted `cfat_…` token verifies active and hashes
   identical to the stored ICY token — already wired in `/root/.r2-env`, nothing
   to change. (Never print tokens; hashes compared, not values.)
+
+## FA-TSANG + JOURNEY IMPORTED (2026-10-19, from stallshark)
+- `library/huayan/fa-tsang-five-doctrines-cook-1970.pdf` — verified 563pp Cook
+  1970. 235MB scan → gitignored (GitHub 100MB limit); lives on disk + stallshark.
+  Feeds the Huayan upgrade card (five doctrines, Dharmadhātu vs Yogācāra).
+- `library/tantra/journey-in-the-world-of-the-tantras-dyczkowski.pdf` — 316pp,
+  in git. Kashmiri Śaiva + Kubjikā essays; feeds the shared-ontology color
+  (one-mind / self-awareness parallels), not doctrine.
