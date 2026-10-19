@@ -96,7 +96,7 @@
 
 **[PL2] BDK translator's introduction** — "those who, having heard the Name of Amitāyus, rejoice in faith and are mindful of him will be born in the Pure Land and dwell in the stage of non-retrogression." — ibid. — S13.
 
-**[PL3] Vasubandhu, Treatise on Rebirth (Tanluan commentary)** — "I single-mindedly Entrust my life to the Tathagata of Unhindered Light shining throughout the Ten Directions; May I be reborn in the Land of Peace and Joy. my life to the Tathagata of Unhindered Light shining throughout the Ten Directions; May I be reborn in the Land of Peace and Joy." — hand via search — S13 (the owner-line of grace).
+**[PL3] Vasubandhu, Treatise on Rebirth (Tanluan commentary)** — "I single-mindedly Entrust my life to the Tathagata of Unhindered Light shining throughout the Ten Directions; May I be reborn in the Land of Peace and Joy." — hand via search — S13 (the owner-line of grace).
 
 ---
 
