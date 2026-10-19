@@ -30,8 +30,9 @@
    sanderson + ibn-arabi + Utpaladeva HOS galley). Build this as the
    TEMPLATE film: six-field core → full script → storyboard → cinema pass.
    The mirror-merge money-shot defines the visual standard for the rest.
-2. **VARANASI FILM NEXT** (new, special — location-anchored, the most
-   cinematic possible: "what death means when the city's job is dying").
+2. **VARANASI → FOLDED into the special** "Enter Another Body At Will"
+   (films/specials/enter-another-body/) — owner 2026-10-19: kashi IS the
+   śaivite entry-station, one film. Research stays banked below:
    Research banked: Sand 2010 (Kashi confers release; Viśveśvara's
    tāraka-brahma mantra at soul-departure; "avoids old age and death…
    intolerable dwelling in a womb"), Skanda/Kashi-Khanda quotes, Manikarnika

@@ -86,7 +86,8 @@ tukdam-project link (thoughtforms post), his Platonic-space substack (fetch),
 - GLOBAL REBIRTH: compilation DONE (resources 01-13, RESEARCH-ADDENDA, WEAVE-GLOBAL, ONTOLOGY). Structure CORRECTED: 13 ONE-FILM projects under films/ (cores extracted from master material, shared frame/close factored). NEXT: expand each core to full 20-30min script (start films/01-hindu).
 
 ## QUEUE (owner ruling 2026-10-19, from CINEMA.md)
-1. ŚAIVA FILM — build as the template (perfect it: core→full script→storyboard→cinema pass)
+1. ŚAIVA FILM — TEMPLATE script+storyboard done (films/11-saiva, movie structure).
+1b. SPECIAL "ENTER ANOTHER BODY AT WILL" — SCRIPT WRITTEN (films/specials/enter-another-body): Śaiva mechanism + Jewish ibbur/dybbuk + phowa + Varanasi-as-station + Campbell re-anchoring mirror.
 2. VARANASI FILM — special, location-cinema (research banked in CINEMA.md)
 3. Remaining 12 tradition films, buddhist-v1 recipe each.
 Death-shelf import DONE (library/death/: Hornung 222pp, Duat, Garuda Purana,
