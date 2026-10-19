@@ -41,3 +41,18 @@ kammatthāna. Inherits standard Theravāda Abhidhamma rebirth mechanics
   forest position in Thanissaro's own words.
 - Adhiṭṭhāna (Mun's elephant) = 10-second card under "origins/karma
   mechanics" — the strangest verified-in-tradition data point.
+
+## "WHERE DO THEY GO?" — the canonical answer bank (Thanissaro, verbatim from imported texts)
+- Unawakened: "Rebirth… happened to those who still had clinging, but not to
+  those who didn't (SN 44.9)." / "as long as the mind still has the craving
+  that leads to rebirth after death" (Truth of Rebirth).
+- The sustained-vehicle line: SN 44.9 Vacchagotta-fire — "craving-sustained"
+  (already QUOTES.md).
+- Arahants, the striking image: "his consciousness could no longer be found in
+  the cosmos… after the end of this life, the world would see him no more"
+  (DN 1, via Thanissaro).
+- Stage math: up to 7 births (stream-enterer) → 1 human return (once-returner)
+  → Pure Abodes then liberation (non-returner) → no rebirth (arahant), AN 3.86.
+- New imports: `truth-of-rebirth.pdf` (73pp, dhammatalks Archive) + full HTML
+  sections + `thanissaro-karma.txt` (ATI). "Where do they go" = the karma
+  essay + Truth of Rebirth §where-the-teaching-leads.
