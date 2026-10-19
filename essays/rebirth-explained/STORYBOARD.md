@@ -146,6 +146,30 @@ The gap it leaves after callbacks is filled by FAQ → cliffhanger directly.
 ## RHYTHM UPDATE 2 (owner): shared metaphysics → callbacks → FAQ → cliffhanger
 No science anywhere in v1.
 
+
+### SEGMENT A ORDER UPDATE (owner brief 2026-10-19 — see STRUCTURE-SEGMENTS.md)
+New school order (S08→S14): THERAVĀDA (open, incl. three-deaths + Thai Forest
+card) → YOGĀCĀRA → PURE LAND → MADHYAMAKA → TIBETAN → NĀṆAVĪRA/HH (last,
+cut just before... cliffhanger flows straight from HH "birth is present").
+Each row now carries 5 compiled fields (resources wrap owner words):
+WHAT · WHAT'S-GOING-ON · EXACT-MOMENT-OF-DEATH (definitions in
+STRUCTURE-SEGMENTS) · LOGICAL ARGUMENT (WEAVE ID) · PRIMACY CLAIM.
+Owner writes each nutshell's actual sentences; rows get Audio = [OWNER WORDS].
+
+| # | old row | new slot |
+|---|---|---|
+| S08 | TIBETAN → | THERAVĀDA (3 deaths + cuti; Forest card) |
+| S09 | YOGĀCĀRA → | YOGĀCĀRA (store withdrawal, body cools) |
+| S10 | THERAVĀDA → | PURE LAND (deathbed welcome) |
+| S11 | FOREST card | folds into S08 card |
+| S12 | EARLY → | MADHYAMAKA (refusal as definition) |
+| S13 | PURE LAND → | TIBETAN (dissolution table → luminosity) |
+| S14 | MADHYAMAKA → | NĀṆAVĪRA/HH (present-birth; WEAVE HH1-3) |
+| S15-S18 | unchanged | shared ontology → FAQ → S17 cliffhanger (HH primary) → end |
+
+DEATH-MOMENT beat added inside each nutshell row (overlay card: "moment of
+death: <tradition's definition>" — sources STRUCTURE-SEGMENTS.md).
+
 ## GOAT ADDITIONS (owner, 2026-10-19)
 - S16 FAQ: add DHARMAKĪRTI card — the tradition's courtroom proof
   (PV II.34-131, mental-causes-mental, newborn-like-waking) + the best
