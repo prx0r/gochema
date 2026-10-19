@@ -85,6 +85,13 @@ tukdam-project link (thoughtforms post), his Platonic-space substack (fetch),
 ## STATUS (2026-10-19 late)
 - GLOBAL REBIRTH: compilation DONE (resources 01-13, RESEARCH-ADDENDA, WEAVE-GLOBAL, ONTOLOGY). Structure CORRECTED: 13 ONE-FILM projects under films/ (cores extracted from master material, shared frame/close factored). NEXT: expand each core to full 20-30min script (start films/01-hindu).
 
+## QUEUE (owner ruling 2026-10-19, from CINEMA.md)
+1. ŚAIVA FILM — build as the template (perfect it: core→full script→storyboard→cinema pass)
+2. VARANASI FILM — special, location-cinema (research banked in CINEMA.md)
+3. Remaining 12 tradition films, buddhist-v1 recipe each.
+Death-shelf import DONE (library/death/: Hornung 222pp, Duat, Garuda Purana,
+TBOTD txt, egyptian-afterlife-papers ×27, mappings, Ecology of Souls 1,885pp).
+
 ## Queue order (my read)
 1. **Finish rebirth v1** (voice review + prototype) — critical path.
 2. Recognition (compile is basically done — argument map exists).
