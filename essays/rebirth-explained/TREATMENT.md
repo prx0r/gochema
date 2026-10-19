@@ -77,3 +77,35 @@ Shan-tao lotus-bud analysis.
 
 ## Visual grammar
 One transit motif per school (breakers / granary / 17-frame strip / vortex / lotus Uber), shared timeline ruler (death → ? → birth) so the five mechanisms are directly comparable. No robes-and-temples B-roll; diagrams only.
+
+## POPULATED FROM OUR HOLDINGS (deep dig 2026-10-19)
+- Old-box `source-library/buddhism/`: Manjusri chanting PDF, Tsongkhapa
+  Lamp Five Stages (completion-stage/death yoga — feeds Tibetan nutshell),
+  15 Analayo Satipatthana lecture PDFs (in-theseeen → awakening series),
+  `tibetan-book-of-dead-reference.md` (six-bardo table + element-dissolution
+  sequence — the Tibetan nutshell's shot list), `nanananda-comparative-analysis.md`
+  (nāma-rūpa third position — the Early Buddhism nutshell's thesis line).
+- Old-box `research-library/BUDDHIST-REVIEW-stream-entry-arahant.md`:
+  sotāpatti as recognition (Nanavira's 27.6.1959 declaration) — the film's
+  "verify it yourself" beat has a documented case.
+- R2 `sleepyshorts/andres-*buddhamind*/aggregates-buddhism/`: anatta/aggregates
+  gems with STORYBOARD.md + timed transcripts — reusable kinetic templates for
+  the no-self beat. `renders/canonical-test/` pack scaffolding for new packs.
+- "fujin": ZERO hits across bucket (33k objects), both volumes, old-box
+  projects. No such PDF in our holdings — send a fuller title if it exists.
+
+## SCHOOLS AUDIT — three additions
+6. **Madhyamaka (Nāgārjuna)** — MISSING, add 90 seconds. The logic engine
+   behind the whole film: tetralemma demolition, emptiness of inherent
+   existence — rebirth without anything that is reborn. Nutshell: "nothing
+   travels because nothing is findable."
+7. **Sarvāstivāda vs Theravāda: the antarabhava fight** — MISSING, add as
+   drama beat. The historical controversy: does an intermediate state exist at
+   all? Sarvāstivādins said yes (gandharva), Theravāda orthodoxy said no-gap
+   (paṭisandhi immediacy), Tibet inherited the yes. This IS the "does someone
+   have a better explanation?!" fight — stage it as one.
+8. **Tathāgatagarbha/Buddha-nature** — fold into Pure Land nutshell as its
+   engine (why grace can work: the seed is already buddha) + Tibetan
+   luminosity link. No separate segment — it is infrastructure, not a rival.
+Out of scope (noted, not filmed): Zen (see Dōgen beat as one line if needed),
+Nichiren, Tiantai/Huayan — scholastic detail the compression doesn't need.
