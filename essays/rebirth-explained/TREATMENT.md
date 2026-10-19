@@ -1,0 +1,79 @@
+# MAGNUM OPUS — Buddhist Reincarnation, Actually Explained (treatment)
+
+> Status: research locked, treatment draft. V1 reading + v2 shells to follow.
+> Stance (owner's): an idiot's compression. No critique of Buddhism, no NDE
+> literature, no Ian Stevenson — cut to the chase: what each school says
+> CONTINUES, and the mechanism by which it continues.
+
+## HOOK (locked beats)
+1. Cold open: "If rebirth is true, why can no one tell you how it works?"
+2. Montage: flame lit from flame ×10 voices; water poured glass to glass;
+   Harari clip (cows/superintelligence beat — clearance at pull).
+3. Turn: "Does someone have a better explanation?! Of course — the traditions
+   HAVE explanations. Five of them. Here they are, compressed."
+4. Frame card (owner voice): eightfold path → faith/conviction → verify in
+   your own experience → nibbāna. Horror-gaze vs lizard-paranoia fork stated
+   once, then dropped — the film is the compression, not the dread.
+
+## THE FIVE NUTSHELLS (each ~2 min: mechanism, what continues, killer image)
+
+### 1. Tibetan — the bardo transit
+Death = five-element dissolution (earth→water→fire→wind→consciousness);
+Ground Luminosity flashes; miss it and the mental body wakes in the bardo
+(≤49 days), blown by karma-winds to rebirth. Tukdam = masters resting in the
+clear light, body undecaying, warmth at the heart. CONTINUES: the subtle
+mental continuum + karmic imprints. IMAGE: elements shutting off like breakers.
+Sources: Bardo Thödol (Karma Lingpa), Rubin/Dzigar Kongtrul, tukdam studies.
+
+### 2. Yogācāra — the storehouse
+No self, yet karma lands on schedule — because ālayavijñāna stores every act
+as bīja (seed)/vāsanā (perfume) and perfumes every future perception in turn.
+Death = ālaya withdraws from the senses, carries the seed-stock, perfumes a
+new conception. CONTINUES: the seed-stream, not a soul. IMAGE: granary that
+scents everything stored in it. Sources: SEP Yogācāra, Waldron Ālaya Treatise,
+Britannica.
+
+### 3. Theravāda — the relinking
+Death in 17 thought-moments: bhavanga vibrates → five weak javanas take the
+kamma/kamma-nimitta/gati-nimitta object → cuti-citta falls → paṭisandhi-citta
+arises in the next existence on the same object. No gap, no traveller — one
+continuum, like the flame the owner asked for. CONTINUES: the citta-santāna
+with its registered object. IMAGE: Abhidhamma-Avengers end-credit sequence —
+17 frames. Sources: Visuddhimagga (library/theravada, 853pp), Abhidhammatthasaṅgaha §§11–13.
+
+### 4. Early Buddhism (Ñāṇavīra + Ñāṇananda) — the structure
+Nothing travels because nothing is a thing: experience is intentional,
+subject/object co-arise, the "being" is a vortex between consciousness and
+name-and-form (reeds simile). Rebirth = the vortex re-forming wherever
+craving re-grips. The Buddha's answer to "where did the fire go" IS the whole
+doctrine. CONTINUES: the pattern, not the stuff — whirlpool, not water.
+IMAGE: vortex timelapse (ties fire-simile film). Sources: CtP Fundamental
+Structure (both aspects, in repo), Nanananda sermons + Magic ch. IV–V.
+
+### 5. Pure Land — the rescue
+You can't do it yourself (mappō degeneracy), so Amida's Vow does it: entrust
+(shinjin/nembutsu) → at death Amida's retinue arrives with the lotus platform
+→ rebirth in Sukhāvatī in one of nine grades → buddhahood guaranteed, then
+return to save others. CONTINUES: the vow-relationship; other-power replaces
+self-power mechanics. IMAGE: welcome party with lotus Uber. Sources:
+Contemplation Sūtra nine grades, Hōnen/Shinran via SEP Japanese Pure Land,
+Shan-tao lotus-bud analysis.
+
+## SHARED ONTOLOGY (the non-lecturey table — one card, five rows)
+| Axiom | All agree | They differ on |
+|---|---|---|
+| No soul travels | anattā everywhere | what does the carrying (continuum? store? vow?) |
+| Karma = momentum | acts perfume the future | mechanism (seeds? javanas? winds? grace?) |
+| Consciousness-first | mind leads the transit | how many layers (1/8/bardo-body?) |
+| Dependent arising | nothing uncaused | granularity (moments? elements? grades?) |
+| Verification > belief | test it yourself | what counts as proof (jhāna recall? faith? death signs?) |
+
+## HARD QUESTIONS (voiced, not dodged — v2 spine)
+1. Karma mechanics: HOW does an intention become a future birth? (seeds vs winds vs javanas — three answers, one card each)
+2. First cause: if everything depends, what started it? (Buddha's refusal as method, not evasion)
+3. What observes the bardo if there's no self? (the hardest 60 seconds of the film)
+4. Why is rebirth untestable-by-design for everyone except adepts? (recall jhāna method from Visuddhimagga XIII — the honest answer)
+5. If Pure Land grace works, why bother with the rest? (self-power vs other-power, stated fairly)
+
+## Visual grammar
+One transit motif per school (breakers / granary / 17-frame strip / vortex / lotus Uber), shared timeline ruler (death → ? → birth) so the five mechanisms are directly comparable. No robes-and-temples B-roll; diagrams only.
