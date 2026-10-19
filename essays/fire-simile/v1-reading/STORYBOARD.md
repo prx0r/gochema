@@ -1,17 +1,24 @@
-# STORYBOARD — v1 classic reading (4 × ~12 min, kinetic typography)
+# STORYBOARD — v1 classic reading (single take, ~21 min, kinetic typography)
 
 > No clips. No B-roll. One voice, one flame. Typography IS the picture,
-> driven by Fish word-timestamps. Verse cards overlay on their timestamps.
+> driven by Fish word-timestamps. Verse cards overlay on timestamps.
 
-| Part | Words | Opens | Kinetic anchor |
-|---|---|---|---|
-| 1 | 1,783 | Dear Listeners… | Dabba story: ember-birth card; tonsure-ordination beat; fire-kasina ascent; Udāna verse overlay (Pali + rendering) |
-| 2 | 1,762 | Lion's roar… | Udumbarikā roar card; `Ayoghanahatasseva` verse overlay word-by-word; ghana (compact) diagram: solid-looking flame |
-| 3 | 1,794 | Ānanda's question… | Upādāna = fuel coupling diagram; wood-burns-because-of-fire loop; Ratana Sutta verse card |
-| 4 | 1,770 | Torrential downpour… | Tetralemma collapse (4 arrows → none); Vedic-hiding rebuttal card; "extinction, plainly" close card |
+| # | Anchor passage | Kinetic |
+|---|---|---|
+| 1 | Dear Listeners → tonsure arahant | Ember-birth card; shaving-to-arahant beat line |
+| 2 | Self-cremation, no relics | Fire-kasina ascent; ash-less void card |
+| 3 | Udāna + two verses | Pali verse overlay, word by word; rendering beneath |
+| 4 | Sovanso banners → holy citadel | Funeral-banner card, struck through |
+| 5 | Ghana compact-flame | Solid-looking flame diagram; trace-the-gone-fire collapse |
+| 6 | Upādāna = fuel; lion's roar | Coupling diagram (grasp = fuel); roar card, 5 lines |
+| 7 | Dress taken off; cooling | Robe-drop motion; cooling wave |
+| 8 | Whirlpool answer; fire gone out | Vortex → ocean; 4-direction arrows → none |
+| 9 | Ratana lamp; Deathless now | Lamp-flame card; seed-without-moisture diagram |
+| 10 | Annihilationist defense | "Suffering and its cessation" white card |
+| 11 | Reeds simile; ocean remains | Two-reeds coupling; calm ocean hold |
+| 12 | Ātumā downpour dialogue | Rain/thunder card; Q&A kinetic exchange |
+| 13 | Heap perception; upasamanussati | Compact→heap dissolve; peace-reflection card |
+| 14 | Dedication; Vedic-myth rebuttal | Merit dedication card; "extinction, plainly" close card |
 
-## Rules
-- One mode per part: ember → flame → coupling → going-out.
-- Palette: gochema VOID/GOLD/CRIMSON (fire CRIMSON, going-out VOID).
-- No full narration captions; Pali verses + technical terms (upādāna, ghana-saññā, tetralemma) as cards only.
-- Verse overlays fire on timestamp stream, never narrated twice.
+Palette: VOID / GOLD / CRIMSON (fire) / LAPID. No full narration captions;
+Pali verses + technical terms as cards only.
