@@ -12,12 +12,12 @@ and the transfer ripples through it.
 
 | Stop | Tradition | The transfer animation (what moves) | Assets we own |
 |---|---|---|---|
-| 1 | **Theravāda** | Nodes of the body flicker out MOMENT BY MOMENT (cognitive series), then one node pair hands over: cuti → paṭisandhi, same object — a single pulse jumps across a gap with NO gap in it. Body conventional-darkens; the pulse never stops. | `/root/body` mātṛkā node-pulse SVG (modify: staggered node-off = momentary death; jump = relinking) |
-| 2 | **Yogācāra** | Seeds light up under the skin (subliminal glow, granary-in-body), then the WHOLE seed-glow withdraws inward as the body cools — one package slides out carrying the lights. | shaders: FloatingParticles (seeds) + NoiseDissolve (withdrawal); body SVG as cooling filter (hue → cold) |
+| 1 | **Theravāda** | Nodes of the body flicker out MOMENT BY MOMENT (cognitive series), then one node pair hands over: cuti → paṭisandhi, same object — a single pulse jumps across a gap with NO gap in it. Body conventional-darkens; the pulse never stops. | element-fluid body: pulses through the fluid (staggered = momentary death; one pulse hand-off = relinking) |
+| 2 | **Yogācāra** | Seeds light up under the skin (subliminal glow, granary-in-body), then the WHOLE seed-glow withdraws inward as the body cools — one package slides out carrying the lights. | shaders: FloatingParticles (seeds) + NoiseDissolve (withdrawal); element-fluid as cooling filter (hue → cold) |
 | 3 | **Pure Land** | No transfer mechanic — instead: the deathbed lights UP. Body as receiver: a lotus-platform beam arrives from off-screen, warm light enters, the lotus closes on the light. The most beautiful stop = deliberately mechanic-less. | hyperframes type + lotus (new draw) + golden section; calm camera |
 | 4 | **Madhyamaka** | Anti-animation: the body tries to outline "the moment" — a playhead sweeping the death timestamp — and the playhead keeps slipping (time can't be located); then the whole figure becomes designation-only (contour lines without fill). | shaders ContourLines (fill removed); the toddler's-why critique sits on this stop |
 | 5 | **Tibetan** | THE full dissolve: earth ochre (body heavy/sags) → water white (throat dry) → fire red (warmth converges) → wind smoke (last breath wheeze) → red/white/black visions → GOLD luminosity flash → after-image body walks on as thin light-figure (mental body) → winds push it to a womb-door. 49-day mini-cycle inside the shot. | anatomy-generated exploded body + dissolution table (library/tibetan) + shaders NoiseDissolve + FlowField (winds) + gold flash |
-| 6 | **Nāṇavīra/HH** | The cut: instead of anything moving — the animation REVERSES the premise: the body's "birth-nodes" were lit the whole time; nothing transferred because birth/death were never an event. Flash cut to the present: the body breathes, nodes already on. | body SVG with nodes ALREADY LIT from frame 1 (retrospective); hard cut, no dissolve |
+| 6 | **Nāṇavīra/HH** | The cut: instead of anything moving — the animation REVERSES the premise: the body's "birth-nodes" were lit the whole time; nothing transferred because birth/death were never an event. Flash cut to the present: the body breathes, nodes already on. | element-fluid already flowing from frame 1 (retrospective); hard cut, no dissolve |
 
 ## Deitybody as the field (owner: "waves etc shaders fluid not just phenomes")
 - `/root/deitybody` corpus + mālinī node data = the label/geometry source.
@@ -28,6 +28,26 @@ and the transfer ripples through it.
   (Yogācāra), wave receiving (Pure Land), wave that can't be localized
   (Madhyamaka), wave cascading through elements (Tibetan), wave never left
   (HH). Six physics, one field language.
+
+
+## BASE BODY — CORRECTION (owner 2026-10-19): NOT mātṛkā, THE ELEMENT FIELD
+Mātṛkā = Śaiva letter-labels — wrong tradition on screen. The base shared
+body is the **pañca-mahābhūta fluid**: a human silhouette whose interior is
+a moving five-element field — earth(ochre, dense/slow) · water(silver, flow)
+· fire(crimson, flicker) · wind(smoke-grey, drift) · space(void, stillness).
+WHY this is the smart base: the five great elements are shared by EVERY stop
+of the tour (Abhidhamma rūpa, the Tibetan dissolution, even science's
+body-as-machine) — the base body IS the shared-ontology table made flesh.
+- Construction: silhouette (hand SVG or anatomy figure outline) filled with
+  shaders FlowField/CurlNoise color-mapped to the five palette stops; no
+  text labels on the body ever.
+- Every tradition then animates the SAME element-fluid differently:
+  Theravāda = pulse through the fluid · Yogācāra = seeds drift out of the
+  fluid · Pure Land = foreign light enters the fluid · Madhyamaka = contour
+  of the fluid, fill denied · Tibetan = elements dissolve in their OWN order
+  (native mapping, the money shot) · HH = the fluid never stopped.
+- deitybody code stays: pipeline/knowledge source for wave/nyāsa mechanics
+  AND the Abhinavagupta critique card in v2 — never the default body.
 
 ## The spin-off (parked)
 **"The Tibetan Book of the Dead — animated"** = separate full video
