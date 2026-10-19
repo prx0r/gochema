@@ -155,3 +155,20 @@ was a crowd") — guards against the "Pure Land = just chanting" flattening.
 - `library/tantra/journey-in-the-world-of-the-tantras-dyczkowski.pdf` — 316pp,
   in git. Kashmiri Śaiva + Kubjikā essays; feeds the shared-ontology color
   (one-mind / self-awareness parallels), not doctrine.
+
+## ABHINAVAGUPTA — SCOPE RULING (owner, 2026-10-19: "keep it relatively focused on rebirth")
+- v1: NO Abhinavagupta segment. Six schools + Madhyamaka already max the grid.
+- v2 hard-questions: ONE critique card, from our own holdings — **pratyabhijñā
+  (recognition)**: where Buddhism says nothing travels because nothing is a
+  self, Kashmir Śaivism replies that what "travels" is the divine self
+  recognizing itself (Īśvara-pratyabhijñā; Ratié galleys in uploads/; the
+  20-sutra Hṛdayam animation on R2; spanda = vibration as the travel
+  mechanism). Sharpest available critique of the no-soul position, and it
+  comes from texts we already own — never narrated as ours, quoted.
+- "Origins of the universe" hard question: tattvas (36 levels) + spanda as
+  the Śaiva answer card — 10 seconds, cite-only.
+- Holdings map (R2 ~1,655 objects: pratyabhijñā-hṛdayam 20-sutras animation,
+  spanda-v5 builds, Tantraloka 36-tattvas, recognition/upayas renders;
+  uploads: Abhinavabharati 39MB, Gupta aesthetics, Utpaladeva HOS galleys;
+  gcomedy library/rasa/). FUTURE film, not this one: "Recognition: the other
+  answer to rebirth" — owns the material properly.
