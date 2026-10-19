@@ -27,3 +27,5 @@ never paraphrases a teacher's position without the teacher audibly saying it.
 | 13 | Parnia AWARE-II (NYU Langone summary) | v2: consciousness at 35–60 min CPR | ASK-FIRST |
 | 14 | Mashour dying-brain counterpoint | v2: honest counterweight | CARD-CITE (no clip) |
 | 15 | Rouleau & Levin 2026 paper | filter/transmission mapping across theories | CARD-CITE (audio TBD) |
+| 16 | Victoria Trumbull — IAI "Memory is Not Stored in the Brain" (Nov 2025) + Hay 2026 solo | The living Bergson voice: memory unfolds in time | PULL-REQUIRED (festival clips = ask-first clearance) |
+| 17 | Trumbull × Friston "Maps of the Mind" (Hay, May 2026) | Bergson vs predictive-processing, same stage | ASK-FIRST |

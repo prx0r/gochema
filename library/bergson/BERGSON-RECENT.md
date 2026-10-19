@@ -44,3 +44,9 @@
 - Comedy film callbacks beat: Sinclair retroactive freedom + Bergson comedy
   (Le Rire rigidity) — already banked in gcomedy.
 - Essay1 mind-layer: three Bergsons again (filter, durée, hesitation).
+
+## 7. VICTORIA TRUMBULL (owner, 2026-10-19) — see VICTORIA-TRUMBULL.md
+Augustine–Bergson spiritualist metaphysic (Oxford DPhil 2025, Bloomsbury
+book Oct 2026), "Memory is Not Stored in the Brain" public campaign,
+Friston/Baron-Cohen panelist, AI-skeptic. The live link between this file
+and the daimon-Neoplatonism film.

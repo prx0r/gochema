@@ -139,3 +139,9 @@ their descriptions is empirically active this month. v2 card, verbatim cites.
 - Already banked in gcomedy: Bergson's comedy theory (rigidity, Le Rire) +
   habit/recollective two-memories in essay1. The rebirth film can cite all
   three Bergsons: filter, durée, laughter-rigidity — one thinker, three films.
+
+## 8. TRUMBULL IMPORT (2026-10-19)
+library/bergson/VICTORIA-TRUMBULL.md — the public-philosophy node tying:
+Bergson's unstored memory (this month's unconscious-WM cluster), the
+Neoplatonic soul (daimon film), and the owner's AI-cows beat (her Altman/
+Musk critique). Clips 16–17 added to CLIPS.md.
