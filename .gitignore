@@ -7,3 +7,6 @@ scenes/
 .r2-env
 __pycache__/
 *.pyc
+
+# Large scans stay on R2/disk, never git (GitHub hard limit 100MB)
+library/huayan/fa-tsang-five-doctrines-cook-1970.pdf
