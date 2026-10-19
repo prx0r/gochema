@@ -78,3 +78,44 @@ Owner's draft1: "vast amounts of nde literature, ian stevenson im not
 interested… cut to the chase." This review stores the science for the v2
 hard-questions video + overlay cards — NOT for v1 narration. v1 stays
 school-compressions + owner voice.
+
+## 6. THIS WEEK'S CLUSTER — conscious/unconscious processing (Oct 9–19, 2026)
+The exact week of the dig. Ordered by what it supports.
+
+- **Franco-Martínez et al. 2026** (multisite Registered Report, posted Oct 18;
+  N=531, 19 labs) — **unconscious working memory CONFIRMED**: above-chance
+  discrimination of subliminal gratings after a 2s delay, trials reported as
+  unseen (.55 accuracy; β₀=.521 above chance). Soto et al.'s effect replicates
+  at scale. WHAT IT SUPPORTS: the ālaya/bhavanga layer — mind-streams do real
+  work on contents you never see. The "storehouse" isn't a metaphor; memory
+  runs subliminally.
+- **Phan, Rideaux & Alais 2026** (bioRxiv, posted Oct 18 — yesterday) —
+  **entering vs exiting awareness are asymmetrical**: it takes a bigger
+  contrast drop to leave awareness than rise to enter it. Awareness has
+  inertia (hysteresis). WHAT IT SUPPORTS: the vortex image — awareness-states
+  sustain themselves; the whirlpool persists past the push that made it.
+- **Yun et al. 2026** (iScience, Sep online/Oct issue) — retroperception:
+  conscious access AFTER the stimulus is gone fluctuates at a decaying
+  4–5Hz theta rhythm; accuracy and visibility oscillate in lockstep.
+  WHAT IT SUPPORTS: (a) access-in-time is flexible — content can be "entered"
+  after it left (micro-analogue of review/remembering in the bardo frame);
+  (b) the timing doctrine: consciousness samples rhythmically, like a
+  metronome — gcomedy's DPV thesis has a new citation.
+- **He lab 2026** (bioRxiv Oct 13) — early coarse (superordinate) category
+  representation exists but **negatively predicts** awareness while helping
+  accuracy. There's real "gist" processing that COMPETES with seeing.
+  WHAT IT SUPPORTS: filter/gate models — the brain holds representations
+  you are not aware of, ones that can even oppose your awareness.
+- **Pitts/Cogitate 2026** (CNS poster) — two stages isolated from report:
+  VAN (~200–300ms, awareness itself) precedes and separates from P3b (report).
+  WHAT IT SUPPORTS: awareness ≠ report ≠ access — consciousness as process,
+  not thing. Pairs with Boly 2024 (pure presence: vivid, no content).
+- **Hense et al. 2026** (iScience Oct 15) + **Rodríguez-San Esteban et al.
+  2026** (Oct 9) + **Mikulan et al. 2026** (Oct 11) — NCCs differentiate by
+  representational level; retro-cue alerting can tip unseen→seen at robust
+  traces; somatosensory awareness generator located (insulo-opercular).
+
+HONESTY LEDGER: none of this demonstrates rebirth. What it does: make the
+Buddhist mind-model (subliminal streams, rhythmic sampling, awareness as
+flexible gate over persistent processing) *less exotic* — the substrate for
+their descriptions is empirically active this month. v2 card, verbatim cites.
