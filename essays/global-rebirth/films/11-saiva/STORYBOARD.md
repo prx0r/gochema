@@ -19,19 +19,21 @@
 | S05 | 4:00–5:15 | Axe scene: blade strikes its own edge (impossible-frame gag, then dissolve) | [READ — Nyāya axe-line via Ratié] + ch.3 narration | the regress diagram | 75s |
 | S06 | 5:15–6:15 | Three-power timeline: jñāna–smṛti–apohana unifying a thread across years | [READ — Ratié IPK outline: three powers] | ĪPK 1.3.7 cite | 60s |
 | S07 | 6:15–7:15 | Face-fill: "that, is me" — recognition-as-surprise (quick-cut: ordinary faces, one hit) | [READ — Ratié: felt-surprise quote] | gold serif | 60s |
-| S08 | 7:15–9:45 | **MONEY SHOT ≥20s**: mirror-walk — silhouette past pools, each reflection divine (deitybody waves), walker+reflection MERGE → white-flash stamp | death-chapter narration under, then [READ — IPVV bridge] | merge-frame stamp; dīkṣā card | 150s |
+| S08 | 7:15–9:45 | Mirror-walk start; at merge: **tattva-ladder retraction** — body layers lifting off segment-by-segment into light (36-tattva reverse-evolution) | CH.4 three-layer reads (Tantrasāra udāna/dvadasanta · retraction · ch.16 post-mortem dīkṣā) | retraction-ladder card + dvadasanta marker | 150s |
 
-## RECAPITULATION (9:45–14:00)
+| S08b | 9:45–11:00 | Spider-web overlay + knot-points lighting (three malas) | CH.4b reads: PS 16 fettered beast · PS 32 spider · "death is not a prerequisite" | malas card; jīvanmukti card | 75s |
+
+## RECAPITULATION (11:00–14:00)
 
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
-| S09 | 9:45–11:00 | Lineage chain lighting: Somanānda → Utpaladeva → Abhinavagupta → Kṣemarāja | primacy narration + guard open | lineage card | 65s |
-| S10 | 11:00–12:00 | Objection card on black (serif): regress both ways + "you re-named the process" | [READ — one verbatim objection, pushing-tantraloka hardest-objections] | objection card + accuser named | 60s |
-| S11 | 12:00–13:45 | Mirror close: figure faces its own reflection; reflection stays divine; HOLD 5s | ch.6 close lines | "the face, or another room of not-faces" (serif, final card) | 105s |
-| S12 | 13:45–14:00 | Black + bell | silence | series-next teaser placeholder | 15s |
+| S09 | 11:00–12:00 | Lineage chain lighting: Somanānda → Utpaladeva → Abhinavagupta → Kṣemarāja | primacy narration + guard open | lineage card | 65s |
+| S10 | 12:00–12:45 | Objection card on black (serif): regress both ways + "you re-named the process" | [READ — one verbatim objection, pushing-tantraloka hardest-objections] | objection card + accuser named | 60s |
+| S11 | 12:45–13:50 | Mirror close: figure faces its own reflection; reflection stays divine; HOLD 5s | ch.6 close lines | "the face, or another room of not-faces" (serif, final card) | 105s |
+| S12 | 13:50–14:00 | Black + bell | silence | series-next teaser placeholder | 15s |
 
 ## Totals
-~14:00 core. Expansion path (20–30): split CH.3 into its own movement
+~14:00 core (re-timed for CH.4+4b depth). Expansion path (20–30): split CH.3 into its own movement
 (axe/regress + synthesis + surprise = 3×60s, deeper reads from Torella), add
 bardo-comparison beat (same Indian grammar as Tibetan — cite egyptian-tibetan
 mapping file), Abhinavagupta parināma section (material for the Bergson
