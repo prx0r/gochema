@@ -71,3 +71,53 @@ transfers, the body just… comes back.
 ## Name candidates
 "The Whole World's Rebirth, Actually Explained" · "Where Everyone Goes"
 · "Rebirth: Every Answer Anyone Ever Gave"
+
+---
+
+## ROSTER UPDATE (owner, 2026-10-19): ZOROASTRIAN + CHRISTIAN-GNOSTIC + TIBETAN=OWN-MOVIE
+
+### NEW STOP: ZOROASTRIAN (the ancestor — put it FIRST or as the hinge)
+- WHAT: two-layer afterlife — individual (3 nights by the corpse chanting
+  the Gāthās; then the **daēnā** appears: your own religious soul AS A WOMAN
+  you made beautiful or ugly with your deeds; Chinvat bridge wide for the
+  righteous, knife-edge for the wicked; judges Mihr, Srōš, Rašn) + universal
+  (**frashokereti**: bodily resurrection, Saoshyant, 57-year assembly, molten-
+  metal river ordeal, then cosmic renovation — the world steps back to its
+  first state).
+- WHY: it's the hinge of the whole map — Babylonian exile carries it into
+  Judaism → judgment/angels/last-day into Christianity. Bodily resurrection
+  doctrine is Zoroastrian before it's Christian (Timuş 2022: attested in the
+  Young Avesta, pre-Christian).
+- HOW/moving image: the daēnā-maiden walk (conscience made visible) + the
+  bridge that resizes to its walker — the best transfer-animation in the
+  global film.
+- CARRIER FAMILY: split — fravashi (guardian) + daēnā (deed-shaped self).
+  Neither is quite "a soul" — adds a FIFTH carrier family to the table.
+- Sources (free): Encyclopaedia Iranica "Eschatology i" (full article,
+  fetched), Agostini 2021, Hintze 2018, Kakouris frashokereti PDF.
+
+### CHRISTIAN SPLIT → TWO STOPS (better than one)
+- **Orthodox stop** (keeps roster #6): resurrection of THE SAME body —
+  anastasis as the anti-transfer; grace-as-promise carrier.
+- **GNOSTIC/ORIGEN stop (new):** pre-existence + single descent + fall of
+  the sparks in matter (Apocryphon of John: Ennoia's fall); Valentinian
+  pneumatic sparks cycling. THE controversy, stated precisely (Schlesinger
+  thesis + Guinot paper, both free): 553 anathemas condemned pre-existence,
+  fall, apocatastasis — **metempsychosis appears in NO canon of 543/553**.
+  Origen's own line (Against Celsus): "the doctrine of the entrance of
+  souls into bodies (not, however, that of the transmigration from one body
+  into another)." So: the popular "they cut reincarnation out in 553" is
+  false — what was cut was the ONE-descent story. That nuance IS the story.
+- VISUAL: orthodox = body returns (re-materialization); gnostic = sparks
+  falling through levels (the exact opposite transfer: downward).
+
+### TIBETAN CONFIRMED: OWN MOVIE
+Tibetan stop in the global roster shrinks to a 30s recap ("we did this one
+properly in its own film — TBOTD animated, parked in TRILOGY"). The full
+49-day bardo journey film stays the spin-off.
+
+### Roster order (updated)
+1 Hindu → 2 Zoroastrian (hinge) → 3 Egyptian → 4 Jewish → 5 Gnostic/Origen →
+6 Orthodox Christian → 7 Greek → 8 Jain → 9 Śaiva → 10 Daoist → 11 Yoruba
+→ recap anchors (Theravāda/Pure Land/Tibetan-on-screen-thin) → GLOBAL
+ontology (now FIVE carrier families) → callback to v1.
