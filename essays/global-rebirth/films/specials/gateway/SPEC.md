@@ -59,3 +59,40 @@ shamanic job description in the world.
 
 ## Status: SPEC ONLY. Build order: after the 12 tradition films or as a
 standalone drop — it's fully ownable content, no rights gates beyond quotes.
+
+## LOCKED (owner, 2026-10-19)
+- **TITLE: "How to Leave Your Body"**
+- **COLD OPEN (owner verbatim): "you cant, because you were never in it."**
+  → then the memo card. (This opening IS the Monroe/Kepple thesis — the
+  film starts on its own answer.)
+
+## THE LINEAGE (owner: make note — now canon in this spec)
+filter theory (William James, Aldous Huxley's "reducing valve") →
+Bergson (Matter and Memory: body = action-organ, past conserved) →
+Robert Monroe (late phasing model: never-in, 180° focus-shift; Astral
+Pulse/Kepple as the popularizers) → Thomas Campbell (digital-physics:
+consciousness stream, body as data-interface — parked for science video).
+One metaphysics, four dialects: attention is fundamental; the body is
+something it POINTS AT.
+
+## IS IT THE SAME METAPHYSICS AS ŚAIVA / TIBETAN? (owner question)
+**Śaiva — YES, structurally the same, with one substitution.** Both say:
+consciousness is not inside the body (svaprakāśa ≈ Monroe's light/focus);
+transfer is re-anchoring, not travel (svātantrya ≈ phasing's pivot); bodies
+are displays the awareness locates into. THE SUBSTITUTION: in Śaiva the
+re-locator is Īśvara — the universal self recognizing itself; in Monroe it's
+a personal consciousness-owner riding a continuum. Same diagram, different
+answer to "who is at the dial": god, or you. (And Śaiva adds graduation —
+thirty-six tattvas; Monroe adds a technique — noticing. Knowledge vs skill.)
+
+**Tibetan — PARTIAL, on purpose.** Surface: same map (exit process, subtle
+vehicles, a ground-light — phasing's base layer rhymes Ground Luminosity;
+phowa even shares the directed-transfer structure). Two hard differences:
+(a) ANATTĀ — no personal focus-er travels; even phowa is instruction + stream
+carried by karma, and the bardo-being is not "you re-focusing" (Monroe's whole
+premise is disallowed); (b) SUBTLE-BODY PHYSICS — Tibetan Vajrayāna runs on
+channels, winds, drops, dissolution stages — a body-mechanics system Monroe's
+attention-only model doesn't have; his model has no winds, only dials.
+Verdict line for the film: "Monroe and the lamas draw the same map; the lamas
+put terrain on it and remove the driver; Monroe keeps the driver and deletes
+the terrain."
