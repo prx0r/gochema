@@ -147,3 +147,38 @@ was a crowd") — guards against the "Pure Land = just chanting" flattening.
 - **Token audit:** the pasted `cfat_…` token verifies active and hashes
   identical to the stored ICY token — already wired in `/root/.r2-env`, nothing
   to change. (Never print tokens; hashes compared, not values.)
+
+## FA-TSANG + JOURNEY IMPORTED (2026-10-19, from stallshark)
+- `library/huayan/fa-tsang-five-doctrines-cook-1970.pdf` — verified 563pp Cook
+  1970. 235MB scan → gitignored (GitHub 100MB limit); lives on disk + stallshark.
+  Feeds the Huayan upgrade card (five doctrines, Dharmadhātu vs Yogācāra).
+- `library/tantra/journey-in-the-world-of-the-tantras-dyczkowski.pdf` — 316pp,
+  in git. Kashmiri Śaiva + Kubjikā essays; feeds the shared-ontology color
+  (one-mind / self-awareness parallels), not doctrine.
+
+## ABHINAVAGUPTA — SCOPE RULING (owner, 2026-10-19: "keep it relatively focused on rebirth")
+- v1: NO Abhinavagupta segment. Six schools + Madhyamaka already max the grid.
+- v2 hard-questions: ONE critique card, from our own holdings — **pratyabhijñā
+  (recognition)**: where Buddhism says nothing travels because nothing is a
+  self, Kashmir Śaivism replies that what "travels" is the divine self
+  recognizing itself (Īśvara-pratyabhijñā; Ratié galleys in uploads/; the
+  20-sutra Hṛdayam animation on R2; spanda = vibration as the travel
+  mechanism). Sharpest available critique of the no-soul position, and it
+  comes from texts we already own — never narrated as ours, quoted.
+- "Origins of the universe" hard question: tattvas (36 levels) + spanda as
+  the Śaiva answer card — 10 seconds, cite-only.
+- Holdings map (R2 ~1,655 objects: pratyabhijñā-hṛdayam 20-sutras animation,
+  spanda-v5 builds, Tantraloka 36-tattvas, recognition/upayas renders;
+  uploads: Abhinavabharati 39MB, Gupta aesthetics, Utpaladeva HOS galleys;
+  gcomedy library/rasa/). FUTURE film, not this one: "Recognition: the other
+  answer to rebirth" — owns the material properly.
+
+## THAI FOREST ADDED (owner, 2026-10-19)
+School was missing. Ruling: fold into Theravāda nutshell as the operational
+branch (masters check past lives by direct knowledge; adhiṭṭhāna as the
+strange one) + v2 quote bank from Thanissaro's *The Truth of Rebirth*.
+Files: library/theravada/thai-forest/ (full text imports, free distribution).
+
+## TWO-VIDEO SPLIT (2026-10-19): v1 = schools only; v2 = science of rebirth
+(NDE, Levin, Stevenson, embryo, Creative Evolution inversion + dualism of
+tendency). See STRUCTURE-V1V2.md. COMPRESSED.md has 7 entries incl. Thai Forest.

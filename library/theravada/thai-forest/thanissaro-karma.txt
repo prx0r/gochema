@@ -1,0 +1,101 @@
+# Karma (Thanissaro)
+> Source: https://www.accesstoinsight.org/lib/authors/thanissaro/karma.html
+
+Karma 
+
+ Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions.}
+{ }
+{1}
+[DIACRITIC_EQUIVALENTS_FOR_INDEXING]=
+[EDITION]={}
+[EDITORS_NOTE]={}
+[EOD]={}
+[EXTENT]={complete}
+[EXTRA_INFO]={}
+[FORMAT_PRINT]={A printed copy is included in the book Noble Strategy .}
+[FORMAT_SUTTAREADINGS]={}
+[FORMAT_ZIP]={}
+[HEADER_POST]={}
+[HEADER_PRE]={}
+[HEAD_EXTRAS]={}
+[LICENSE]={CC-BY-NC}
+[MULTI_AUTHOR]=
+[MY_TITLE]={Karma}
+[NIKAYA]={}
+[NIKAYA_ABBREV]={}
+[NO_COLOPHON]={}
+[NO_LINK]={}
+[NUMBER]={}
+[ORIGIN_YEAR]={}
+[PAGE_COUNT]={}
+[PATH_FetchDoc]={karma.html}
+[PATH_my]={}
+[PTS_ID]={}
+[REVISION_HISTORY]={}
+[SECTION]={}
+[SEE_ALSO]={}
+[SOURCE]={ Transcribed from a file provided by the author.}
+[SOURCE_COPYRIGHT_OWNER]={Thanissaro Bhikkhu}
+[SOURCE_COPYRIGHT_YEAR]={2000}
+[SOURCE_ISBN]={}
+[SPECIAL_HEADER]={}
+[SUBTITLE]={}
+[SUBTITLE2]={}
+[SUMMARY]={This short introductory essay explains the nature of karma (Pali: kamma ), or willful action. The process of karma is a complex interplay between the fruits of our past actions (over which we have no control in the present) and the choices we make in the present moment; it is not a convenient justification for the misfortune of others ("Oh, it's just their karma!").}
+[SUMMARY_SOURCE]={}
+[SURPRISE_ME]={}
+[SUTTA_NOTE]={}
+[TIPITAKA_BOOK]={}
+[TIPITAKA_BOOK_ABBREV]={}
+[TYPE]={unknown}
+
+End ATIDoc metadata dump. -->
+
+ Home 
+ Random sutta 
+ Random article 
+ Abbreviations 
+ Glossary 
+ Index 
+ Help! 
+
+ Library 
+ Authors 
+ Thanissaro 
+
+ Karma 
+ by Thanissaro Bhikkhu 
+ © 2000 
+ Alternate format: A printed copy is included in the book Noble Strategy . X The updated version is freely available at This version of the text might be out of date. Please click here for more information 
+
+ Karma is one of those words we don't translate. Its basic meaning is simple enough — action — but because of the weight the Buddha's teachings give to the role of action, the Sanskrit word karma packs in so many implications that the English word action can't carry all its luggage. This is why we've simply airlifted the original word into our vocabulary. 
+ But when we try unpacking the connotations the word carries now that it has arrived in everyday usage, we find that most of its luggage has gotten mixed up in transit. In the eyes of most Americans, karma functions like fate — bad fate, at that: an inexplicable, unchangeable force coming out of our past, for which we are somehow vaguely responsible and powerless to fight. "I guess it's just my karma," I've heard people sigh when bad fortune strikes with such force that they see no alternative to resigned acceptance. The fatalism implicit in this statement is one reason why so many of us are repelled by the concept of karma, for it sounds like the kind of callous myth-making that can justify almost any kind of suffering or injustice in the status quo: "If he's poor, it's because of his karma." "If she's been raped, it's because of her karma." From this it seems a short step to saying that he or she deserves to suffer, and so doesn't deserve our help. 
+ This misperception comes from the fact that the Buddhist concept of karma came to the West at the same time as non-Buddhist concepts, and so ended up with some of their luggage. Although many Asian concepts of karma are fatalistic, the early Buddhist concept was not fatalistic at all. In fact, if we look closely at early Buddhist ideas of karma, we'll find that they give even less importance to myths about the past than most modern Americans do. 
+ For the early Buddhists, karma was non-linear and complex. Other Indian schools believed that karma operated in a simple straight line, with actions from the past influencing the present, and present actions influencing the future. As a result, they saw little room for free will. Buddhists, however, saw that karma acts in multiple feedback loops, with the present moment being shaped both by past and by present actions; present actions shape not only the future but also the present. Furthermore, present actions need not be determined by past actions. In other words, there is free will, although its range is somewhat dictated by the past. The nature of this freedom is symbolized in an image used by the early Buddhists: flowing water. Sometimes the flow from the past is so strong that little can be done except to stand fast, but there are also times when the flow is gentle enough to be diverted in almost any direction. 
+ So, instead of promoting resigned powerlessness, the early Buddhist notion of karma focused on the liberating potential of what the mind is doing with every moment. Who you are — what you come from — is not anywhere near as important as the mind's motives for what it is doing right now. Even though the past may account for many of the inequalities we see in life, our measure as human beings is not the hand we've been dealt, for that hand can change at any moment. We take our own measure by how well we play the hand we've got. If you're suffering, you try not to continue the unskillful mental habits that would keep that particular karmic feedback going. If you see that other people are suffering, and you're in a position to help, you focus not on their karmic past but your karmic opportunity in the present: Someday you may find yourself in the same predicament that they're in now, so here's your opportunity to act in the way you'd like them to act toward you when that day comes. 
+ This belief that one's dignity is measured, not by one's past, but by one's present actions, flew right in the face of the Indian traditions of caste-based hierarchies, and explains why early Buddhists had such a field day poking fun at the pretensions and mythology of the brahmans. As the Buddha pointed out, a brahman could be a superior person not because he came out of a brahman womb, but only if he acted with truly skillful intentions. 
+ We read the early Buddhist attacks on the caste system, and aside from their anti-racist implications, they often strike us as quaint. What we fail to realize is that they strike right at the heart of our myths about our own past: our obsession with defining who we are in terms of where we come from — our race, ethnic heritage, gender, socio-economic background, sexual preference — our modern tribes. We put inordinate amounts of energy into creating and maintaining the mythology of our tribe so that we can take vicarious pride in our tribe's good name. Even when we become Buddhists, the tribe comes first. We demand a Buddhism that honors our myths. 
+ From the standpoint of karma, though, where we come from is old karma, over which we have no control. What we "are" is a nebulous concept at best — and pernicious at worst, when we use it to find excuses for acting on unskillful motives. The worth of a tribe lies only in the skillful actions of its individual members. Even when those good people belong to our tribe, their good karma is theirs, not ours. And, of course, every tribe has its bad members, which means that the mythology of the tribe is a fragile thing. To hang onto anything fragile requires a large investment of passion, aversion, and delusion, leading inevitably to more unskillful actions on into the future. 
+ So the Buddhist teachings on karma, far from being a quaint relic from the past, are a direct challenge to a basic thrust — and basic flaw — in our culture. Only when we abandon our obsession with finding vicarious pride in our tribal past, and can take actual pride in the motives that underlie our present actions, can we say that the word karma, in its Buddhist sense, has recovered its luggage. And when we open the luggage, we'll find that it's brought us a gift: the gift we give ourselves and one another when we drop our myths about who we are, and can instead be honest about what we're doing with each moment — at the same time making the effort to do it right. 
+
+ -->
+
+ ©2000 Thanissaro Bhikkhu. 
+
+ The text of this page ("Karma", by Thanissaro Bhikkhu) is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License . To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/ . Documents linked from this page may be subject to other restrictions. 
+ Transcribed from a file provided by the author. Last revised for Access to Insight on 8 March 2011. 
+
+ This Access to Insight edition is ©2000. 
+ -->
+
+ FAQ . -->
+
+ How to cite this document (a suggested style): "Karma", by Thanissaro Bhikkhu. Access to Insight (BCBS Edition) , 8 March 2011, https://www.accesstoinsight.org/lib/authors/thanissaro/karma.html . 
+ Alternate format: A printed copy is included in the book Noble Strategy . 
+
+ Help 
+ | Site map 
+ | About 
+ | Contact 
+ | Terms of use 
+ Access to Insight is owned and managed by the Barre Center for Buddhist Studies
