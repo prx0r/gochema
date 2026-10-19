@@ -178,3 +178,7 @@ School was missing. Ruling: fold into Theravāda nutshell as the operational
 branch (masters check past lives by direct knowledge; adhiṭṭhāna as the
 strange one) + v2 quote bank from Thanissaro's *The Truth of Rebirth*.
 Files: library/theravada/thai-forest/ (full text imports, free distribution).
+
+## TWO-VIDEO SPLIT (2026-10-19): v1 = schools only; v2 = science of rebirth
+(NDE, Levin, Stevenson, embryo, Creative Evolution inversion + dualism of
+tendency). See STRUCTURE-V1V2.md. COMPRESSED.md has 7 entries incl. Thai Forest.

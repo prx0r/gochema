@@ -91,3 +91,25 @@
   the film you're watching exists). Ultimately, nothing stands alone long
   enough to be pinned. The two truths aren't two worlds — they're two ways of
   talking, and liberation is stopping the demand that one of them be the real one.
+
+## 7. THAI FOREST (extracted from Thanissaro, The Truth of Rebirth — verbatim-sourced)
+- WHAT: Standard Theravāda mechanics (paṭisandhi, gandhabba) run by monks
+  whose teachers checked past lives by direct knowledge. Rebirth here is not
+  doctrine to defend but a wager to take: "you're making a wager as to the
+  consequences of your choice" — even "I don't know" is a wager that it
+  won't matter.
+- WHY: Because dependent co-arising is self-sustaining feedback loops —
+  every factor carries an implicit "re-" from re-ignorance to re-death — and
+  because the moral case collapses without multi-life accounting: "all
+  misconduct suffers here-and-now" is flatly false (the king's killer wears
+  garlands; the murderer walks to the drum).
+- HOW: Upādāna = clinging AND fuel; the flame is craving-sustained (SN 44.9).
+  Consciousness = seed, karma = field, craving = moisture (AN 3.77).
+  Strategy: STARVE, don't destroy. Exit: passion for the four nutriments
+  withdrawn → consciousness does not land → "like a sunbeam with no western
+  wall" (SN 12:64). Arahant: "this is the last birth"; "the world would see
+  him no more" (DN 1).
+- Images (Thanissaro's own): tears for lost mothers greater than the four
+  oceans (SN 15:3) · dust on a fingernail vs the great earth · 300 spears a
+  day for a century in exchange for the Four Noble Truths — take the deal
+  (SN 56:35).
