@@ -122,3 +122,28 @@ was a crowd") — guards against the "Pure Land = just chanting" flattening.
   Land rebirth** — the Madhyamaka and Yogacara founders endorsing other-power
   (Tanluan's Commentary: Easy Path vs Difficult Path, "sailing vs walking").
   Emptiness logic + storehouse psychology both land in the same lotus pond.
+
+## R2 SWEEP #2 — Fa-Tsang, Journey, new finds (2026-10-19)
+- **Fa-Tsang's Treatise on the Five Doctrines: NOT on R2.** Fresh full-bucket
+  check — your "0/1 files uploaded" meant it didn't land. Only Huayan-adjacent
+  file present is `uploads/gold3/huayanaa.pdf` (below). Re-upload or send the file.
+- **Journey in the World of the Tantras (Dyczkowski): no legal free PDF.**
+  Only pirate/login-walled copies (z-lib mirrors, scribd-gated). NOT pirating.
+  In-hand substitutes: R2's `Manthanabhairavatantram Dyczkowski zip` + old-box
+  `source-library/tantra/dyczkowski-translations/`. Buy/scan your copy if you
+  want it in the library.
+- **Hamar, Huayan One-mind paper** (`uploads/gold3/huayanaa.pdf`): Yogācāra +
+  Tathāgatagarbha synthesis via Awakening of Faith — one-mind with tathatā
+  aspect + saṃsāra aspect. This is the Huayan bridge for the film: the store
+  (ālaya) and the womb (garbha) as two aspects of one mind. Fold into
+  Yogācāra nutshell as the upgrade card.
+- **Utpaladeva on the Power of Action (Ratié, Harvard Oriental Series galleys,
+  `uploads/` root)**: Pratyabhijñā recognition material — feeds the
+  recognition thread (stream-entry = removal of error, not addition of content).
+- **Ecology of Souls (Cutchin, `uploads/` root)**: mythology-of-death survey —
+  comparative color for the magnum opus, not doctrine.
+- **ARCHITECT.REINCARNATION.PROTOCOL.txt: false positive.** Beyblade game
+  config, not Buddhist. Ignored.
+- **Token audit:** the pasted `cfat_…` token verifies active and hashes
+  identical to the stored ICY token — already wired in `/root/.r2-env`, nothing
+  to change. (Never print tokens; hashes compared, not values.)
