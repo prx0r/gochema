@@ -11,3 +11,7 @@ ok i want to write a magnum opus video called buddhist reincarnation actually ex
 ## OWNER WORDS APPENDED (2026-10-19, verbatim)
 
 we cant say death is an illusion because we can verify themadhyamaka stupid? like yes thats one way of looking at things but in all honestly how useful is it.. its alike a toddlers trick of saying why to everything until there is no answer
+
+## OWNER WORDS APPENDED (2026-10-19 #2, verbatim)
+
+when most people think of death, they think of it as a binary 0/1 clip of someone getting shot which makes sense if u think about it from your point of view, its like going from waking to sleeping, from experience to the lack of it. the haert stops beating and thett machinery shuts off. and so we think that is the end of the story. actually the dying process is now starting. during this process (talk about tibetans and their training to keep the body upright tukdam, levins bacteria thing coherance in body speculaion)

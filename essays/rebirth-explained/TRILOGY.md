@@ -29,3 +29,9 @@
   4th video, off-trilogy or as trilogy coda — not decided).
 
 ## FAQ / counter-argument bank (seeded — see FAQ.md)
+
+## FUTURE SHELF (parked)
+- "The Tibetan Book of the Dead — ANIMATED": full 49-day bardo journey as a
+  narrative film (deities, three bardos, hearing-liturgy frame). Separate
+  video; the v1 Tibetan stop is its teaser. Source: library/tibetan reference
+  + Gyurme Dorje tr. to acquire.

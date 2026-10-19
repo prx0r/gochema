@@ -183,6 +183,23 @@ Owner writes each nutshell's actual sentences; rows get Audio = [OWNER WORDS].
 DEATH-MOMENT beat added inside each nutshell row (overlay card: "moment of
 death: <tradition's definition>" — sources STRUCTURE-SEGMENTS.md).
 
+
+## OPENING REWRITE (owner verbatim #2, draft1) + TRANSFER TOUR (2026-10-19)
+- NEW beat after crudely-card chain: **"actually the dying process is now
+  starting"** — owner verbatim (binary 0/1 → waking/sleeping → heart stops →
+  machinery shuts off → BUT dying is now starting). Replaces the generic S07b
+  musing; the three-deaths cards move AFTER it (the process has begun, now
+  define it).
+- THE TRANSFER TOUR replaces static nutshell visuals: one BODY, six
+  animations (see TRANSFER-VISUALS.md): Theravāda nodes/pulse → Yogācāra
+  seed-withdrawal → Pure Land lotus-light → Madhyamaka contour-slip →
+  Tibetan full dissolve (with owner's tukdam/upright-training note at this
+  stop) → HH nothing-moved cut. Row Visuals = transfer animation names.
+- Dying-process parenthetical (owner): tibetan training/tukdam = Tibetan
+  stop; Levin coherence = ONE sourced card, owner decides at review
+  (science-cut tension flagged in TRANSFER-VISUALS).
+- Prototype: 20s Theravāda transfer test (spec in TRANSFER-VISUALS).
+
 ## GOAT ADDITIONS (owner, 2026-10-19)
 - S16 FAQ: add DHARMAKĪRTI card — the tradition's courtroom proof
   (PV II.34-131, mental-causes-mental, newborn-like-waking) + the best
