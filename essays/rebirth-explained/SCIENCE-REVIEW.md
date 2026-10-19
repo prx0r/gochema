@@ -119,3 +119,23 @@ HONESTY LEDGER: none of this demonstrates rebirth. What it does: make the
 Buddhist mind-model (subliminal streams, rhythmic sampling, awareness as
 flexible gate over persistent processing) *less exotic* — the substrate for
 their descriptions is empirically active this month. v2 card, verbatim cites.
+
+## 7. BRUNO × BERGSON × THIS WEEK'S CLUSTER (owner question, 2026-10-19)
+- **Bergson (Matter and Memory, 1896) is the historical spine**: memory is not
+  stored in the brain; the brain is a filter/action-organ; the past conserves
+  itself. Huxley's "reducing valve" descends from this — i.e. filter theory
+  = Bergson first. The Oct 2026 cluster lands squarely on Bergson's side:
+  unconscious WM (past functioning without conscious consult), retroperception
+  (elastic access-time = durée sampled), enter/exit hysteresis (the virtual
+  keeps what enters), He-lab gist (perception filtered for action, the rest
+  still processed). Bergson ↔ Buddhist map: pure memory ≈ ālaya seed-plane;
+  habit-memory ≈ manifest mind; durée ≈ moment-to-moment continuity.
+- **Bruno (owner's memory-OS, /root/bruno)**: the OTHER pole — memory as an
+  internal symbolic MACHINE (Figura intellectus; "external knowledge rebuilt
+  as an internal symbolic machine, operated not remembered"). Maps to the
+  Yogācāra store as ENGINE (seeds sprout), and to the film's carrier table:
+  Bergson says plane/filter, Bruno says machine/art, Ālaya says storehouse,
+  Nanavira says structure. Four answers to "where does the past live."
+- Already banked in gcomedy: Bergson's comedy theory (rigidity, Le Rire) +
+  habit/recollective two-memories in essay1. The rebirth film can cite all
+  three Bergsons: filter, durée, laughter-rigidity — one thinker, three films.
