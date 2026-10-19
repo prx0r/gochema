@@ -58,3 +58,18 @@
 - antarabhava fight beat (S11b if added): Vasubandhu vs Saṅghabhadra vs
   Theravāda orthodoxy — the named version of what's already in the treatment.
 - v2: Analayo EBT book as the scholarly spine.
+
+## HOLDINGS SWEEP (R2 + volume, 2026-10-19)
+- R2: NOTHING on this thread (0 hits dharmakirti/vasubandhu/abhidharma) —
+  the bucket is tantra/essay renders, not scholastic Buddhism.
+- VOLUME HIT 1 — Analayo lecture series was ALREADY on the old box (30+
+  PDFs): imported the four on-deck ones → library/buddhist-debate/analayo-lectures/
+  (25-rebirth-early-buddhism 304pp — same text I re-pulled, now has 2 copies;
+  03-MN38 Mahātaṇhāsaṅkhaya 15pp; 26-memories-past-lives; 07-time).
+- VOLUME HIT 2 — Potter's Encyclopedia of Indian Philosophies (text, ~4.4MB)
+  → indian-philosophy-encyclopedia/: #7 Abhidharma Buddhism to 150 AD
+  (168 vasubandhu/rebirth/antarabhava hits), #9 Buddhist Philosophy
+  350–600 AD (13 Dharmakīrti hits + 277 rebirth-thread hits). THE reference
+  shelf for the goats — how the video answers "says who?" beyond Hayes.
+- Volume also holds Tsongkhapa Lamp of Five Stages + old-box 4 notes
+  (tibetan-book-of-dead-reference etc., already in excavation file).
