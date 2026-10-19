@@ -69,3 +69,46 @@ Tibetan (demolition fresh before the biggest build). Alternative if you
 want faith-arc: swap Pure Land later — but Pure Land mid keeps the lightness.
 
 Your sentences go into draft1 at the segment heads; compile wraps them.
+
+---
+
+# THE TOUR FLOW (owner, 2026-10-19) — "feels like a tour through Buddhism"
+
+## The logical chain (each step FORCES the next)
+0. **RIGID DEFINITION — physical death (science, verbatim-source):**
+   - WHO Global Glossary: **Brain Death** = "Irreversible cessation of cerebral
+     and brain stem function; characterized by absence of electrical activity
+     in the brain, blood flow to the brain, and brain function as determined by
+     clinical assessment of responses." / **Cardiac Death** = "resulting from
+     the irreversible cessation of circulatory and respiratory function."
+   - WHO working doc (the beautiful one): "Death is a process involving
+     cessation of physiological functions, and the determination of death is
+     the final event in that process." → bank: even science has a process +
+     a determination-event gap. The seam Buddhism walks through.
+1. **Buddhism's types of death** (Visuddhimagga verbatim): three deaths —
+   cutting off (arahant) / momentary (every cognitive moment) / conventional.
+   → If death has types, **birth must too**: conventional birth, momentary
+   birth (jāti-as-nature, HH), rebirth.
+2. **Which forces: what is a MOMENT, what is TIME?** (kṣaṇa/santāna cards;
+   Bergson duration card; akālika) →
+3. **How is death dependent on time?** If death is an event, it needs time.
+   If the school re-opens time (HH: "time is secondary to experience"), the
+   event-ness of death reopens with it. →
+4. **THE TOUR** (each school's answer to "what is death, given what time is"):
+   Theravāda → Yogācāra → Pure Land → Madhyamaka → Tibetan → Nāṇavīra/HH.
+   Each stop: WHAT / WHAT'S-GOING-ON / EXACT-MOMENT / LOGICAL ARGUMENT /
+   PRIMACY CLAIM.
+5. **MADHYAMAKA GUARD (owner verbatim, in draft1):** "we cant say death is an
+   illusion because we can verify themadhyamaka stupid? like yes thats one
+   way of looking at things but in all honestly how useful is it.. its alike a
+   toddlers trick of saying why to everything until there is no answer"
+   → placed AT the Madhyamaka stop: the tour voices the objection in the
+   owner's words, then the two-truths answer (one card), then moves on. The
+   toddler's-why critique keeps the demolition from eating the film.
+6. **Shared ontology → FAQ → CLIFFHANGER** (HH "birth is present" — now the
+   ENTIRE chain lands there: definitions → types → time → present birth).
+
+Why this flow works: the chain is genuinely load-bearing — science's own
+"process vs determination" gap (step 0) is the seam; the three-deaths (step 1)
+opens birth; opening birth opens time; re-opening time re-opens death; every
+school is then a stopping-point on one question, not a list item.

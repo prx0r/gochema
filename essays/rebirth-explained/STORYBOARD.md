@@ -147,6 +147,19 @@ The gap it leaves after callbacks is filled by FAQ → cliffhanger directly.
 No science anywhere in v1.
 
 
+
+## THE TOUR FLOW (owner 2026-10-19 — full rewrite of pre-school section)
+| # | Beat | Audio source |
+|---|---|---|
+| S01-S05 | (unchanged draft1 frame: hook, montage, 8FP, faith, disclaimer/cows) | OWNER VERBATIM |
+| S05b | NEW — RIGID DEFINITION: WHO brain-death + cardiac-death lines + "death is a process… determination is the final event" (STRUCTURE-SEGMENTS step 0) | [OWNER WRITES over WHO quotes; quotes on cards] |
+| S06 | fork (horror/lizards) — may merge into S05b depending on length | OWNER VERBATIM |
+| S07 | crudely card + NDE cut | OWNER VERBATIM |
+| S07b | NEW — THREE KINDS OF DEATH (Visuddhimagga verbatim card: cutting off / momentary / conventional) → "so does birth? define birth" → moment/time questions (kṣaṇa/santāna/Bergson cards) | [OWNER WRITES the chain; SITTAs+Vism on cards] |
+| S08-S14 | THE TOUR (new order: Theravāda→Yogācāra→Pure Land→Madhyamaka→Tibetan→HH), 5 fields each | OWNER WRITES nutshells; compile wraps |
+| S12b | MADHYAMAKA GUARD: owner verbatim (draft1 appended block) + two-truths card | [OWNER VERBATIM] |
+| S15-S18 | shared ontology → FAQ → cliffhanger (HH) → end | mixed |
+
 ### SEGMENT A ORDER UPDATE (owner brief 2026-10-19 — see STRUCTURE-SEGMENTS.md)
 New school order (S08→S14): THERAVĀDA (open, incl. three-deaths + Thai Forest
 card) → YOGĀCĀRA → PURE LAND → MADHYAMAKA → TIBETAN → NĀṆAVĪRA/HH (last,
