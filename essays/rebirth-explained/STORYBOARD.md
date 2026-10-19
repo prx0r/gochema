@@ -145,3 +145,13 @@ The gap it leaves after callbacks is filled by FAQ → cliffhanger directly.
 
 ## RHYTHM UPDATE 2 (owner): shared metaphysics → callbacks → FAQ → cliffhanger
 No science anywhere in v1.
+
+## GOAT ADDITIONS (owner, 2026-10-19)
+- S16 FAQ: add DHARMAKĪRTI card — the tradition's courtroom proof
+  (PV II.34-131, mental-causes-mental, newborn-like-waking) + the best
+  counter (Arnold's sleep-problem critique) in the same beat. Files:
+  resources/13 + library/buddhist-debate/{hayes,arnold,analayo}.pdf.
+- S15 shared ontology: Asaṅga's identity claim quote (ālaya = bhavaṅga =
+  mūla-vijñāna) — three schools, one concept, goes on the table as proof.
+- Named antarabhava fight (Vasubandhu vs Saṅghabhadra vs Theravāda) kept
+  available as an S11b insert if runtime allows — otherwise FAQ line.
