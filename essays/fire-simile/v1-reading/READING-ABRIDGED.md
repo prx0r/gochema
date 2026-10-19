@@ -2,11 +2,11 @@
 
 > Voice: old-man candidate (pending approval) else louis_reference_lab · Model: s2.1-pro-free · Format: mp3
 > Key: FISH_API_KEY (freaktown/.env). Cache key: (text, voice, settings).
-> 3,103 words, ~21 min @150 WPM. Sculpted from 7,109 (47 min) — cuts logged in SCULPT.md.
-> Verbatim throughout: cuts are deletions only, no rewrites. Footnotes 7–8 promoted to voice.
-> Kinetic typography rides the word-timestamp stream; verse cards overlay.
+> 3,374 words, ~22 min @150 WPM. Sculpted from 7,109 (47 min) — cuts logged in SCULPT.md.
+> Verbatim throughout: cuts are deletions only, no rewrites. Page-number artifacts stripped (readout normalization).
+> Footnotes 7–8 promoted to voice. Kinetic typography rides the word-timestamp stream; verse cards overlay.
 
-> DIR: single take, title card in, read straight. Verse overlays fire on timestamps.
+> DIR: single take, title card in, read straight. Verse overlays fire on timestamps. [break] at the four restored seams (SCULPT.md §Seams).
 
 Dear Listeners,
 That deliverance from Sa§sāra which the Buddha
@@ -29,6 +29,17 @@ said that the child was named 'Dabba' because its life was saved
 by falling on a log of wood. 'Dabba' is a term for 'wood' as well
 as for 'material'. Because he belonged to the Malla clan he was
 called'Mallaputta'–son ofMallas.
+When Dabba was seven years old the Buddha visited the
+country of the Mallas and stayed in the mango grove called
+Anupiya. On seeing the Buddha, Dabba aroused faith in him
+and begged permission to get ordained. At the ordination
+ceremony, as part of the procedure, his preceptor gave him the
+meditation topic known as the 'skin-pentad' ('tacapañcaka') –
+that is to say, the first five in the list of repulsive parts of the body
+– namely head hairs, body hairs, nails, teeth and skin. Dabba
+attended to his meditation topic while his head was being
+shaved. It is said that he attained the fruit of Stream-winning
+(sotāpattiphala) when the shaving started, and attained
 arahanthood by the time it ended. So he was already an arahant
 when he was ordained, having attained that supreme goal inside
 thehallof tonsureitself.
@@ -65,7 +76,6 @@ Consciousness came to an end
 -Ud. p. 93
 This event was of such a great significance that the
 Buddha when he went to Sāvatthi from Rajagaha, related the
-5 6
 incident to the monks at Jetavana monastery and made it an
 occasiontopreachthefollowingtwoverses asifinmemoriam.
 Ayoghanahatasseva
@@ -119,8 +129,6 @@ we want to remain existing somehow or other. We are working
 with a contradiction. We are running with the hare and hunting
 with the hound. To justify our stand we somehow try to posit a
 cityof theDeathlessbysomecleverlegerdemain.
-8
-7
 But here the Buddha has given a meaningful hint about
 the fire that went out in the phrase 'Ayoghana hatasseva'. A fire
 that is ablaze appears as compact (solid) as a red -hot block of
@@ -129,7 +137,6 @@ worlding's deluded point of view. Even such a 'realistic' flame
 when it goes out cannot be traced. It is by means of the rhetoric
 question 'where does a fire go when it goes out ?' that the
 Buddha answered the questions relating to the after-death state
-1
 of an arahant. In short many tend to forget the fact that the
 obvious meaning of the term 'nibbāna' is extinction, i.e. going
 outofafire.
@@ -172,13 +179,25 @@ Then he set fire to his body as if setting fire to a dress taken off.
 That is why instead of a heat we are told of a cooling-off of all
 feelings. That cooling off was due to parinibbāna. In fact that is
 thestateofparinibbāna.
+However, there are many who hold that the Buddhas,
+Pacceka Buddhas, and arahants who pass away go and lodge
+somewhere in some nondescript realm. There is a particular
+discourse they draw upon to prove it – namely Pahārāda Sutta.
+even if many monks pass away in the Nibbāna Element
+without residual clinging ('Anupādisesā
+Nibbānadhātu'), there is no decrease or increase
+apparent in the Nibbāna Element without residual
+clinging.'
+On the strength of this comparison many scholars try to
+argue it out that Anupādisesā Nibbānadhātu is some sort of a
+spacious destination for the Buddhas and arahants when they
+pass away. But the fallacy of this argument is exposed when we
+examine the eighth wonderful and marvellous quality of this
 Let us suppose that there are whirlpools in the great
 ocean. If for some reason or other they cease and disappear,
 there is no consequent decrease or increase in the waters of the
 In the same way, beings 'ignore' the true state of affairs
 in the world. Impelled by ignorance and craving, their
-1 2
-1 1
 consciousness goes in search of permanence in a world of
 impermanence, beauty in a world of ugliness, pleasure in a
 world of suffering, and a self in a world of not-self. It is due to
@@ -194,13 +213,11 @@ It is this simile of the whirlpool that holds the answer to the
 questionabouttheafter-deathstateof thearahant.
 The answer is aleady implicit in the statement: 'The fire
 has gone out.' How ridiculous it is to conclude that the fire goes
-7
 somewhere when it goes out. If one asks whether the
 extinguished fire has gone to the East orWest or North or South,
 it is a foolish question. If something exists depending on causes
 and conditions, when those causes and conditions are removed,
 it has to cease. This truth is implicit in the dictum 'bhavanirodho
-8
 nibbāna§'. 'Cessation of existence is extinction (or Nibbāna).'
 The cessation of existence itself is Nibbāna. Apart from this
 there is no other Nibbāna. What the Buddha points out to us is
@@ -209,7 +226,6 @@ That is why we come across in the Ratana Sutta the
 followinglineswhichyou allarefamiliarwithinyourchanting.
 Khaya§virāga§amata§paõãta§
 yadajjhagāSakyamunãsamāhito
-9
 natenadhammena samatthikiñci…
 'That destruction (of craving), that detachment, that
 excellent Deathlessness, which the concentrated Sakyan sage
@@ -225,13 +241,15 @@ of attachment to aggregates of form, feeling, perception,
 preparations and consciousness. Where there is not even a trace
 of attachment there is extinction. It is due to that grasping
 conditioned by the fire of craving that rebirth occurs.
-10
 'Conditioned by grasping is existence. With the cessation of
 grasping there is parinibbāna. That is called 'Anupādā
 Parinibbāna'. So now we have to understand what is meant by
 'parinibbāna',whatthisperfectextinctionamountsto.
-From the last statement here, one can form an idea as to
-what the highest or ultimate point of existence is. From the
+In that quotation we brought up it was said that the
+Fortunate One, perfectly extinguished as he is, preaches the
+Dhamma for perfect extinguishment. But today the moment one
+hears the word 'parinibbāna' one is reminded of the after-death
+state of the arahants. As a matter of fact, the last thought of the
 dictum, 'Bhavanirodho nibbāna§' – 'Cessation of existence is
 Nibbāna', it is clear that the Buddha has called the cessation of
 existence itself Nibbāna. But this cessation of existence is a
@@ -269,7 +287,6 @@ accusations fairly and squarely pointing out that their criticism
 is groundless. “They are falsely accusing me for something I do
 not say. For monks, formerly as now, I make known only a
 suffering and a cessation of suffering. “Pubbecāha§ bhikkhave
-14
 etarahicadukkhañcevapaññāpemidukkhassa canirodha§.”
 The teaching of the Four Noble truths is extremely
 wonderful in that the five aggregates of grasping without
@@ -296,6 +313,9 @@ Pahārāda Sutta is in perfect symmetry with the image of the
 vortex. Apart from that there is no mysterious non-descript
 realm or conclave where all arahants after their demise find
 eternalrepose.
+illustration we may cite an instance from the Buddha's life itself.
+In he Mahā Parinibbāna Sutta we find the Buddha coming out
+withsuchanexperience.
 “Monks, when I was once staying in the chaff - house at
 ?tumā, there was a torrential downpour with flashes of lightning
 and peals of thunder. Two farmers – brothers – and four bulls
@@ -347,7 +367,6 @@ conflict–theyputanendtoit.Nibbānaisitsverycessation.
 'Dukkha nirodho nibbāna§' – cessation of suffering is Nibbāna.
 “Eta§ santa§ eta§ paõãta§ yadida§ sabbasa§khāra
 samatho sabbåpadhipañinissaggo taõhakkhayo virāgo
-25
 nirodho nibbāna§”
 “This is peaceful, this is excellent, namely, the stilling
 of all preparations, the relinquishment of all assets,

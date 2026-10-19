@@ -1,4 +1,4 @@
-# SCULPT LOG — 7,109 → 3,103 words (47 → 21 min)
+# SCULPT LOG — 7,109 → 3,374 words (47 → 22 min)
 
 > Law: deletions only, never rewrites. Line refs = SOURCE-RAW.txt.
 > Footnotes 7 (Vedic hiding-myth) + 8 (extinction bugbear) PROMOTED to voice —
@@ -20,6 +20,21 @@
 - 968–1006: here-and-now close → upasamanussati → purify-view
 - 1007–1015: meditation dedication (kept — a reading should end in blessing)
 - 1026–1039: footnotes 7–8 as the modern close
+
+## Seam audit (every join read cold, 2026-10-19 — 4 breaks found and fixed)
+- 199→200: was mid-sentence ("son of Mallas. arahanthood…"). FIXED: restored
+  200–213 whole (tonsure marvel intact).
+- 423→448: ocean quote landed cold. FIXED: restored 424–428 (Pahārāda setup,
+  verbatim — "nondescript realm… namely Pahārāda Sutta").
+- 560→647: "From the last statement here" dangled at cut Bhaddaji dialogue.
+  FIXED: dropped 645–646; joins as "the last thought of the dictum" — mildly
+  compressed, covered by a [break] in direction.
+- 755→808: Ātum→ dialogue opened mid-quote. FIXED: restored 804–807
+  (Mahāparinibbāna setup, verbatim).
+- 1015→1026: blessing → Vedic-myth polemic is abrupt by design (coda warning);
+  the brahmin-defense earlier (687–696) already set the tone. Kept.
+- Page-number artifacts ("5 6", lone digits) stripped throughout — readout
+  normalization, not rewriting (damn doctrine).
 
 ## Cut (with reasons)
 - 200–210: ordination procedure detail (skin-pentad list) — slows the hook
