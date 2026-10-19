@@ -438,3 +438,115 @@ that is neither table, bed, nor wardrobe’.
 13.     Let us consider two adjacent levels of generality, O and o,
 where O endures for one moment while o undergoes an infinity of
 transformations in an accelerating series. But the symbols O and o
+simply give the immediate thing (§I/15), and we need to see the struc-
+ture of the thing. We must therefore write each thing in the form oo ox
+and expand accordingly. We also need to see the structure of the two
+adjacent levels at the same time. This will give us the figure of §I/16
+            o o       o o   o o       o o
+             a         b
+            o x       x o   x o       o x
+                  A               B
+            o x       x o   x o       o x
+             c         d
+            o o       o o   o o       o o
+(h), viz:   o x       x o   x o       o x
+                                            .
+            o o       o o   o o       o o
+                  C               D
+            o o       o o   o o       o o
+            o x       x o   x o       o x
+
+(This figure is out of scale: it should be one-quarter the size.)
+
+                                                                    125
+                       fundamental structure II
+
+We see that O is represented by A B          ab
+                                C D and o by c d . (Note that D, for
+example, is simply ac db with interchange of both columns and rows,
+
+i.e. d c
+     b a , and similarly with B and C.) Let us suppose that, at the lower
+level, repeated interchange of columns (a-b, c-d) is taking place.
+This, naturally, will be taking place in all four quarters, A, B, C, and
+D. Let us also suppose that, to begin with, the relative weights of the
+three possible interchanges of O are 1(A-B) : 2(A-D) : 3(A-C). We
+have seen in §7 that whenever an interchange, oo ox ox oo say, takes
+place, it is actually not simply an interchange, but a disappearance of
+o o leaving just x. This x is then the fresh x x , which in its turn be-
+o                                            xo
+comes o, and so on. In other words, each time what we have repre-
+sented as an interchange takes place, things lose a dimension. This
+statement can be inverted, and we can say that the present, each
+time it advances into the future, gains a dimension, with the conse-
+quence that immediately future things, when they become present,
+will necessarily appear with one dimension less. Though, from one
+point of view, O remains invariant throughout the series of inter-
+changes (it is the series of interchanges, of any or all of the three pos-
+sible kinds), from another point of view, each time an interchange
+takes place O vanishes and is replaced by another O differing from
+the earlier O only in that having been future to it (or of lower
+order— see §9) it has, relative to it, a second dimension. We must at
+once qualify this statement. The loss of a dimension takes place at
+the level, not of O, but of o, which is at a lower level of generality;
+and properly speaking we should say that O loses an infinitesimal
+part of its one dimension each time there is the loss of a dimension at
+the level of o. Similarly, O’s successor is only infinitesimally future or
+of lower order. In other words, O’s dimension is of a higher order
+than that of o. But consideration of O’s possible interchanges takes
+place at the level of o, as we may gather from the necessity, noted
+above, of writing O in the reflexive form oo ox . It must therefore be un-
+derstood that when we say that each future O has one more dimen-
+sion than the present O, the dimension in question is a dimension of
+o, not of O. The original O, then, while present, has one dimension:
+its successor, so long as it is future, has two dimensions: and when
+this becomes present it appears as having one dimension, just as its
+predecessor did when present. But the original O now has no
+
+126
+                        fundamental structure II
+
+dimension; for it has vanished. (That is to say, o has vanished: O is
+actually no more than infinitesimally closer to the point of
+vanishing —which means that it remains absolutely the same, in the
+ordinary meaning of that word. But we have to remember that
+changes in a thing’s internal distribution of weight —the weight, that
+is, of its determinations— do not affect it.) Relatively speaking, then,
+each next future O has one more dimension, at the level of o, than
+the present O, even though it has but one dimension when it is itself
+present. If, therefore, the relative weights of the possible inter-
+changes of the original O are in the proportions 3:2:1, the relative
+weights of the succeeding O, when it becomes present, will be in the
+proportion 9:4:1, that is, with each number squared. Following that,
+the next O will have relative weights 81:16:1, and so on. It is obvi-
+ous, first, that the most heavily weighted of the possible interchanges
+will tend more and more to dominate the others and, in a manner of
+speaking, to draw all the weight to itself; and secondly, that it can
+only draw the entire weight to itself after an infinity of squarings,
+that is, of interchanges at the level of o. As soon as one of the three
+possible interchanges has drawn the entire weight to itself and alto-
+gether eliminated its rivals, that interchange takes place (at the level
+of O).p In the case we are considering there will be interchange of
+rows, i.e. of A and C, and of B and D. Notice that this interchange is
+quite independent of the kind of interchange that is taking place at
+the next lower level: interchange of rows at the level of O does not in
+the least require that the interchange at the level of o should also
+have been of rows.
+
+
+
+
+                              (Unfinished)
+
+
+
+
+       p.   §I/4 (d) would seem to imply that three different frequencies are
+involved, all converging to infinity together. This will complicate the arith-
+metic, but can scarcely prevent the eventual emergence of one dominating
+interchange. (If they are not all to be squared together, the relative weights
+a : b : c must be made absolute before each squaring:
+    a         b        c    .)
+ a+b+c,    a+b+c  , a+b+c
+
+                                                                         127
