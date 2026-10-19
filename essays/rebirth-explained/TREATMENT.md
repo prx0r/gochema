@@ -109,3 +109,16 @@ One transit motif per school (breakers / granary / 17-frame strip / vortex / lot
    luminosity link. No separate segment — it is infrastructure, not a rival.
 Out of scope (noted, not filmed): Zen (see Dōgen beat as one line if needed),
 Nichiren, Tiantai/Huayan — scholastic detail the compression doesn't need.
+
+## FUGEN SOLVED + PURE LAND CANON SECURED (2026-10-19)
+"Fujin" = **Fugen (Samantabhadra)**. Heian-period finding (Kiss 2026):
+pre-sectarian Pure Land was plural — Lotus devotion + repentance + nenbutsu
+co-existed, with Samantabhadra as karmic-hindrance remover and Lotus-practitioner
+protector. Use: one line in the Pure Land nutshell ("before it was a sect, it
+was a crowd") — guards against the "Pure Land = just chanting" flattening.
+- Canon: `library/pureland/three-pure-land-sutras.pdf` (BDK, 188pp — Larger,
+  Contemplation [nine grades source], Smaller). THE primary source.
+- Killer shared-ontology beat: **Nagarjuna AND Vasubandhu both vowed Pure
+  Land rebirth** — the Madhyamaka and Yogacara founders endorsing other-power
+  (Tanluan's Commentary: Easy Path vs Difficult Path, "sailing vs walking").
+  Emptiness logic + storehouse psychology both land in the same lotus pond.
