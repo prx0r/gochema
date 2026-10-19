@@ -121,3 +121,49 @@ properly in its own film — TBOTD animated, parked in TRILOGY"). The full
 6 Orthodox Christian → 7 Greek → 8 Jain → 9 Śaiva → 10 Daoist → 11 Yoruba
 → recap anchors (Theravāda/Pure Land/Tibetan-on-screen-thin) → GLOBAL
 ontology (now FIVE carrier families) → callback to v1.
+
+---
+
+## ROSTER ADD-ON (owner, 2026-10-19): THE MODERN WEST / CHANNELED WING
+> Two new stops (12–13) OR a dedicated special — the format fits either way.
+
+### STOP 12 — THE CHANNELED (Seth, Ra, Cannon, Yogananda)
+- **Seth (Jane Roberts)** — the sharpest one: linear reincarnation is a
+  useful illusion; all your lives are *simultaneous*, "you" distribute across
+  them (time not sequential). STRUCTURAL MATCH: this is HH's present-birth
+  answered by a channeler — two utterly unrelated sources, same cut. Callback
+  gold: "the monk and the trance-medium independently dissolved the timeline."
+- **Dolores Cannon** — no-death gap: you "clock out" of one life, review,
+  choose, "clock in" — rebirth as internship program. WE OWN THE BOOKS:
+  R2 `uploads/` Convoluted Universe 1–4 (epub+pdf) — pull confirmed earlier.
+- **Ra / Law of One** — the forgetting-veil (third-density amnesia as the
+  mechanism), 25,000-year cycles, wanderers. OUR CHANNELED STUFF: old-box
+  essayviz `notes/01-ra…15-doyle-vs-ochema-vs-ra.md` + damn's channeled-
+  wisdom project (Ra/Seth/Cassiopaean, rights-gated on LL permission —
+  clearance flag before any video quoting verbatim beyond fair use).
+- **Autobiography of a Yogi** — the guru line as carrier: Lahiri Mahasaya
+  living in two bodies at once (continuity of *conscious individuality*,
+  not mechanism) — the folk-counter to every philosophy above. Public-domain-
+  adjacent; verify copy before import.
+- CARRIER FAMILY addition: **simultaneity** (Seth) — a sixth answer: not
+  what persists, but nothing needs to — it's all one present.
+
+### STOP 13 — THE ASTRAL/NDE WEST (white light, archons, lizards)
+- NDE astral realm (white-light tunnel + life review) → vis-à-vis Tibetan
+  clear light: THE visual rhyme of the whole film (same event, one names it
+  liberation, one names it tunnel). Science ledger belongs to the Science
+  follow-up — here only the *maps* compared.
+- **ARCHONS**: Gnostic rulers → modern "lizard-people" conspiracy — pays off
+  the owner's lizards joke from v1 at planetary scale: the archon is the
+  oldest conspiracy-theory object in the West (Gnostic text → Valentinus →
+  internet). One beat: "you joked about lizards. the gnostics were serious
+  in 100 AD, the 4chan version is the folk-retelling." Guard: keep it as
+  cultural anthropology, not endorsement (fairness law).
+- White light vs clear light: SELL as the global film's best single split-
+  screen — same light, two bureaucracies.
+
+### Position
+Wing fits after Yoruba (the map's tail: the modern West), before the global
+ontology recap — because Seth's simultaneity SHATTERS the carrier table
+(it's the only answer where nothing travels because nothing *has* to) and
+then the cliffhanger callback to v1 lands even harder.
