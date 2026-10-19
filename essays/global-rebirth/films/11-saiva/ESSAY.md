@@ -7,7 +7,7 @@
 
 ---
 
-## CH.1 — COLD OPEN: THE MIRROR (0:00–1:15)
+## B1 / CH.1 — THE MIRROR SCENE (0:00–1:15, act I)
 
 > DIR: dark room, one standing mirror, a figure walks past — the reflection
 > does not match for ONE frame, then syncs. Sound: a single struck bell.
@@ -18,7 +18,7 @@ every tradition in this series answers the same question with a mechanism.
 kashmir shaivism answers with an event that happens while you're still
 alive: you catch your own face.
 
-## CH.2 — THE TWO LAYERS (1:15–4:00)
+## B2 / CH.2 — THE TWO LAYERS (1:15–3:00, act I)
 
 what they believe, compressed: there is no soul commuting between bodies.
 what continues is the act of recognition itself — īśvara-pratyabhijñā:
@@ -33,7 +33,11 @@ answer: [READ — Ratié excavation, Utpaladeva]: every cognition is
 "svaprakāśa (self-luminous): just as light reveals objects because it
 manifests them by manifesting itself."
 
-## CH.3 — THE PROOF (4:00–7:15)
+## B3–B6 / CH.3 — THE PROOF (3:00–9:15, acts I–II)
+
+> B3 (3:00–5:00): question-flip lead-in · B4 (5:00–6:45): AXE beat, gag
+> then dissolve · B5 (6:45–8:00): three powers, three clicks · B6 (8:00–9:15):
+> felt-surprise — the film's ONLY fast montage, 5 faces ≤2s, one hit.
 
 the argument, in three moves, in their own words.
 
@@ -58,7 +62,7 @@ and the buddhists saw the same light and drew the other conclusion:
 non-positional reflexivity, but rejects the conclusion that there is no
 Self." the whole disagreement sits inside one shared observation.
 
-## CH.4 — THE EXACT MOMENT OF DEATH (7:15–11:00)
+## B8 / CH.4 — THE EXACT MOMENT OF DEATH (12:30–16:00, act III — four layers, four clicks)
 
 the same discipline as the buddhist cut: three layers, their words, no fog.
 
@@ -100,11 +104,14 @@ depends on initiation-grade: samayin, putraka, sādhaka — [READ, ibid.]:
 initiation, the knowledge, and even the place of death." note the map:
 sacred-place matters here exactly as Kashi matters in the Hindu film.
 
-> DIR: THE MONEY SHOT (revised): mirror-walk → at the merge frame, the
+> DIR: B7 MONEY SHOT (9:15-12:00): mirror-walk → at the merge frame, the
 > body's layers retract upward (tattva-ladder as anatomy: world-segments
 > lifting off into light) → white-flash. ≥20s take.
 
-## CH.4b — THE METAPHYSICS: WHY ANYTHING REPEATS (11:00–13:00)
+## B9–B10 / CH.4b — METAPHYSICS + THE CLIMAX (16:00–20:30, act III)
+
+> Rhythm: 2s hold after "death is not a prerequisite for final release" ·
+> white-flash + 2s black at B10's "I am not dying."
 
 now the part that answers the film's actual question — why does this system
 produce rebirth AT ALL if recognition is possible without dying?
@@ -128,7 +135,7 @@ deadline off the table. and the cold-open mirror gets its source: [READ —
 PS 9]: "As the face is revealed in a spotless mirror, so This (Self) is
 revealed as light in the mind purified by śaktipāta."
 
-## CH.5 — PRIMACY + GUARD (9:45–12:00)
+## B11 / CH.5 — GUARD (20:30–22:30, act IV — hard cuts only, no dissolves)
 
 says who: the only school that turns no-self positive without reinstalling a
 passenger — recognition-act, not substance. and the corpus is unbroken:
@@ -142,13 +149,16 @@ buddhist rejoins — you re-named the process; the dust of the charge from the
 jain film: you reified again. [READ — one objection verbatim from the
 session file, at draft].
 
-## CH.6 — THE DEATH-QUESTION, ANSWERED (12:00–14:00)
+## B12–B13 / CH.6 — THE FACE RECOGNIZED + CLOSE (22:30–26:00, act IV)
 
 so what is death, here? the moment the mirror stops being funny. the loop of
 not-seeing that was wearing bodies ends — or starts again. there is no
 commute; there is either the face or another room of not-faces.
 
-> DIR: end on the mirror, bell again, black.
+> B12 DIR: recognition reprise — SAME camera height, SAME mirror as B1, but
+> the reflection is lit divine from FRAME 1 (the callback law: mismatch now
+> reversed). longest exhale of the film: 5s hold, no cuts, no narration
+> until 2s in. > B13 DIR: bell, black, series-next card.
 
 [END — film 11. Series close (five-family table, finale) rides in the
 series' own episode per _shared/CLOSE.md when the cycle completes.]
