@@ -1,0 +1,9 @@
+*.mp4
+*.wav
+*.png
+*.jpg
+scenes/
+.env
+.r2-env
+__pycache__/
+*.pyc
