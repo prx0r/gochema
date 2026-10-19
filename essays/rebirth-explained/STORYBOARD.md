@@ -117,3 +117,35 @@ not their creed" as counterweight (08 meta-objection).
 ## CHECK: the three things per school?
 YES — WHAT/WHY/HOW exist for all 7 in COMPRESSED.md (Thai Forest = entry 7),
 surfaced above per row with quote anchors. Nothing missing for v1.
+
+## RHYTHM UPDATE (owner 2026-10-19): compress → joke → "does that make it clearer?"
+Per-school block becomes: CONCISE SOURCE-LINKED EXPLANATION (quotes chained,
+2-4 lines of your words over resources/01-07) → JOKE BEAT (your joke; seeds
+below are mine to throw, yours to take or kill) → the check-line: "does that
+make it clearer?" — repeated as motif until the shared-ontology turn.
+
+### Joke seeds per school (take or kill — yours)
+- Tibetan: "49 days to sort your stuff — longest probate in the universe."
+- Yogācāra: "you're not a person, you're an accounting problem with karma."
+- Theravāda: "seventeen thoughts to pack a life into a bag. i can't even
+  pack a bag in seventeen thoughts."
+- Forest: "their teacher checked his past lives like checking the footy scores."
+- Pure Land: "the only school where the suicide hotline is a lotus."
+  (or: "amida does the driving, you just sit in the car.")
+- Madhyamaka: "nothing is reborn and that's the answer. philosophers have
+  been doing this to us for two thousand years."
+- Shared: "they agree on everything except what carries it — like six
+  airlines arguing about what happens to your luggage."
+
+### After S15 (shared metaphysics distillation + callbacks)
+NEW BEAT S15b (place after callbacks, before FAQ): SCIENCE — ONE HONEST CARD,
+≤45s, cite-only (keeps v2 as the full treatment): "and what does the science
+of it say? honestly — nobody's proved or disproved it. the forest tradition
+says it themselves: it's a wager. meanwhile AWARE-II had 21% of cardiac-
+arrest survivors recalling death with brainwaves an hour in, and a biologist
+named Levin studies meditators whose bodies don't rot. that's not proof.
+that's not nothing either. deep dive on that next video." (Sources:
+SCIENCE-REVIEW.md. Voice = observer, your register.)
+Better-direction verdict: yes to this compact beat over skipping science —
+the shared-metaphysics distillation raises "is any of this real?" and
+leaving it blank breaks the fairness law. But ONE card, not a section.
