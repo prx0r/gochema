@@ -1,0 +1,956 @@
+Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+
+
+
+
+Dharmakirti’s Dualism: Critical Reflections on
+a Buddhist Proof of Rebirth
+Dan Arnold*
+University of Chicago
+
+
+
+Abstract
+Dharmak}rti, elaborating one of the Buddhist tradition’s most complete defenses
+of rebirth, advanced some of this tradition’s most explicitly formulated arguments
+for mind-body dualism. At the same time, Dharmak}rti himself may turn out to
+be vulnerable to some of the same kinds of arguments pressed against physicalists.
+It is revealing, then, that in arguing against physicalism himself, Dharmak}rti does
+not have available to him what some would judge to be more promising argu-
+ments for dualism (arguments, in particular, following Kant’s 2nd Critique) – and
+indeed, that these arguments actually cut against Dharmak}rti’s own position.
+After elaborating and characterizing Dharmak}rti’s case for rebirth, then, this
+article briefly considers an argument that Dharmak}rti cannot himself enlist for
+this purpose.
+
+
+
+1. Introduction: How Reductionists Can be Dualists
+‘Eastern philosophies’, one sometimes hears people say, ‘are generally
+nondualist’. While it requires little effort to disabuse reasonable inter-
+locutors of the idea that ‘eastern philosophy’ is a useful category – it usually
+suffices to note the tremendous internal complexity of both the Indian
+and Chinese philosophical traditions, not to mention the enormous dif-
+ferences between these two broad streams of thought – the ‘nondualist’
+characterization nonetheless sticks persistently to Buddhism, in particular.
+   A passing acquaintance with Buddhist thought makes it easy to appreciate
+why this might be so; Buddhists, after all, are proponents chiefly of the
+‘without self ’ (anâtma) doctrine, and surely nothing could be more anti-
+Cartesian than thus to hold (as Buddhists do in elaborating this idea) that
+every moment of experience can be shown to depend upon a host of
+causal factors, none of which is what we ‘really’ are. Buddhist philosophers,
+that is, can reasonably be thought characteristically to urge a broadly
+reductionist account of persons – one according to which, for example, we
+are not entitled to infer that our episodic cognitions and experiences must
+be the states of an underlying ‘self ’; rather, only the particular and
+momentary causes themselves are to be judged finally real. The remarkably
+© 2008 The Author
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1080 Dharmakirti’s Dualism
+
+thoroughgoing anti-essentialism of Buddhist philosophers is surely part of
+what explains the characteristically modern preoccupation with Buddhist
+thought, which is increasingly represented as a possible contributor to the
+contemporary cognitive sciences – as (in one expression of this idea) itself
+a tradition of ‘mind science’.1 Insofar as the prevailing trends in the
+contemporary stream thus taken to be comparable to Buddhism are themselves
+avowedly non-dualist, this helps cement the impression.
+   It is important to understand, however, that exemplars of the Buddhist
+philosophical tradition – and here I will have in view the Indian tradition
+of Buddhist scholastic thought, particularly as that developed in the course
+of the first millennium c.e. – in fact elaborated an eminently dualist
+account of the person. The Buddhist emphasis on the dynamic and relative
+character of subjectivity is not, then, incompatible with the view that
+among the causes of this are constitutively mental existents such as are
+irreducible to physical existents. What is denied by Buddhists, in other
+words, is only that ‘the mind’ denotes (as the definite article perhaps
+suggests to speakers of English) an enduring substance; to argue, as Buddhists
+do, that our experience is better explained by an event-based ontology
+than by a substance-based one is not by itself to say anything, then, about
+whether there could be essentially different kinds of events. Indian Buddhist
+philosophers could (and did), then, coherently maintain both that ‘persons’
+consist simply in causally continuous series of events, and that the series
+of mental events, insofar as it continues after the death of the body, has
+indefinite temporal extension. It is, indeed, just the post-mortem continuity
+of any series of mental events that is called ‘rebirth’.
+   It is perhaps especially the significance of ‘rebirth’2 for the Buddhist
+soteriological project that gave philosophers in this tradition a strong stake
+in refuting any version of physicalism. Indeed, the traditionally transmitted
+utterances of the Buddha include, in this regard, several passages to the
+effect that physicalism is finally a more pernicious error even than self-grasping
+(which is saying a lot, since the latter is thought by Buddhists to be the
+primary cause of our suffering). The reason for this, as Richard Hayes has
+succinctly put it, is that
+   if there is no rebirth, then the very goal of attaining nirvA{a, understood as
+   the cessation of rebirth, becomes almost perfectly meaningless. Or rather,
+   nirvA{a comes automatically to every being that dies, regardless of how that
+   being has lived. (‘Dharmak}rti on Rebirth’ 128)3
+Indian Buddhist thinkers thus held that physicalism was tantamount to
+ethical nihilism.
+    Perhaps insofar as physicalism was not a widely entertained option on
+the Indian philosophical scene, there are few sustained attempts by Buddhist
+thinkers to refute such a position. There is, though, one particularly revealing
+attempt to take on the challenge of physicalism. This is to be found,
+fittingly enough, in the work that most influentially advanced a trajectory
+
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1081
+
+of thought that subsequent Indian philosophers took as practically co-
+extensive with the ‘Buddhist’ position in matters philosophical: the
+Pramâðavârttika – the ‘Commentary’, we might reasonably translate, ‘on
+Reliable Doxastic Practices’ – of Dharmak}rti, who is generally taken to
+have lived c.600 – 660 c.e. One of the most remarkable chapters of this
+vast and complex text comprises a lengthy refutation of a physicalist
+interlocutor who denies the possibility of the Buddha’s having cultivated
+his compassion over innumerable lifetimes; against the objections of this
+interlocutor, Dharmak}rti argues that mental events cannot be thought to
+depend on the body.
+   Dharmak}rti’s text is usefully considered, then, for the unique extent to
+which it makes clear (contra many contemporary appreciators of Buddhism)
+that (and how) Indian Buddhists were dualists. In trying to characterize
+his arguments for such a position, though, it is perhaps just as interesting
+to reflect on the kinds of arguments that Dharmak}rti does not make
+against physicalism – and this because of some central commitments
+(centering, above all, on the primacy of causal explanation) that may finally
+make Dharmak}rti more like physicalists than unlike. In considering
+Dharmak}rti’s ‘proof of rebirth’, then, I particularly want to draw attention
+to the fact that Dharmak}rti does not have available to him what seems
+to me the most promising line of argument for the irreducibility of the
+mental – and indeed, that the line of argument I have in mind actually
+cuts against Dharmak}rti’s own position. Dharmak}rti himself, I will thus
+suggest in concluding, is vulnerable to an argument from the irreducibility
+of reasoning – a line of argument that can usefully be sketched with
+reference to Kant’s Critique of Practical Reason. That this should be so can
+tell us some important things about Dharmak}rti’s approach – about the
+possibility of being a dyed-in-the-wool dualist, while yet maintaining
+philosophical commitments that are central to contemporary iterations of
+physicalism. Let us first see, however, how sharply Dharmak}rti diverges
+from physicalism.
+
+2. ‘Compassion is the Proof’: Dharmakïrti’s Critique of Physicalism
+Despite its enormous influence on the subsequent course of the Indian
+and (to this day) Tibetan traditions of Buddhist scholasticism, Dharmak}rti’s
+Pramâðavârttika is not a very accessible text. Not only does it deal with
+intrinsically complex and elusive philosophical topics, but there is no
+complete translation of the text into any western language, and even such
+basic text-critical questions as the correct order of chapters are still debated.4
+Moreover, like nearly all classical Indian philosophical texts, Dharmak}rti’s
+work consists of often highly elliptical, metrical verses, many of which are
+unintelligible without a commentary. Close study of his thought, then,
+requires reference to a vast corpus of Sanskrit literature (and to the
+Tibetan translations thereof that are sometimes all that survive).
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1082 Dharmakirti’s Dualism
+
+    As the title of the text tells us, Dharmak}rti is (typically of Indian
+philosophy) centrally concerned with the category of pramâða, which we
+might render as ‘reliable warrant’ or ‘valid doxastic practice’ – something,
+at any rate, that picks out its referent’s being a criterion of knowledge. Most
+Indian philosophers were preoccupied with which doxastic practices (e.g.,
+those involving perception, inference, testimony, comparison) should thus
+be reckoned as criteria (as pramâðas), and with characterizing the criteria
+so identified. Dharmak}rti famously argued (what would commonly be
+held by Buddhists writing after him) that only perception and inference
+had this status; all other ways of arriving at knowledge, he argued, are
+reducible to one of these.
+    In what most modern interpreters reckon to be the second chapter of
+the Pramâðavârttika,5 Dharmak}rti deploys the logical and epistemological
+tools developed in the rest of the text to mount an unusually complete
+defense of many aspects of the Buddhist worldview. The context for his
+doing so is (to give the title of this chapter) pramâðasiddhi – a ‘proof ’, that
+is, ‘of pramâða’. More precisely, what Dharmak}rti here sets out to provide
+(in the form of an elaboration of one of a philosophical predecessor’s
+epithets for the Buddha)6 is a demonstration that the Buddha himself was
+the paradigm case of pramâða – that he was pramâða, incarnate. While
+there is some debate about what, precisely, it could mean thus to take the
+person of the Buddha to embody, as it were, the category of ‘valid doxastic
+practice’, it is clear enough that what is at stake is the authoritative status
+of the claim the Buddhist tradition should be thought to make on us;
+Dharmak}rti tries to show, that is, why we should have confidence in the
+truth of what the Buddha taught.
+    Interestingly, the principal basis for Dharmak}rti’s case is the thought
+that the Buddha exemplified a fathomlessly profound degree of compassion;
+‘the proof (sâdhanam)’, Dharmak}rti thus says (in this chapter’s 34th verse),
+‘is compassion’.7 In other words, the Buddha evinced such remarkable
+compassion that this should itself be taken as the basis for an inference to
+the Buddha’s uniquely comprehensive insight.8 That this thought should
+occasion the elaboration, in the remainder of the chapter, of a comprehensive
+defense of a Buddhist world view nicely exemplifies, I think, what it is
+to do philosophy; for what Dharmak}rti effectively does, in the remainder
+of the chapter, is carefully consider what else must be true in order for this
+thought to make sense. To think philosophically about one’s commitments,
+that is, just is to reflect carefully on what else one is committed to in virtue
+of believing whatever one does. This way of characterizing the philosophical
+task makes sense of the thought (associated with philosophers of hermeneutics)
+that there is in all meaningful statements a ‘surplus of meaning’; for the
+purport of any thought is always vastly exceeded by the innumerable states
+of affairs that would be entailed by its truth.9
+    What else, then, must be the case in order for it to be true that the
+Buddha exemplified such an astonishing degree of compassion? It is striking
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1083
+
+that for Dharmak}rti, the first point to be made here is that thought
+(buddhi) cannot depend upon the body. Thus, in the same verse in which he
+asserts that it is compassion that warrants the Buddha’s authority, Dharmak}rti
+avers that this compassion is based on disciplined ‘repetition’ (abhyâsa) of
+spiritual practice – repetition, that is, over the course of innumerable
+lifetimes. This occasions the objection (anticipated in yet the same verse)
+that this supposition is unwarranted ‘because of thought’s dependence
+upon the body’ – because, that is, of the fact that the death of the body
+terminates (insofar as the body is a necessary and sufficient condition of )
+the mental events that alone can be thought to motivate the alleged
+‘repetition’. Dharmak}rti completes this verse (and introduces the ensuing
+critique of physicalism) by saying that this objection to his demonstration
+of the Buddha’s authority can be put aside ‘based on a refutation of
+[thought’s] dependence [on the body]’.10
+    While the ensuing refutation of physicalism is elaborated over the
+course of many tens of verses, most of what is significant about Dharmak}rti’s
+characteristic position is actually stated in the subsequent verse-and-a-
+quarter. Here, Dharmak}rti says:
+   It is not the case that inhalation, exhalation, sensation, and thought arise,
+   independently of [causes] of the same kind, from the body alone, since there
+   are absurd consequences given the assumption of [such] arising. (35 –36a; text
+   in Shastri 20)11
+A great deal of the argument that follows consists in debate concerning
+the various unwanted consequences of taking (in effect) the phenomena
+of sentience – respiration, perception, cognition – to arise only in dependence
+upon the body. Most of what we need to know about Dharmak}rti’s
+position, though, is expressed here in the reference to causes ‘of the same
+kind’ (sajâti). His main point, then, will be that sentient phenomena must
+have among their causes events that are themselves sentient; events, more
+generally, must have ontologically homogeneous causes. The claim is thus
+that the events that constitute the physical body are ontologically distinct
+from those that constitute respiration and the rest.
+   In play in Dharmak}rti’s assertion here is a standard-issue Buddhist
+analysis of the causal conditions of any moment of awareness. The idea,
+commonly elaborated in the Buddhist tradition’s earliest scholastic system-
+atization of Buddhist commitments (the so-called ‘Abhidharma’ literature),
+is that among the causes of any cognition is an immediately preceding
+moment of awareness (called a samanantarapratyaya).12 Visual awareness, for
+example, cannot suddenly emerge from factors that do not themselves
+possess the property of seeing – rather, any such moment must always
+have among its causes something that itself exemplifies the same properties
+now displayed. There is much to be said about the characteristically Buddhist
+commitments that motivate this idea, and about what there might be to
+recommend this view.13 It could reasonably be said, though, that what we
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1084 Dharmakirti’s Dualism
+
+have here is most generally a critique of the idea of emergent properties – a
+critique, that is, of the idea that moments of awareness could be thought to
+supervene on things that are not themselves aware (or, still more generally,
+that wholes could have properties not possessed by any of their parts).
+    There is a significant cluster of Buddhist commitments behind such a
+view. These particularly center on the role of karma in the Buddhist
+worldview. For Buddhists, it is the karma (most appropriately translated as
+‘action’) of sentient beings that finally explains everything about our
+situation – that explains, indeed, everything that a theist typically means
+to explain by invoking God as creator of the world. As one of the
+foundational texts of the Sanskritic Buddhist tradition puts this point, ‘the
+manifoldness of the world is produced by the karma of sentient beings’.14
+The same text then immediately proceeds to say that karma essentially consists
+in thought (cetanâ). This passage is explicitly invoked by Dharmak}rti’s
+commentators, who explain, early in his critique of physicalism, that ‘[i]t
+is only karma characterized as volitional consciousness (cetanâ) which
+remains alone [to account for the diversity of life]’ (Franco 181).15
+    The intuitively plausible point here is that action, at least insofar as it
+is ethically significant, is intentional – what can be meaningfully cultivated
+by Buddhist practice, that is, is finally the mental dispositions that inform
+sentient activity. Insofar, then, as karma is thus enlisted to explain the
+constitution of our experience of the world (and indeed, that of the world
+itself ),16 what is invoked is above all something mental. This emphasis gives
+the tradition a strong interest in the irreducibly mental character of its
+most significant explanatory terms; indeed, the basic impulse here represents
+a strong conceptual pressure in the direction of metaphysical idealism,
+which is arguably the view that Dharmak}rti himself finally holds. To the
+extent, then, that this trajectory of thought may indeed be finally ‘non-
+dualist’, that is not true in a way that gives any comfort to contemporary
+physicalism; for if it is right to say there is monism here, it is surely of a
+finally idealistic kind.
+    If, then, Dharmak}rti is at the end of the day willing to jettison any
+part of the picture he elaborates in the section now before us, it is in fact
+the physical world that he can do without. It may not, then, really be a
+problem for Dharmak}rti that (as we will see) his position entails problems
+regarding the interaction of physical and mental events; the presently
+unfolding case for dualism is really meant just to show the irreducibly
+mental character of mental events – whether or not one also admits the
+reality of the physical is really beside the point.17 Again, though, the
+‘irreducibly’ mental character of events here is not incompatible with
+Buddhism’s basically reductionist account of persons; the reduction of the
+whole that is a ‘self ’ to its basic parts consists, on this Buddhist view, in
+showing there to be a causally describable series of events (and not an
+enduring substance) – but that is compatible with thinking the ontologically
+basic events themselves to be irreducibly mental. Contrary to what is surely
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1085
+
+a widely prevailing assumption, then, reductionism – here understood as the
+view that a final ontology should make no reference to temporally endur-
+ing macro-objects, but only to the ontological primitives that constitute
+them – is not necessarily co-extensive with physicalism.
+   What, in any case, could be thought to warrant Dharmak}rti’s assertion
+that the causes of sentient phenomena could not be imagined ‘independently
+of [causes] of the same kind’ (together with the concomitant claim that
+physical states are not thus ‘of the same kind’)? Again invoking a standard-
+issue Buddhist account of the sense faculties, Dharmak}rti first argues that
+awareness of the physical sense faculties is dependent upon thought, and
+not the converse:
+   Even when there is damage of each of the sense faculties, there is not of mental
+   cognition; but when there is destruction of the latter, destruction of the sense
+   faculties is observed. Therefore, the basis of thought’s continuity, founded only
+   on thought, is the cause of the senses; the senses, therefore, depend on
+   thought. (Verse 39, text in Shastri 22)18
+
+   Indian Buddhists, in this regard, shared with many other Indian philoso-
+phers the view that the sense faculties should actually be reckoned as six:
+the five familiar senses (often distinguished by Buddhists as the rûpïndriya,
+the ‘form-possessing’ or material senses), plus the ‘mental’ (manas, an Indo-
+European cognate) faculty. The five familiar sense faculties, typically
+understood as based in material sense organs, have as their respective
+objects the same things we would expect: the ocular sense faculty apprehends
+color and shape, the auditory faculty apprehends sound, etc. The object
+of the ‘mental’ senses faculty then is the outputs of each of the other five. That is,
+the five sense faculties whose respective organs are physical are understood,
+on this model, as something like simple transducers; contact between any
+of these and its proper objects generates, that is, a ‘signal’ such as can be
+the direct object of awareness. But it is only when that signal is, as it were,
+received by the mental faculty that one can be said to have full-blown
+awareness of (say) something seen.19 Dharmak}rti’s point here, then, is
+simply that one can have occurrent cognitions in the absence of any (or
+even all) of the five bodily sense faculties, but not in the absence of the
+mental sense faculty.20 It is, in other words, intelligible that there be mental
+content without sensory input – but the ‘unreceived’ transmission of physical-
+sensory signals, in contrast, would not by itself constitute any awareness
+at all. It is, to that extent, the mental that is conceptually basic here.
+   A few verses later, Dharmak}rti considers one of the problems that can
+be thought to arise for proponents of the foregoing picture: if the mental
+faculty is thus independent of the various faculties of the body, then why
+is cognition an invariably embodied phenomenon? How, that is, can it be
+denied that cognition depends on the body, and yet explained that we
+only see cognition exemplified in beings with bodies?21 This is well known
+to be an intractable problem for dualists; having insisted on there being
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1086 Dharmakirti’s Dualism
+
+two irreducibly distinct kinds of things, it becomes difficult to explain how
+they can interact. Dharmak}rti’s answer: ‘These occur together because
+there is no difference in their cause’ – in the same way, he explains, that the
+various sense faculties of a single person are independent of one another,
+respectively yielding knowledge of properties of objects (color, taste, etc.)
+that too are independent of one another (Verse 48b, text in Shastri 25).22
+The cause these things all share, as one of Dharmak}rti’s commentators
+tells us, is of course karma.23 The intentional action of beings, that is,
+creates (their experience of)24 a world in which thought interacts with
+bodies. But karma, we have seen, is itself finally mental – so this explanation
+again has the effect of making the mental logically primary.
+   Dharmak}rti also devotes considerable space to developing the absurd
+consequences that, on his reading, would follow from holding that thought
+does depend on the body. Most of these boil down to a problem that the
+commentators note right at the beginning, in regard to Dharmak}rti’s
+opening contention that ‘there are absurd consequences’ given the assumption
+that thought arises from the body. With respect to the second passage we
+saw from Dharmak}rti,25 then, the commentator Manorathanandin thus
+anticipates what is a recurrent line of thought:
+   If one assumes that respiration and so forth arise only from the material
+   elements, then these [sentient phenomena] could arise from anything; hence,
+   the whole world would consist of sentient beings. (Manorathanandin on 36a;
+   text in Shastri 21)
+If, in other words, it were held that material elements produce thought,
+then there would be no principled way to explain why only some
+arrangements of the elements do so; one would have to suppose that
+anything at all could give rise to awareness.
+   The same idea is in play in a lengthy discussion of states that seem
+manifestly to involve the interruption of awareness. Most compellingly, of
+course, there is the case of death – and chief among the unobserved
+entailments of supposing thought to depend on the body is (as Dharmak}rti
+notes at verse 51) that the death of the body would not result in the
+interruption of that body’s consciousness; for the body is, after all, still
+available as a cause even when it is lifeless.26 It cannot, then, be the body
+itself that produces awareness, since the material elements do not by
+themselves suffice to distinguish a live body from a dead one.
+   Among the things that do distinguish between live and dead bodies is
+the occurrence of respiration; hence, the foregoing point gives rise to the
+question of whether respiration, like the senses, depends on thought, or
+vice versa. Against an imagined interlocutor who notes that respiration
+continues during sleep (when, presumably, consciousness is not present),
+Dharmak}rti ventures the (not very promising) argument that respiration
+must result from conscious effort; otherwise, he suggests, awareness would
+wax and wane as the rate of respiration does.27
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1087
+
+    But of course, this makes it necessary for Dharmak}rti to explain what
+causes respiration during the kind of deep sleep in which conscious effort
+is clearly not in play. While his answer is (again) not very promising as an
+account of the supposedly deliberate character of respiration, it usefully
+illustrates what are perhaps the most difficult problems for the whole
+approach that takes moments of cognition invariably to have previous
+moments of cognition among their causes. Here is how the commentator
+PrajñAkaragupta puts the point:
+   neither the body nor inhaling, etc., are the cause of cognition [after dreamless
+   sleep]. Only the cognition previous [to dreamless sleep] is the cause. And if
+   that [previous cognition] has arisen from the body, then the inadmissible
+   consequence would follow that [the cognition] would not cease [as long as the
+   body lasts]. (Franco 271)28
+And again (expressing the same line of thought in commenting on a later
+verse):
+   The cognition [after awakening] that depends on a previous trace (saMskâra)
+   arises from a cognition although it is separated [in time] (vyavahita). And this
+   [past cognition] is not cut off by [the subsequent] sleep. (Franco 291)29
+   There is, then, here an appeal to something like remote causation: In
+order to salvage the idea that cognitions must always have previous cognitions
+among their causes, Dharmak}rti must thus hold that any cognition that
+is immediately preceded by an absence of consciousness is somehow
+caused by the last cognition to precede the loss of consciousness.30 It could
+reasonably be thought, however, that this compromises precisely the intuition
+behind the Buddhist appeal (noted at the beginning of our survey of
+Dharmak}rti’s arguments) to the ‘immediately preceding moment of awareness’
+(samanantarapratyaya) – that this shows, in other words, how difficult it is
+to defend a reductionist account that (as Dharmak}rti arguably does) takes
+mental events to be explicable entirely in terms of efficient, local causation.31
+   These problems are not, however, incidental to Dharmak}rti’s position
+here; indeed, the lengthy discussion of the case of deep sleep turns out to
+relate closely to the point Dharmak}rti initially set out to argue, which is
+that rebirth is possible. The commentator PrajñAkaragupta explicitly makes
+the connection: ‘At the beginning of life and when awakening [after
+dreamless sleep], cognition is perceived precisely as following a previous
+trace’ (Franco 292).32 The arguments we have canvassed here are finally
+meant to show, then, that what we take to be the first moment of a
+newborn baby’s awareness is really like the initial awareness one has upon
+waking from deep sleep; just as the cognitive emergence from sleep is
+caused by a preceding cognition (albeit, one that itself precedes an
+intervening period without consciousness), so, too, the ‘first’ awareness of
+a baby is really not primary at all – rather, it must, for the kinds of reasons
+considered here, have among its causes the last moment of awareness in
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1088 Dharmakirti’s Dualism
+
+what is conventionally called a ‘previous life’. This, then, is finally why it
+is reasonable to think the Buddha’s compassion could have been cultivated
+over the course of innumerable lifetimes.
+
+3. Conclusion: The Path Not Taken
+It would, I think, be reasonable to characterize Dharmak}rti’s arguments
+here as involving views significantly akin to vitalism – to the idea, that is,
+that sentience must finally be explained by the presence of some kind of
+intrinsically ‘sentient’ force or principle, which is irreducibly different in
+kind from physical things.33 In an essay on the Buddhist ŒAntaraksita’s
+(725–788 c.e.) critique of ‘personalistic vitalism’, Matthew Kapstein has
+made the point that vitalist trends are not necessarily antithetical to Buddhist
+reductionism. Noting an influential Chinese Buddhist text to this effect,
+Kapstein observes that
+   [c]onsciousness . . . comes to assume here precisely the functions of the [Brahmanical]
+   âtman, the differences between them being with respect to the properties of
+   permanence and pervasiveness, which are attributed to the âtman but not to
+   consciousness. (107)34
+What Buddhist reductionists are committed to, then, is only the denial
+that an enduring and autonomous substance individuates the person – a
+view, again, that is not incompatible with thinking that mental events in
+a series exhibiting only causal continuity might nonetheless be irreducible
+to anything physical.
+   While the Buddhist view from which both of these claims follow – that
+there is no enduring ‘self ’, but that mental events cannot supervene upon
+physical events – is unmistakably dualist, it is not without consequence
+that the irreducibly mental events, on this view, are thus thought to constitute
+series only owing to their causal continuity. It is significant, that is, that
+the constitutively mental events, on Dharmak}rti’s account, nevertheless
+consist in causally describable particulars. Indeed, by Dharmak}rti’s lights, this
+is as it must be if mental events are to be reckoned ‘real’ at all; for
+Dharmak}rti, putting the point in terms of a characteristically Buddhist
+reference to levels of description (‘two truths’), famously says that
+   whatever has the capacity for causal efficacy is said here to be ultimately
+   existent; everything else is conventionally existent. These two [sets consist,
+   respectively, in] unique particulars and abstractions. (Pramâðavârttika 3.3, text
+   in Shastri 100)
+   Surely there are good Buddhist reasons to think as much; the converse of
+the Buddhist doctrine of selflessness is that of ‘dependent origination’
+(pratïtyasamutpâda) – that is, the reason we do not have enduring ‘selves’
+just is that every moment of experience can be seen to originate in
+dependence upon innumerable causes, none of which is an unchanging
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1089
+
+self. Dharmak}rti’s broadly empiricist epistemology – which privileges
+perception as uniquely in contact with really existent things just insofar as
+perceptual cognitions alone are caused by the objects thereof 35 – thus
+recommends the conclusion that only the fleeting sense data of episodic
+perceptions are finally real, without also warranting the (inferential) belief
+that these must be the states of an underlying self. This is the sense, then,
+in Dharmak}rti’s minimizing the significance of those abstract objects
+(such as propositions and states of affairs) that figure in inferential cognitions;
+for the self is, for Buddhist thinkers, the originating example of the kind
+of ‘whole’ or abstraction whose reality they thus mean to refute.
+   Dharmak}rti’s dualist account, then, is one that takes mental events to
+be exhaustively describable in efficient-causal terms. It is, finally, in this
+characteristic emphasis on causal explanation that we really see the reduc-
+tionist tenor of Dharmak}rti’s thought; to that extent, however, the account
+we have here considered begins to look (to invoke the kind of picture that
+is usually contrasted with vitalism) rather mechanistic. Indeed, Dharmak}rti’s
+confidence that mental events can be explained in terms of efficient, local
+causation arguably makes his account more like the physicalist accounts he
+rejects than unlike. We can, I would like to conclude by suggesting,
+appreciate this by briefly considering a line of argument against physicalism
+that Dharmak}rti does not deploy – and by considering, indeed, that
+what I take to be a more promising line of argument actually cuts against
+Dharmak}rti’s own position.
+   The line of argument I have in mind, which can be sketched with
+reference to Kant’s Critique of Practical Reason, emphasizes the extent to
+which something integral to personhood will not obviously admit of
+efficient-causal description – specifically, the very fact of reasoning. The
+question to be pressed here is whether ‘relations such as one thing’s being
+warranted or correct in light of another’ (McDowell, Mind and World xv)
+– the constitutively normative relations, that is, that characterize the content
+of discursive thought – can be reduced to (or otherwise explained in
+terms of ) causal relations. Kant, I take it, thus took the same question as
+central to the second Critique:
+   The first question here, then, is whether pure reason of itself alone suffices to
+   determine the will or whether it can be a determining ground of the will only
+   as empirically conditioned. (12)
+   Kant’s question here amounts to the question whether our conceptual
+capacities are to be understood in terms of our responsiveness to reasons
+as such, or whether, instead, the exercise of our conceptual capacities can
+be exhaustively explained in terms that do not finally make any reference
+to what we experience as our ‘reasons’ for acting or believing as we do.
+The point at issue, in other words, is whether reasons are efficacious as
+reasons, or whether it is only under some other description that they can
+finally be thought to figure in accounts of persons. An overriding concern
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1090 Dharmakirti’s Dualism
+
+with the question of ‘mental causation’ – the question of how (or even
+whether) anyone’s having a reason can be thought to figure in explanations
+of their behavior – has led many physicalist philosophers to suppose that
+it is only as alternatively described that reasons can be thought to have
+properly explanatory value. G. F. Schueler has aptly characterized the
+motivation behind this thought:
+   the truths (even assuming they are truths) that constitute the contents of ...
+   mental states cannot by themselves explain anything. Truths ... are timeless,
+   abstract entities. So, the reasoning goes, they cannot enter into explanations of
+   actions ‘by themselves’, but only via the agent’s awareness of them (or via some
+   other propositional attitude the agent takes toward them). It must, therefore,
+   be the things (‘mental states’) that have these true or false contents that do the
+   explaining. (58)
+
+In other words, abstract things like the conceptual contents of reasons or
+beliefs can only be thought to explain our behavior to the extent that they
+can be alternatively described as the kinds of things that can be thought
+to cause anything. On a physicalist version of this idea, the conceptual
+content that is represented as one’s reason for acting some way is understood
+to have explanatory significance only insofar as it ‘really’ consists in something
+else – in particular neurophysiological states or events, for example.
+   In the second Critique, Kant framed the foregoing questions in terms
+of whether or not reason is ‘practical’, by which he meant to ask simply
+whether reason is ‘concerned with the determining grounds of the will’
+(12) – whether, that is, any explanation of what we do must include some
+reference to our reasons for doing so (and conversely, whether our reasons
+for acting have some role in explaining how we act). Emphasizing that he
+thus means to ask about our responsiveness to reasons as such, Kant basi-
+cally took his whole task in the second Critique as being ‘merely to show
+that there is pure practical reason’ (3) – merely to show, that is, that it cannot
+coherently be supposed that reasons have explanatory value only insofar
+as they are alternatively described or ‘empirically conditioned’.
+   The crux of his argument to this effect is the thought that there is a
+performative contradiction involved in any attempt to argue otherwise. As
+he puts this point, ‘if as pure reason it is really practical, it proves its reality
+and that of its concepts by what it does, and all subtle reasoning against
+the possibility of its being practical is futile’ (3). Thus, if it is not the
+contents of our beliefs and reasons that figure in the explanation of our
+action, but simply (in Schueler’s words) ‘the things (“mental states”) that
+have these true or false contents’, then our beliefs and reasons really turn
+out to be epiphenomenal; if, in other words, it is only under a different
+description (say, as instantiated in mental event X) that a belief does anything,
+then its being a belief is finally beside the point. The Kantian argument is
+that this cannot coherently be maintained, since it is impossible, on such
+a view, to make sense of anyone’s trying to persuade us of its truth. How,
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1091
+
+in other words, can it be thought that the content of beliefs is finally
+irrelevant to their description, and at the same time held that the content
+of the physicalist’s own belief about beliefs is itself true? The deceptively
+simple point here is that any attempt to argue that reason is actually not
+‘concerned with the determining grounds of the will’ – that, for example,
+our ‘reasons’ for acting as we do really have explanatory significance only
+insofar as they are really something else (e.g., brain states) – will itself turn out
+just to be an instance of reason’s ‘determining grounds of the will’. That
+is, the fact that our reasoning has some role to play in our behavior is not
+something that can coherently be denied, since it is only by reasoning that
+one could do so; reason, we have seen Kant say, therefore ‘proves its reality
+and that of its concepts by what it does’ (3).
+    This is a line of argument that has recently been cogently elaborated in
+the influential work of Lynne Rudder Baker.36 Whether or not it is finally
+judged promising, it is important for an understanding of his position to
+appreciate that Dharmak}rti does not have this kind of argument available
+to him; for this line of argument exploits a point (namely, the extent to
+which the exercise of our conceptual capacities resists causal explanation)
+that Dharmak}rti is particularly concerned to deny. Indeed, Dharmak}rti
+elsewhere aims to show precisely that our conceptual capacities (and concepts
+more generally) can be reduced to transactions between causally efficacious
+particulars; this is the point, more precisely, of his famously elusive but
+interesting apoha doctrine of linguistic meaning (and more generally, I think,
+of conceptual mental content). Thus, just as Dharmak}rti’s account of
+mental events centrally involves the idea of causal continuity, so, too,
+Dharmak}rti’s epistemology privileges the kind of causally describable per-
+ception that he takes to be constitutively non-conceptual – and the apoha
+doctrine that represents Dharmak}rti’s strongly nominalist attempt to explain
+how conceptual content comes to be based on that is itself a fundamentally
+causal account, akin, in some ways, to contemporary projects in psycho-
+semantics.37 This all represents, it seems to me, part of what puts Dhar-
+mak}rti in the broadly empiricist stream of thought that would show how
+our use of concepts can be elaborated out of the resources available simply
+in sensory perception – but it is also comparable to the efforts of cognitive-
+scientific physicalists to show how the exercise of our conceptual capacities can
+be shown to consist finally in the causally describable workings of a brain.
+    Of course, if Dharmak}rti’s attempt to provide a causal-reductionist
+account of reasoning were judged successful, that might undermine the
+cogency of the argument from practical reason sketched here. The fact
+that many contemporary philosophers aim to provide similarly reductive
+accounts of reason surely recommends care in proceeding – as does the fact
+that the full-blown account that is only partly advanced by Dharmak}rti’s
+proof of rebirth is finally one according to which the cosmos consists
+entirely in events that are, somehow, at once mental and impersonal. The
+fact that we have a hard time imagining this (a hard time imagining, that
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1092 Dharmakirti’s Dualism
+
+is, what a Buddha ultimately knows) may not count for much in a tradi-
+tion which teaches that our predicament stems from the fact that we are
+massively mistaken about what we are really like.
+    Be that as it may, those of us who are still in saMsâra are constrained
+to try to fathom such things using the tools of reason. From that point of
+view, I confess to being impressed by the Kantian argument suggested
+here – and, with other proponents of such an argument, to being baffled
+by the idea (to which, I think, Dharmak}rti and physicalists are alike
+committed) that we might use reasoning to persuade ourselves that reasoning
+does not finally have any explanatory role to play in our behavior. Wherever
+our inclinations lie, however, surely it tells us something interesting about
+the various positions in play that Dharmak}rti, though having set out to
+refute physicalism, turns out himself to be vulnerable to what some have
+judged a more promising refutation of physicalism.
+    Among other things, it may show that neither Dharmak}rti nor con-
+temporary physicalists are really as ‘anti-Cartesian’ as conventional wisdom
+would have it. On the view I have in mind, the salient point of the Cartesian
+approach is the thought that ‘the inner life takes place in an autonomous realm,
+transparent to the introspective awareness of its subject’ (McDowell, ‘Singular
+Thought’ 236) – the thought, in other words, that mental content is intelligible
+with reference only to things internal to the subject. Whether one has in
+view a soul or a brain – or, with Dharmak}rti, causal series of constitutively
+reflexive mental events – is, then, finally less significant than the idea that this
+‘inner space’ is intelligible independently of how things are in the world.38
+Among the salient points of the Kantian argument, on this view, is that it
+can be understood to point in the opposite direction; what characterizes the
+reasoning that this argument exploits is (among other things) its constitutively
+social character. While there is of course a much longer story to tell about
+this idea, perhaps this brief suggestion can help us appreciate that it may
+not, after all, be so surprising if Dharmak}rti’s vitalistic dualism has a whiff
+of Descartes; for while it is surely integral to understanding Dharmak}rti’s
+elaboration of Buddhist commitments that he be seen as a thoroughgoing
+reductionist, it is just as important to appreciate that such an approach
+looks very different when wedded to the view that what persons are
+reducible to is existents that are themselves irreducibly mental.
+
+Short Biography
+Dan Arnold is Assistant Professor of Philosophy of Religion in the Divinity
+School at the University of Chicago. His first book, Buddhists, Brahmins,
+and Belief: Epistemology in South Asian Philosophy of Religion (Columbia
+University Press, 2005), won an American Academy of Religion Award
+for Excellence in the Study of Religion. His articles have appeared in such
+journals as Philosophy East and West, the Journal of Indian Philosophy, Journal
+of the International Association of Buddhist Studies, and Asian Philosophy.
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1093
+
+Notes
+* Correspondence address: 1025 East 58th Street, Chicago, IL 60637, USA. Email:
+d-arnold@uchicago.edu.
+1
+   For a useful collection of recent work in this area, see Wallace. See also Siderits, Personal
+Identity for a philosophically sophisticated development of Buddhist accounts of the person; and
+Siderits, ‘Buddhism and Techno-Physicalism’ for consideration of Buddhist thought particularly
+vis-à-vis what Siderits calls ‘techno-physicalism’.
+2
+  The scare quotes are meant to emphasize the misleading character of this term; for the prefix
+‘re-’ suggests that there is, as in many Hindu versions of this idea, some one thing (a self !) that
+is again undergoing the process of birth. On the Buddhist version of this idea, the point is
+simply that the causally continuous series of mental events is not interrupted by the death of
+the physical body, and this mental continuum can become associated, in future ‘lives’, with all
+manner of different bodies.
+3
+  Hayes is emphatic on the point; there is, he says, ‘no other philosophical view that is more
+radically opposed to the tenets of Buddhism than materialism’. (‘Dharmak}rti on Rebirth’ 128)
+The extent to which the guiding concerns here are ethical comes through clearly in a well-
+known passage from the Pali Dïgha Nikâya, in which a proponent of materialism is thus
+represented as characterizing his view: ‘there is nothing given, bestowed, offered in sacrifice,
+there is no fruit or result of good or bad deeds, there is not this world or the next, there is no
+mother or father, there are no spontaneously arisen beings, there are in the world no ascetics
+or Brahmins who have attained, who have perfectly practised, who proclaim this world and the
+next, having realised them by their own super-knowledge. This human being is composed of the
+four great elements, and when one dies the earth part reverts to earth, the water part to water,
+the fire part to fire, the air part to air, and the faculties pass away into space. They accompany the
+dead man with four bearers and the bier as fifth, their footsteps are heard as far as the cremation-
+ground. There the bones whiten, the sacrifice ends in ashes. It is the idea of a fool to give this
+gift: the talk of those who preach a doctrine of survival is vain and false. Fools and wise, at the
+breaking-up of the body, are destroyed and perish, they do not exist after death’ ( Walshe 95 – 6).
+4
+  This point is worth noting since the studies and translations to which I will have occasion to
+refer (Hayes, ‘Dharmak}rti on Rebirth’; ‘On the Buddha’s Authority’; Franco) have slightly
+different verse numbers. This is because the edition of Dharmak}rti’s work that Hayes follows
+takes the chapter we will focus on (the chapter entitled ‘Pramâðasiddhi’) to be the first, and thus
+puts Dharmak}rti’s two opening verses of homage at the beginning of it – while Franco follows
+an edition that takes our chapter to be the second, and therefore to begin with what Hayes
+reckons to be the third verse. (Despite my having used an edition that itself does not do so, I
+follow the conventions observed by Franco; thus, a reference here to, e.g., verse 34 in Dhar-
+mak}rti’s text will correspond exactly to Franco’s verse numbers, but will correspond to Hayes’s
+verse 36. I take the chapter of Dharmak}rti’s major work that comprises these verses to be the
+second, though references here will be simply to verse numbers.) The inaccessibility of Dhar-
+mak}rti’s text is said to have been recognized by Dharmak}rti himself, who is traditionally
+represented as having despaired of the possibility of anyone’s rightly understanding it. Dunne
+and Dreyfus provide authoritative and philosophically sensitive overviews of the thought of
+Dharmak}rti.
+5
+  See note 4 above.
+6
+   The philosophical predecessor here is DignAga (c. 480 –540 c.e.), on whom see especially
+Hayes, Dignâga on the Interpretation of Signs. Dharmak}rti’s Pramâðavârttika is ostensibly framed as
+a commentary on the major work of DignAga; on the ways in which Dharmak}rti’s second
+chapter is particularly structured according to the epithets with which DignAga’s opening verse
+glorifies the Buddha, see Franco 15–43.
+7
+   Unless otherwise noted, all translations of Dharmak}rti are my own, from the edition of
+Shastri, which comprises the commentary by Manorathanandin; with the above-noted caveat
+about verse numbers, reference can be made as well to the translations of Franco (159ff), Hayes
+(‘On the Buddha’s Authority’), and Jackson (221ff; this considers Dharmak}rti’s text as it is
+embedded in a much later Tibetan commentary). For a more general consideration of Dhar-
+mak}rti’s arguments specifically for rebirth, see Hayes, ‘Dharmak}rti on Rebirth’; Taber.
+
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1094 Dharmakirti’s Dualism
+8
+   Dharmak}rti’s argument here is significant since, insofar as he proposes that only perception
+and inference have the status of ‘pramâðas’, he wants precisely to avoid allowing that, e.g.,
+Buddhist scriptures are authoritative in and of themselves; for that would be to allow (as some
+other Indian schools of thought held) that the testimony of a tradition could be intrinsically
+authoritative.
+9
+   So, for example, Robert Brandom: ‘we can talk about what still remains implicit in an explicit
+claim, namely, its inferential consequences. For in the context of a constellation of inferential
+practices, endorsing or committing oneself to one proposition ... is implicitly endorsing or com-
+mitting oneself to others which follow from it’ (18).
+10
+    This verse is a very fine example of the characteristic concision of Dharmak}rti’s verses (and
+of the consequent need for reference to commentaries); for in four quarter-verses of eight
+syllables each, Dharmak}rti thus encapsulates a rich dialectical progression: ‘The proof is com-
+passion. This is based on repetition. If it’s objected that repetition is unestablished because of
+thought’s dependence upon the body, we deny it based on a refutation of this dependence’.
+11
+    Cf. Franco 166ff; Hayes, ‘On the Buddha’s Authority’ 39.
+12
+    On a standard list of the conditions of any moment of awareness, this ‘immediately preceding
+moment’ of the same kind is one among four. On this elaboration of the idea, the causes of
+(say) a moment of ocular awareness include (1) a properly functioning visual sense faculty; (2)
+the object seen, reckoned as itself a cause of the awareness; (3) an immediately preceding
+moment of the same kind of awareness; and (4) the ‘hetupratyaya’, which is something of a
+catch-all category, comprising a collection of other relevant causes. For a useful digest of
+traditional accounts of the causal conditions here in play, see Nyanatiloka 118–19. (The discussion
+of the samanantarapratyaya is at pp. 119–20, under the Pali heading ‘Anantara-paccaya’.)
+13
+    Suffice it to say that this is surely among the categories introduced by Buddhists to try to
+account for continuity in the context of what is basically a causal-reductionist project. On this
+idea (and, more generally, on a host of philosophical problems having to do with Buddhist
+attempts thus to explain continuity), see Griffiths passim.
+14
+    This is my translation of the text of Vasubandhu’s Abhidharmakoßa, 4.1a; see Pruden for a
+complete English translation (from an early twentieth-century French translation, made from
+the Tibetan and Chinese translations) of this text.
+15
+    Franco is translating from the commentary of PrajñAkaragupta.
+16
+    I mean by this parenthetical insertion to draw attention to the shift that makes a character-
+istically Buddhist move towards idealism seem natural. Thus, the intuitively plausible soterio-
+logical intuition here is that how we think shapes what we experience; when that intuition is made
+the basis of a complete world view, it becomes, as well, an explanation of (what is conceivably
+a different matter) what there is.
+17
+     Here, it is useful to keep in mind an idea proposed by some modern interpreters of
+Dharmak}rti, who would have us remain sensitive to the shifting perspectives from which he
+argues; see, e.g., Dunne 53ff. I have developed my own thoughts about Dharmak}rti’s supposed
+‘sliding scale of analysis’ in Arnold, ‘Buddhist Idealism, Epistemic and Otherwise’.
+18
+    Cf. Hayes, ‘On the Buddha’s Authority’ 41; Franco 186.
+19
+    The details of this picture are, I think, somewhat obscured by the fact that the ‘signals’
+produced by each of the five bodily senses are themselves called vijñâna, ‘awareness’ or ‘cogni-
+tion’. The point, though, seems to be simply that what each of these material sense faculties
+generates is something ontologically of the kind that could itself be the content that is internally
+related to (the ‘direct object’ of) cognition, and it is really only when there is further produced
+an instance of manovijñâna (‘mental awareness’) that a ‘cognition’ worth the name can be said to
+have occurred. (A picture of the cognitive processes here outlined can be gleaned from the first
+chapter of Vasubandhu’s Abhidharmakoßa; see Pruden vol. 1.) The role of the mental as a discrete
+faculty that thus synthesizes the outputs of the senses already stands in contrast to the views of
+contemporary physicalists; the ‘mental sense faculty’ here envisioned seems, for example, rather
+like the idea that Daniel Dennett has disparaged as that of a ‘Cartesian theater’ (see Dennett)
+– the idea, that is, of a central place where a single spectator takes in all of the various goings-on
+that underlie consciousness (and that only when this happens is there any consciousness).
+20
+    Note, though, that Dharmak}rti, like other pre-modern thinkers, did not have available to
+him the idea that something physical other than the apparatus of the five senses (namely, the
+brain) might be invariably concomitant with awareness.
+
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+                                                                          Dharmakirti’s Dualism 1095
+21
+   Of course, this is not a problem to the extent that Dharmak}rti is finally willing to declare
+for idealism; but he typically argues in ways that are meant to carry conviction more broadly,
+even if much of what he says in a supposedly ‘realist’ way turns out to be compatible, as well,
+with the idealist commitments he finally holds; see note 17, above.
+22
+   See especially Franco 217 for an unpacking of this.
+23
+   So Manorathanandin, commenting on the same verse: ‘But if the body is not the basis [of
+thought], how is it they occur together? Dharmak}rti says, “Because of the non-difference of
+their cause”, which [cause] is known as karma’ (Shastri 25).
+24
+   See note 16 above.
+25
+   See note 11 above.
+26
+   So Dharmak}rti: ‘There is the unwanted consequence of thought’s non-cessation while the
+body, [even though dead, yet] abides’ (Shastri 26; cf. Franco 234ff; Hayes, ‘On the Buddha’s
+Authority’ 50).
+27
+   Verse 52: ‘How could there be exhalation and inhalation of air without effort? There would
+obtain a decrease and increase [of cognition] because of the decrease and increase of these two’
+(Shastri 27; cf. Franco 237ff; Hayes, ‘On the Buddha’s Authority’ 51).
+28
+   This is Franco’s translation of a passage from PrajñAkaragupta’s lengthy commentary on verses
+56 –7. The latter point (that there would again follow the consequence of cognition’s not
+ceasing as long as the body lasts) is the same one made earlier with respect to dead bodies.
+29
+   Franco is translating from PrajñAkaragupta’s commentary on verse 62.
+30
+   Griffiths offers an insightful study of the philosophical problems raised by this issue. These are
+particularly acutely raised, for Buddhists, by their commitment to the idea that meditative practice
+can produce states in which the continuum of consciousness is suspended – a commitment
+which, taken together with the characteristic commitments regarding causation, makes it difficult
+to explain how consciousness can be caused to resume after this meditative state subsides. Griffiths
+suggests that such Buddhist ideas as the âlayavijñâna (the non-intentional ‘storehouse consciousness’
+that is posited as the locus of latent dispositions) were developed to address precisely such problems.
+31
+   I have considered the centrality of this view of causation for Dharmak}rti as motivating some
+commitments that make his position finally analogous to the view that contemporary physicalist
+Jerry Fodor has commended as ‘methodological solipsism’; see Arnold, ‘SvasaMvitti as Method-
+ological Solipsism’. Fodor’s characteristically cognitive-scientific on causal localism is emphasized
+by Garfield, ‘Epochê and ŒUnyatA’ 14–20.
+32
+   Franco’s translation from PrajñAkaragupta’s commentary on verse 62; I have slightly modified
+the translation.
+33
+   This is the case, at least, insofar as Dharmak}rti is taken to argue from a standpoint that allows
+for the reality of the physical body; this characterization is less apt when Dharmak}rti finally
+lays his idealist cards on the table.
+34
+   The word ‘personalistic’ is, then, a significant qualification of the kind of vitalism targeted
+by the Buddhists whose arguments Kapstein considers; what ŒAntarakšita refutes is particularly
+those versions of vitalism that take the vital principle (however conceived) to individuate
+‘persons’ or ‘selves’. Kapstein is right to note, though, that ŒAntarakšita’s ‘view of consciousness,
+which is elaborated elsewhere, does not permit us to conclude that he was a thoroughgoing
+mechanist’ (173), however much his critique of personalistic vitalism may suggest so.
+35
+   I have developed this point (as well as some commentarial attempts to address the problems
+with it) in Arnold, ‘Dharmak}rti and Dharmottara on the Intentionality of Perception’.
+36
+   See especially Baker 113 –74; see, as well, Garfield, Belief in Psychology 109–27, for a strikingly
+similar argument.
+37
+   I have elaborated something of this account (in conversation with contemporary physicalist
+Jerry Fodor) in Arnold, ‘On Semantics and SaMketa’.
+38
+   See McDowell, ‘Singular Thought’ esp. 236–52. I have developed a critique (informed by
+McDowell) particularly of Dharmak}rti’s doctrine regarding the foundational status of svasaMvitti
+(‘self-awareness’) in Arnold, ‘Buddhist Idealism, Epistemic and Otherwise’.
+
+Works Cited
+Arnold, Dan. ‘Buddhist Idealism, Epistemic and Otherwise: Thoughts on the Alternating
+  Perspectives of Dharmak}rti’. Sophia 47.1 (2008): 3 –28.
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+1096 Dharmakirti’s Dualism
+
+——. ‘Dharmak}rti and Dharmottara on the Intentionality of Perception: Selections from “An
+   Epitome of Philosophy” (Nyâyabindu)’. Buddhist Philosophy: Selected Primary Texts. Eds. Jay
+   Garfield and William Edelglass. Oxford: Oxford UP, forthcoming.
+——. ‘On Semantics and SaMketa: Thoughts on a Neglected Problem with Buddhist Apoha
+   Doctrine’. Journal of Indian Philosophy 34 (2006): 415 –78.
+——. ‘SvasaMvitti as Methodological Solipsism: “Narrow Content” and the Problem of
+   Intentionality in Buddhist Philosophy of Mind’. Pointing at the Moon: Buddhism, Logic, Analytic
+   Philosophy. Eds. Jay Garfield and Tom Tillemans. Oxford: Oxford UP, forthcoming.
+Baker, Lynne Rudder. Saving Belief: A Critique of Physicalism. Princeton, NJ: Princeton UP, 1987.
+Brandom, Robert. Articulating Reasons: An Introduction to Inferentialism. Cambridge, MA: Har-
+   vard UP, 2000.
+Dennett, Daniel. Consciousness Explained. Boston, MA: Little, Brown, 1991.
+Dreyfus, Georges. Recognizing Reality: Dharmakïrti’s Philosophy and its Tibetan Interpreters. Albany,
+   NY: SUNY Press, 1997.
+Dunne, John D. Foundations of Dharmakïrti’s Philosophy. Boston, MA: Wisdom Publications,
+   2004.
+Franco, Eli. Dharmakïrti on Compassion and Rebirth. Wiener Studien zur Tibetologie und Bud-
+   dhismuskunde, Heft 38. Wien: Arbeitskreis für Tibetische und Buddhistische Studien Uni-
+   versität Wien, 1997.
+Garfield, Jay. Belief in Psychology: A Study in the Ontology of Mind. Cambridge, MA: MIT Press, 1988.
+——. ‘Epochê and ŒUnyatA: Scepticism East and West’. Empty Words: Buddhist Philosophy and
+   Cross-Cultural Interpretation. New York, NY: Oxford UP, 2002. 3 –23.
+Griffiths, Paul. On Being Mindless: Buddhist Meditation and the Mind-Body Problem. LaSalle, IL:
+   Open Court, 1986.
+Hayes, Richard. ‘Dharmak}rti on Rebirth’. Studies in Original Buddhism and Mahâyâna Buddhism.
+   Vol. 1. Ed. Egaku Mayeda. Kyoto: Nagata Bunshodo, 1993. 111–29.
+——. Dignâga on the Interpretation of Signs. Studies in Classical India, 9. Dordrecht: Kluwer, 1988.
+——. ‘On the Buddha’s Authority: A Translation of the PramA{asiddhi Chapter of Dhar-
+   mak}rti’s Pramâðavârttika’ [first 59 verses only]. 2004. Unpublished manuscript <http://
+   www.unm.edu/~rhayes/download.html> accessed October 2007.
+Jackson, Roger. Is Enlightenment Possible? Dharmakïrti and rGyal tshab rje on Knowledge, Rebirth,
+   No-Self and Liberation. Ithaca, NY: Snow Lion Publications, 1993.
+Kant, Immanuel. Critique of Practical Reason (1788). Trans. and ed. Mary Gregor. Cambridge:
+   Cambridge UP, 1997.
+Kapstein, Matthew. ‘ŒAntarakšita on the Fallacies of Personalistic Vitalism’. Reason’s Traces:
+   Identity and Interpretation in Indian & Tibetan Buddhist Thought. Boston, MA: Wisdom Publi-
+   cations, 2001. 161–77.
+McDowell, John. Mind and World: With a New Introduction. Cambridge, MA: Harvard UP, 1996.
+——. ‘Singular Thought and the Extent of Inner Space’. Meaning, Knowledge, & Reality. Cam-
+   bridge, MA: Harvard UP, 1998. 228 –59.
+Nyanatiloka Mahathera. Guide through the Abhidhamma-Pi‘aka: Being a Synopsis of the Philosophical
+   Collection Belonging to the Buddhist Pali Canon. Kandy, Sri Lanka: Buddhist Publication Society, 1971.
+Pruden, Leo M., trans. (from the French translation of Louis de La Vallée Poussin). Abhidhar-
+   makoßabhâŠyam [of Vasubandhu]. Berkeley, CA: Asian Humanities Press, 1991.
+Schueler, G. F. Reasons and Purposes: Human Rationality and the Teleological Explanation of Action.
+   Oxford: Clarendon Press, 2003.
+Shastri, Swami Dwarikadas, ed. Pramâðavârttika, Äcâryamanorathanandiv“ttiyutam (Dharmak}rtini-
+   bandhAvali’, vol. 1). Varanasi: Bauddha Bharati, 1968.
+Siderits, Mark. ‘Buddhism and Techno-Physicalism: Is the Eightfold Path a Program?’. Philosophy
+   East & West 51.3 (2001): 307–14.
+——. Personal Identity and Buddhist Philosophy: Empty Persons. Burlington, VT: Ashgate, 2003.
+Taber, John. ‘Dharmak}rti against Physicalism’. Journal of Indian Philosophy 31 (2003): 479 –502.
+Wallace, B. Alan, ed. Buddhism and Science: Breaking New Ground. New York, NY: Columbia
+   UP, 2003.
+Walshe, Maurice, trans. Thus Have I Heard: The Long Discourses of the Buddha, Dïgha Nikâya.
+   London: Wisdom Publications, 1987.
+
+
+© 2008 The Author                       Philosophy Compass 3/5 (2008): 1079–1096, 10.1111/j.1747-9991.2008.00175.x
+Journal Compilation © 2008 Blackwell Publishing Ltd
+

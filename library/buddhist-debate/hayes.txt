@@ -1,0 +1,645 @@
+                Dharmakı̄rti on punarbhava
+                                  Richard P. Hayes
+                                          1993∗
+
+
+
+
+1    Introduction
+Religious doctrines and the philosophical arguments supporting them often
+become more clearly defined as a result of being challenged by opposing
+views and counterarguments. Conversely, ideas that are never challenged
+often remain relatively obscure and poorly defined. The process of encoun-
+tering rival ideas and alternative theories requires people to re-examine their
+own assumptions and provide reasons for holding views that could previously
+be taken for granted. It is not surprising, therefore, that a number of impor-
+tant notions within Buddhist philosophy became better defined in the cen-
+turies after they became more widely dispersed in the Indian subcontinent;
+for it was only after coming into contact with opposing theories that many
+of the ideas articulated by the Buddha, and the presuppositions underlying
+those ideas, were seriously examined. Once these doctrines were challenged,
+later Buddhist philosophers had the task of either offering solid arguments
+in their support or revising the doctrines to a form in which they could be
+supported.
+    Among the most important doctrines of early Buddhism, and one that
+remained unexamined for a relatively long time, was the doctrine of rebirth
+(punarbhava). It appears that most other philosophical systems in India
+were, like Buddhism, based on the notion that the foremost predicament for
+all living beings is that they are bound to experience the consequences of
+actions performed in previous lives; therefore, few philosophers challenged
+the Buddha in his statement of this as the problem most in need of a solu-
+tion. Eventually, however, philosophers did arise who began to question the
+doctrine of rebirth and to pose strong arguments against it. Once this opposi-
+tion had been stated, it was no longer possible for Buddhist apologists to take
+the doctrine of rebirth for granted. It became necessary to defend their posi-
+tion by finding evidence in support of it and by finding flaws in the arguments
+adduced against it.
+  ∗ Published as “Dharmakı̄rti on punarbhava.” In Egaku Maeda (ed), Studies in Original Bud-
+
+dhism and Mahāyāna Buddhism. Kyōto: Nagata Bunshodo. Volume One, p. 111–30.
+
+
+
+
+                                             1
+Hayes                          Dharmakı̄rti on rebirth                          2
+
+
+   One of the Buddhist philosophers to rise to the challenge of providing a
+reasoned defense of the doctrine of rebirth was Dharmakı̄rti. A large part of
+one of the four chapters of his Pramān. avārttika is dedicated to answering the
+arguments that had been posed against the rebirth hypothesis. The present
+paper contains a review of the arguments for and against the theory of rebirth
+that Dharmakı̄rti takes into consideration. This review will include a discus-
+sion of how the debate over rebirth is related to other philosophical issues
+that Dharmakı̄rti treats in his Pramān
+                                      . avārttika.
+
+
+2    Context of the discussion
+Before examining the arguments that Dharmakı̄rti presents for and against
+rebirth, it may be helpful to place this discussion into a context. One of the
+four divisions of the Pramān.avārttika is dedicated to an investigation of the
+authority of the Buddha. The central question in this chapter is whether or
+not the Buddha is a source of knowledge (pramān     . a), and if so, then on what
+basis he can be said to be one. In arguing that the Buddha was—or more
+properly, that his words still are—a source of new knowledge, Dharmakı̄rti
+first sets out to establish that, in general, something is a source of knowledge
+if it discloses previously unknown truths. And a truth, says Dharmakı̄rti, is
+a belief that yields expected results when one acts upon it, or at least it is a
+belief that would yield expected results if one were to act upon it. This being
+the case generally, the Buddha is a source of knowledge insofar as he disclosed
+previously unknown truths. In particular, says Dharmakı̄rti, the words of the
+Buddha disclosed for the first time accurate information about the nature of
+discontent ( duh.kha), the nature of its cause, the fact that removing the mis-
+conceptions and desires that cause discontent will eliminate discontent itself,
+and the method of removing those misconceptions and desires. The disclo-
+sures are, of course, very well known to Buddhists as the Four Noble Truths
+(catvāri āryasatyāni).
+     It may be noted in passing that Dharmakı̄rti remains silent about sev-
+eral issues about which there might be controversy today. He does not, for
+example, raise the issue of which Buddhist writings contain the most reliable
+records of the Buddha’s words. This issue, which engages the attention of
+some modern scholars, is not important to Dharmakı̄rti’s overall purpose. His
+principal task is to show that the Four Noble Truths, which he considers the
+very essence of the Buddha’s teaching, are indeed true rather than to examine
+any other nonessential claims made in Buddhist texts. Since on these essen-
+tial points all Buddhist scriptures are in agreement, there is no need to enter
+into the potentially divisive issue of which Buddhist community holds the
+most reliable records of what the Buddha said. Another issue that Dharma-
+kı̄rti does not explore at all is the question of whether the Four Truths really
+were unknown before the Buddha disclosed them. This question, like the
+question of the canonicity of Buddhist texts, tends to be much more inter-
+esting to some modern scholars of comparative religion than it ever was to
+Hayes                               Dharmakı̄rti on rebirth                                  3
+
+
+classical Buddhist philosophers. To a philosophical Buddhist there is really
+nothing to be controverted, since it is almost a matter of definition that the
+person who made the Four Noble Truths available to human beings was the
+Buddha; no detail of the life of whoever it was who first disclosed these truths
+can compare in importance to the truths themselves.
+    Although Dharmakı̄rti does not moot the question of who exactly the Bud-
+dha was in particular, he does make a point of establishing that the Four
+Truths must have been disclosed by a mortal rather than by an immortal
+being. In making this point, Dharmakı̄rti explicitly rejects the view that
+truths are revealed to human beings by an eternal god. The person who dis-
+closed the four noble truths must have been capable of change, he argues,
+for only beings that change are capable of acting, since action necessarily
+involves some kind of change. Therefore the actions of learning, knowing and
+communicating information can be carried out only by beings who undergo
+change, and all beings who undergo change are ultimately mortal. And all
+mortals are limited in what it is possible for them to know. Therefore, the
+Buddha was a mortal with limited knowledge of the world, not an eternal and
+omniscient being. This limitation in the Buddha’s knowledge, however, only
+means that he could not know all the world in all its details; he could not,
+for example, know how many maggots there are in the world—but then, asks
+Dharmakı̄rti, to what use could one put the knowledge of the world’s maggot
+population anyway?
+
+      prāmān.yam. ca paroks.ârthajñānam . tatsādhanasya ca
+      abhāvān nâsty anus.t.hānām iti kecit pracaks.ate (1.31)1
+      jñānavān mr.gyate kaścit taduktapratipattaye
+      ajñôpadeśakaran.e vipralambhanaśaṅkibhih. (1.32)
+      tasmād anus.t.heyagatam   . jñānam asya vicāryatām
+      kı̄t.asam
+              . khyāparijñānam. tasya nah. kvôpayujyate (1.33)
+      heyôpadeyatattvasya sâbhyupāyasya vedakah.
+      yah. pramān.am asāv is.t.o na tu sarvasya vedakah. (1.34)
+      dūram
+           . paśyatu vā mā vā tattvam is.t.am
+                                                . tu paśyatu
+      pramān.am
+               . dūradarśı̄ ced eta gr.dhrânupāsmahe (1.35)
+      31 Some people assert that cognition of hidden objects is authoritative
+      but that one should not undertake some things because there is no proof
+      of their existence.
+      32–33 People fear failure when acting on the advice of someone who
+      does not know; they seek out some knowledgeable person in order to
+      undertake what he says. Therefore, one should investigate that [knowl-
+      edgeable person’s] views about what ought to be undertaken. To what
+      use can we put his knowledge about how many maggots there are in the
+      world?
+  1 References to chapter and verse numbers follow the enumeration in Ram Chandra Pandeya,
+
+The Pramān. avārttikam of Ācārya Dharmakı̄rti: with the commentaries Svopajñavr.tti of the
+author and Pramān  . avārttikavr.tti of Manorathanandin, Delhi: Motilal Banarsidass, 1989.
+Hayes                           Dharmakı̄rti on rebirth                           4
+
+
+     34 What is desired is an authority who is knowledgeable about what
+     ought to be avoided and what ought to be acquired, not an authority who
+     is knowledgeable about everything.
+     35 Whether or not one can see what is far away, an authority must see
+     the truth that people seek. If we want someone who can see far, we will
+     worship vultures.
+
+What the Buddha did know was what was what it is necessary for a person
+to do in order to become free of the kinds of discontent caused by attach-
+ments and aversions that are rooted in misunderstanding. Since this is all a
+person really needs to know, and since this kind of knowledge can be learned
+and communicated by one mortal to another, the Buddha’s knowledge is ade-
+quate to counteract the main problem that human beings face: their own dis-
+quietude.
+     While depicting the Buddha as a mortal with limited knowledge, Dharma-
+kı̄rti also emphasizes that the Buddha was not entirely like all other mortals.
+On the contrary, he was in some respects an extraordinary man. And what
+made the Buddha extraordinary, says Dharmakı̄rti, was his remarkable degree
+of compassion for the sufferings of other living beings, a compassion that had
+been cultivated over the course of many lifetimes of practice (abhyāsa). It was
+this compassion that elevated the Buddha above the level of all other mortal
+human beings, and even above the level of the gods. It is at this stage of his
+overall argument for the Buddha’s authority that Dharmakı̄rti must defend
+the doctrine of rebirth from those who rejected it. If compassion cultivated
+over the course of many lifetimes is said to be what made the words of the
+Buddha more worthy of being heeded than the words of other human beings,
+then anyone who does not believe that beings are reborn will not be con-
+vinced that the Buddha was especially trustworthy.
+
+
+3    The relationship of mental events to the body
+The first issue that comes up for discussion within the context of the debate
+on rebirth is that of the relationship between mental events and the physical
+body. Dharmakı̄rti writes:
+
+     sādhanam. karun.âbhyāsāt sā buddher dehasam   . śrayāt
+     asiddôbhyāsa iti cen nâśrayapratis.edhatah. (1.36)
+     That which establishes [the Buddha as a source of knowledge] is compas-
+     sion that comes from constant practice. One might think that constant
+     practice cannot be established, since consciousness is dependent on the
+     body. But that is not correct, because it can be disproved [that the body]
+     is a support [of consciousness].
+
+The opponents to the doctrine of rebirth, identified by the commentator
+Manorathanandin as Cārvākas, hold a purely materialistic account of con-
+sciousness. According to the materialists, consciousness and all other mental
+Hayes                          Dharmakı̄rti on rebirth                           5
+
+
+events are nothing more than by-products of physical processes. Since men-
+tal events are dependent upon the healthy functioning of the physical body,
+when the physical body ceases to function as a living organism, all mental
+events come to an end. And when mental processes come to an end, then all
+the psychological qualities associated with those mental processes also come
+to an end. Therefore, whatever virtuous or vicious habits a person has cul-
+tivated over the course of a lifetime come to an end when the physical body
+loses its life. This being the case, the materialists would argue, it is impossi-
+ble for merit accrued during the lifetime of one body to be carried over to a
+different body that is born after the death of the first. Similarly, it would be
+impossible for the wisdom or compassion that a mind cultivates in one body
+to become part of the mentality of a mind residing in a different body.
+    Before looking at how Dharmakı̄rti goes about criticizing the view of the
+materialists, it may be useful to examine the epistemological problems that
+this controversy raises. The issue here is whether or not the physical body
+is the cause of mental events. Establishing a causal connection between
+two things is a notoriously difficult problem. The approach to this problem
+that is found in classical Buddhism is the theory of conditioned origination
+(pratı̄tyasamutpāda), the most general statement of which is “When this is
+present, that arises; when this is not present, that does not arise.” A causal
+condition of a given effect, in other words, is that in the presence of which the
+effect arises and in the absence of which the effect does not arise.
+    On first examination, this formula appears to be a satisfactory account
+of our intuitions about the relation between cause and effect. But on closer
+inspection, this general formula turns out to leave some questions unan-
+swered. The controversy concerning the causal relationship between the
+body and mental events is one area in which the classical formula of condi-
+tioned origination fails to provide a clear answer. Since some level of con-
+sciousness occurs at every moment of life, it is not possible to determine,
+using the general formula of conditioned origination, whether it is the life
+of the physical body that causes mental events or mental events that cause
+a physical body to have life. It is necessary, therefore, to look at a number of
+more particular pieces of evidence to see whether they support the material-
+ist hypothesis or the Buddhist hypothesis.
+    Dharmakı̄rti denies the materialists’ contention that mental events are a
+mere by-product of processes in the physical body. Rather, he says, both men-
+tal events and physical events can be seen as effects of the same set of causal
+conditions.
+
+     prān.âpānêndriyadhiyām
+                               . dehād eva na kevalāt (1.37ab)
+     Breathing in, breathing out, the faculties of sensation and consciousness
+     are not products of the physical body alone.
+
+These things are also products of antecendent causal conditions of the same
+class. Since there are other factors involved, which aid their production, it is
+an oversimplification to say they are based only on physical causes. In fact,
+Hayes                         Dharmakı̄rti on rebirth                         6
+
+
+according to Buddhist abhidharma, nothing has a single cause. Rather, every-
+thing that comes into being is the product of a complex of causal factors. One
+kind of causal factor that is always present is an antecedent condition that
+belongs to the same class of thing as the product itself. A mental event, for
+example, is caused by many factors, one of which is a previous mental event.
+Therefore, such things as the life principle, consciousness and other such fac-
+ulties always depend upon a combination of non-material conditions and
+material conditions. That being the case, it is quite an oversimplification to
+say that physical elements are the only cause of consciousness. The relation-
+ship between consciousness and the physical signs of life, such as breathing,
+can be seen as being parallel to the relationship between the red colour of
+a rose and the rose’s aroma; the aroma does not cause the colour, nor does
+the colour cause the aroma, but both are products of the complex set of fac-
+tors that caused the rose to blossom. Dharmakı̄rti follows a similar pattern of
+thinking in his explanation of the realtionship between body and mind:
+
+                             hetvabhedāt sahasthitih.
+     aks.avad rūparasavad                           (1.50bc)
+
+     The coincidence [of the body and consciousness] is due to their having
+     the same cause, like the physical senses and like colour and flavour.
+
+    In saying that mental events are not causally dependent on only the physi-
+cal body, Dharmakı̄rti is not claiming that mental events are entirely indepen-
+dent of the physical body. Rather, he is claiming that both physical factors and
+nonphysical factors play a role in the formation of mental events. Nonphys-
+ical factors are necessary, he observes, to account for the qualitative differ-
+ence between living beings and inanimate objects. A sentient being, even of
+the lowest order of complexity, is different in kind from the four elements that
+constitute the material world. As Dharmakı̄rti elaborates in verses 127–133,
+the mental body—that is, the collection of mental events contained in the
+four nonmaterial aggregates—have properties of a different nature from the
+properties of the physical body. The mental body has such properties as com-
+passion, dispassion, and wisdom or cruelty, attachment and delusion. These
+are not physical properties at all. Nor are these mental properties even cor-
+related with physical properties. Compassion, for example, is not restricted
+to people who have certain physical characteristics, nor are there any physi-
+cal characteristics that cause or even help compassion to arise. Compassion
+is a purely mental phenomenon, caused by other purely mental phenom-
+ena, such as the ability to imagine oneself in the situation of other beings
+and the decision to practice meditation in order to improve one’s character.
+Therefore, sentience cannot be accounted for through purely material causes.
+Some other factor must be present along with the physical factors. The phys-
+ical elements themselves can be compared to a seed; in the same way that
+there can be no plant without a seed, there can be no consciousness with-
+out the physical elements. But a seed cannot grow into a tree all by itself; it
+Hayes                           Dharmakı̄rti on rebirth                            7
+
+
+requires the help of other factors. And similarly, the physical elements can-
+not produce consciousness by themselves but must be aided by other non-
+material factors.
+
+     na sa kaścit pr.thivyāder am. śo yatra na jantavah.
+     sam. svedajādyā  jāyante sarvam . bı̄jâtmakam. tatah. (1.39)
+     tat sajātyanapeks.ān.ām aks.âdı̄nām
+                                            . samudbhave
+     parin.āmo yathâikasya syāt sarvasyâviśes.atah. (1.40)
+     39 There is no part of [the four elements, namely,] earth and so on in
+     which creatures such as those [insects] which are born of moisture can be
+     born. Therefore everything must have the nature of a seed.
+     40 Therefore, if the sense faculties arise without depending on nonma-
+     terial causes, then the evolution of everything would be like the evolution
+     of any one thing, without any distinctions [in cause].
+
+If there were no nonmaterial factors to account for the special qualities of sen-
+tience, says Manorathanandin in his commentary, there would be no distinc-
+tion between a sentient being and a lump of earth, for both would be derived
+from exactly the same causes and conditions.
+     Now in saying that the physical body is not the only factor in the produc-
+tion of mental events, Dharmakı̄rti has still not fully answered the challenge
+of the materialists. For even if they concede the point that there are factors
+other than physical processes involved in the formation of mental events, it
+is still possible to claim that no mental events can occur in the absence of
+certain physical processes. In other words, even if physical processes are
+not a sufficient condition for mental events, they may still be a necessary
+condition. And if this is the case, then it would still be impossible for the
+package of mental events that have accompanied one physical body to leave
+that body and become associated with a different physical body. Therefore,
+if Dharmakı̄rti wishes to salvage the doctrine of rebirth, he must show that
+mental events can occur even in the absence of physical processes. This he
+tries to do in the following verse:
+
+     pratyekam upaghāte ’pi nêndriyān.ām  . manomateh.
+     upaghāto ’sti bhaṅge ’syās tes.ām
+                                         . bhaṅgaś ca dr.śyate (1.41)
+     Even if the sense faculties are destroyed individually, the thoughts within
+     consciousness are not destroyed. And it is observed that when there is a
+     modification in the thoughts within consciousness, there is a change in
+     the sense faculties.
+
+The point seems to be that the mind does not stop working, even if every one
+of the physical senses stops functioning. Even if a person had no sight, no
+hearing, and no sense of smell, taste and touch, the mind would continue
+to produce thoughts. This shows, claims Dharmakı̄rti, that consciousness is
+not dependent on the physical senses. On the other hand, a slight modifi-
+cation in mood can have a profound effect on the way the senses operate.
+Hayes                                 Dharmakı̄rti on rebirth                                     8
+
+
+Manorathanandin elaborates this by observing that the senses of a person
+who is very excited or panic-stricken function differently from the senses of
+a person who is calm. This means not only that the mental processes are
+independent of the physical faculties of sense but that the physical senses are
+dependent on consciousness. This argument is evidently designed to lead to
+the conclusion that one must reject the materialist’s claim that consciousness
+is purely a by-product of physical processes.
+    There is, unfortunately, one glaring oversight in Dharmakı̄rti’s argument;
+while claiming that thoughts can occur even when the five physical senses
+are impaired or destroyed, he fails to take into account the possibility that
+these thoughts do nevertheless have a physical basis themselves other than
+the five physical senses. Several schools of Buddhist abhidharma did sub-
+scribe to the view that the heart (hr.daya) is the physical basis of thinking in
+the same way that the eye is the physical basis of seeing.2 Dharmakı̄rti’s argu-
+ments against the materialistic view of mental events and for the position that
+mental events are ultimately independent of a physical basis would therefore
+not be acceptable to all Buddhists. Perhaps out of a desire to avoid topics
+that were controversial within Buddhism while arguing against non-Buddhist
+positions, Dharmakı̄rti seems to avoid altogether the issue of whether or not
+thinking depends on the functioning of a physical organ.
+    As has been stated above, the position of the materialist is that the body
+is a sufficient condition for consciousness; there is, in other words, no other
+causal factor that one must appeal to in order to account for the presence of
+awareness. But if this were so, argues Dharmakı̄rti, then a person would never
+die. The reasoning is as follows: It is common observation that all the ele-
+ments of the physical body continue to be present when a person dies, and
+if these elements were sufficient to support life, then life would never end,
+because the physical elements are always present. The materialists might
+reply to the above argument by saying that life is not caused by the mere
+presence of the elements of the physical body; rather, the elements must
+be arranged in a particular way so that they can work together to draw air
+into the body. It is the function of breathing that accounts for life, and it is
+the presence of life that accounts for consciousness. Anticipating such an
+argument from the materialists, Dharmakı̄rti replies that if it is admitted that
+life depends on breathing, then it can be shown that breathing is caused by
+consciousness, not vice versa. First of all, breathing and consciousness are
+coincident—one is never found without the other. Therefore, it is just as likely
+that consciousness causes breathing as that breathing causes consciousness.
+   2 See Louis de La Vallée Poussin, L’Abhidharmakośa de Vasubandhu, Brussels: Institut belge
+
+des hautes études chinoises, 1971 [reprint], volume 1, p. 32. In a note La Vallée Poussin compares
+the views of several schools of Buddhism on this issue. Some schools, such as the Theravādins
+and the Tāmraparn.ı̄yas, accepted a physical basis for thought; the Theravādin canonical works
+on abhidhamma did not name this physical basis, but later Theravādin doctors such as Bud-
+dhaghosa specified that thought is based on a physical organ named the hadaya (heart). The
+view of Vasubandhu, expressed in his prose commentary to 1.17cd in his Abhidharmakośa, a
+text that clearly had a strong influence on Dharmakı̄rti, is that thought does not have a physical
+basis as the other types of awareness do.
+Hayes                             Dharmakı̄rti on rebirth                           9
+
+
+But in fact, says Dharmakı̄rti, it is much more likely that consciousness is the
+cause of breathing than that breathing is the cause of consciousness, because
+if breathing were the cause of consciousness, then an increase in the amount
+of air breathed would lead to an increase in consciousness.
+      tadbhāvabhāvād vaśyatvāt prân.āpānau tato na tat (1.53cd)
+      preran.âkars.an.e vāyoh. prayatnena vinā kutah.
+      nirhrāsātiśayāpattir nirhrāsâtiśayāt tayoh. (1.54)
+      Breathing in and out occurs when consciousness is present; therefore
+      breathing arises from the powers of the mind rather than vice versa.
+      There is no exhalation or inhalation of air without conscious effort. One
+      would get a decrease or increase of consciousness as a result of a decrease
+      or increase of breathing.
+
+One can only guess to what extent Dharmakı̄rti intended this last argument
+to be taken seriously; it is likely to be one of the many examples in the
+Pramān . avārttika of the author’s philosophical playfulness. On the other
+hand, Dharmakı̄rti does return several times in the chapter under discussion
+to this issue of the relationship between physical events and mental events.
+In verse 105, for example, he argues that if the body is the cause of the mind,
+then either the body in its totality must be the cause of consciousness, or dif-
+ferent parts of the body must be the independent causes of different parts of
+consciousness. If it were the case that the body as a whole must be present
+in order for consciousness to arise, then the loss of even one atom of the
+body would result in the loss of consciousness. And if different parts of the
+body gave rise to different parts of awareness, then we would in effect have
+many acts of consciousness at once rather than just one at a time. He then
+uses an argument of exactly the same structure to support the view that con-
+sciousness is not caused by the the act of breathing taken as a whole nor by
+one breath at a time. Therefore, concludes Dharmakı̄rti, mental events are
+not caused by physical events of any kind; rather, mental events and physical
+events simply occur together at the same place and the same time, each being
+the result of separate chains of antecedent conditions.
+
+
+4    The question of whether death has a cause
+Another issue that arises from this entire discussion of how physical events
+and mental events are related is the question of what causes the death of
+the physical body—or rather, whether there is a special cause for death. The
+materialists argue that life and consciousness can be fully explained in purely
+physical terms; they hold, nevertheless, that much more than the mere pres-
+ence of the physical elements is necessary to support life. The humours must
+also be in proper balance. When the humours are out of balance, say the
+materialists, the result is disease. A diseased body ultimately causes a cessa-
+tion of the life processes, or at least ceases to be a support of continued life. If
+Hayes                             Dharmakı̄rti on rebirth                                 10
+
+
+this purely materialistic account of life and death is correct, says Dharmakı̄rti,
+we should expect that once a person dies, the diseases will also disappear.
+And since the diseases were the only things obstructing life, once they are
+gone, the body should return back to life.
+      na dos.air vigun.o deho hetur vartyâdivad yadi
+      mr.te śamı̄kr.te dos.e punarujjı̄vanam bhavet (1.56)
+      If a body that is corrupted by diseases is not a cause [of life] as a [defective]
+      wick [is not a cause of flame], [then] there would be a revival [of the vital
+      breath] when [the body is] dead and its corruption is neutralized.
+
+The materialists might reply to the above argument by suggesting that the
+kinds of change that the body undergoes at death are irreversible, and there-
+fore it is silly to suggest that when the body dies of a disease, then the disease
+that caused death disappears, allowing the body to return to life. Anticipating
+this line of reasoning, Dharmakı̄rti rejoins that not all changes caused by dis-
+ease are irreversible. Diseases cause changes in the body, such as fevers, but
+these changes can be reversed by applying medications. Therefore, it would
+not be inconsistent with a purely materialistic view of life and death to sup-
+pose that death, which is one of the changes caused by disease, might disap-
+pear when its cause disappears. While it is true, says Dharmakı̄rti, that if a
+body is ripped to shreds by the sharp teeth of some animal, then it could not
+possibly return to life, it would be consistent with a materialistic view of life
+that if a person died of a curable disease, then the person might return to life
+when the disease itself came to an end. Therefore, it is possible for a purely
+materialistic account of life to result in the false conclusion that people might
+return to life after the cause of death has disappeared.3
+    Dharmakı̄rti’s attempts to point out a weakness in the materialists’ theory
+are not compelling. In order to give a definitive refutation of their position
+it would be necessary to show that the materialistic account of death logi-
+cally entails a falsehood or a contradiction. The most Dharmakı̄rti succeeds
+in doing is to show that a falsehood would be logically compatible with the
+materialist’s hypothesis; this is hardly a strong indictment against any posi-
+tion.
+    The position taken by Dharmakı̄rti himself on the question of whether
+death requires a special cause follows the line of reasoning set out by
+Vasubandhu at Abhidharmakośa 4.2–3; the position taken here is that the
+cause of the cessation of a complex thing is the thing’s very existence as a
+complex (sam    . skr.ta) thing. In other words, the very fact that a complex thing
+is made up of many components is ultimately responsible for the fact that the
+complex thing inevitably decomposes. And since a tendency to decompose
+is innate in all complex things, there is no need to posit a separate cause for
+why things decompose. Therefore, the causes of a thing’s coming into being
+are also the causes of the same thing’s ceasing to be.
+   3 These arguments appear in PV 1.57–61 and in Manorathanandin’s commentary to those
+
+verses.
+Hayes                          Dharmakı̄rti on rebirth                              11
+
+
+5    The body as support of the mind
+Closely related to the question of what causes the death of the physical body
+is the question of what causes continued life in the living body. As was
+stated above, Dharmakı̄rti takes the position that a tendency to stop exist-
+ing is innate in all complex things; it requires no energy or effort for things to
+decompose. What would seem to follow from this view is that it must require
+some energy or effort to prevent decomposition; that is, if work is required
+for anything, it must be required to hold a complex being together, to keep it
+from losing its existence, or, in the case of a sentient being, to keep it alive.
+Foreseeing that the materialists will accuse him of being committed to just
+such a view, Dharmakı̄rti anticipates their argument and makes his riposte.
+
+     anāśrayāt sadasator nâśrayah. sthikāran.am.
+     sataś ced āśrayo nâsyāh. sthātur avyatirekatah. (1.65)
+
+     Neither an existent thing nor a non-existent thing has any support,
+     because there is no such thing as support. It might be suggested that an
+     existent thing must have something that causes it to continue existing.
+     But that is not the case, because there is no difference between the fact of
+     continuing and that which continues.
+
+The view of the materialist is that the physical body acts as a support for con-
+sciousness and mental events. Dharmakı̄rti’s response is that the very con-
+cept of a support is superfluous. Once a thing has come into being owing
+to its causes, it has no need of a support. Therefore, mental processes, which
+are caused by antecedent mental processes of the same type, do not need any
+further support from the body.
+    It may very well be, says the materialist, that mental processes come into
+being as a result of their own complex of causes. But once they have come into
+being, they require the physical body to support their continued existence.
+Dharmakı̄rti’s reply is that continuity is merely an alternative name that can
+be given to that which continues. The continuum of mental causes and
+effects continues on its own—each moment causes the following moment,
+and it is this continuity that one can call continued existence. But in saying
+that the mental processes continue to exist, one is not saying that there is a
+separate entity called continuity that has its own separate causes.
+
+     vyatireke ’pi taddhetus tena bhāvasya kim     . kr.tam
+     avināśaprasaṅgah. sa nāśahetor mato yadi (1.66)
+     tulyah. prasaṅgas tatrâpi kim. punah. sthitihetunā
+     ānāśakâgamāt sthānam
+                              .  tataś ced vastudharmatā (1.67)
+     nāsasya satyabādho ’sāv iti kim . sthitihetunā (1.68ab)
+     66 But if there were a difference, continuity would have a cause. What
+     would that [cause] accomplish for the continuing being? This would
+Hayes                             Dharmakı̄rti on rebirth                                 12
+
+
+      entail that the being never comes to an end. It might be thought that
+      coming to an end has its own cause.
+      67 That would lead to the same unwelcome consequence. In this case,
+      too, what would be the use of a something that causes a thing to come to
+      an end? It might be argued that a thing endures until it encounters what
+      destroys it. [If that is the case, then] perishability is a property of the thing
+      itself.
+      68ab While a thing exists, it has nothing harming it, so what need does
+      it have of something to help it continue existing?
+
+    Dharmakı̄rti’s argument can be summarized as follows: If one were to
+insist that continuity is a separate thing from the thing that continues, then
+one would have to say that this continuity has its own cause, which is dif-
+ferent from the causes of the thing that continues. But nothing is gained by
+this hypothesis, and in fact it creates a new problem. For if continuity were a
+thing in itself, and if it were a property of a thing, then the thing that had this
+property would be eternal. In order to counter this objection, someone might
+say that a thing has the property of continuity until it comes into contact with
+something that destroys it. A pot, for example, might have the property of
+continuing to exist until such time as it came into contact with a hammer.
+But in saying this, one is now committed to the view that not only the conti-
+nuity of a thing has a cause, but also the destruction of a thing has a cause.
+And again it might be asked what is gained by this hypothesis. If we say that
+a thing can be destroyed, then we are saying that it has the property of per-
+ishability. And if it already has the property of perishability, then it needs
+nothing to cause it to perish. It should also remembered that the hypothesis
+that a thing needs something to destroy it was devised to account for why a
+thing might come to an end even though it had something that was causing
+it to continue existing. But we can now see that if a thing requires a cause
+of its coming to an end, then it will continue automatically until it meets the
+cause of its destruction. And if that is the case, then it needs nothing further
+to cause its continued existence. Therefore, this second hypothesis ends up
+rendering useless the very hypothesis it was devised to salvage! Dharmakı̄rti
+himself summarizes all the arguments in verses 65–71 in three concise verses:
+      parato bhāvanāśaś cet tasya kim
+                                        . sthihetunā
+      sa vinaśyed vinâpi anyair aśaktāh. sthitihetavah. (1.72)
+      sthitimān nâśrayah. sarvah. sarvôtpattau ca sāśrayah.
+      tasmāt sarvasya bhāvasya na vināśah. kadācana (1.73)
+      svayam
+           . vinaśvarâtmā cet tasya kah. sthāpakah. parah.
+      svayam
+           . na naśvarâtmā cet tasya kah. sthāpakah. parah. (1.74)
+      72 If it is argued that the destruction of a being comes from something
+      other than the being itself, then nothing is gained by saying that there is a
+      cause of its continued existence. A thing will come to an end even without
+      an outside factor, and causes of continuity are incapable [of preventing
+      the destruction].
+Hayes                          Dharmakı̄rti on rebirth                           13
+
+
+      73 Everything that has a substratum has continuity, and there is some-
+      thing that has a substratum in every act of becoming. Therefore, there
+      would never be any destruction for any being.
+      74 If things have the nature of perishing by themselves, then nothing
+      outside them can make them continue existing. And if things do not have
+      the nature of perishing by themselves, then they do not need anything
+      outside them to make them continue existing.
+
+
+6    Observations on the preceding discussions
+In the parts of the first chapter of the Pramān.avārttika that have been
+reviewed above, we see that the question of rebirth leads into a series of
+issues connected with the relationship of the body (more accurately, physical
+events) to the mind (mental events). This discussion in its entirety extends for
+approximately ninety verses—the exact number is difficult to assess, because
+of Dharmakı̄rti’s rather loosely organized style of presentation, in which the
+discussions of several topics are frequently intertwined, and in which some
+threads are apparently dropped only to be picked up again in other parts of
+the text. Although he does occasionally make specific references to doctrines
+of other schools of philosophy, such as the Vaiśes.ikas and the Mı̄mām    . sikas,
+Dharmakı̄rti appears to have been far more concerned with offering argu-
+ments against the materialists than against any other philosophical posi-
+tion. In particular, Dharmakı̄rti was apparently concerned to provide as many
+arguments as possible for the conclusion that mental events have a series of
+causes that is independent of the multiplicity of causes of which the physical
+body is an effect.
+    Dharmakı̄rti’s preoccupation with materialism is not surprising, since the
+Pramān . avārttika was written as a defense of the principles of Buddhism
+against non-Buddhist critics, and there is probably no other philosophical
+view that is more radically opposed to the tenets of Buddhism than material-
+ism. If the materialist’s conclusions are true, then the continued existence of
+mental events after death is impossible. And if the continuity of conscious-
+ness after the death of the body is impossible, then there can be no rebirth.
+And if there is no rebirth, then the very goal of of attaining nirvān.a, under-
+stood as the cessation of rebirth, becomes almost perfectly meaningless. Or
+rather, nirvān.a comes automatically to every living being that dies, regardless
+of how that being has lived. If every living being attains nirvān.a automatically,
+then no special effort is needed by anyone to attain the goal; in particular,
+the rigours of Buddhist practice are neither necessary nor fruitful. Given all
+these consequences of the materialistic outlook, it is obvious that Buddhists
+interested in maintaining traditional Buddhist teachings were obliged to find
+arguments against the materialist’s position. Dharmakı̄rti’s Pramān    . avārttika
+is one of the first Buddhist texts—at least of those that still survive—to take
+the challenges of materialism seriously enough to try to provide a number of
+counterarguments to their position. In answering these challenges, Dharma-
+Hayes                      Dharmakı̄rti on rebirth                     14
+
+
+kı̄rti explored such issues as the mind-body problem in much greater depth
+than his Buddhist predecessors had done.
+
