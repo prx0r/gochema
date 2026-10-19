@@ -9,7 +9,7 @@
 > DIR: single take, title card in, read straight. Verse overlays fire on timestamps. [break] at the four restored seams (SCULPT.md §Seams).
 
 Dear Listeners,
-That deliverance from Sa§sāra which the Buddha
+That deliverance from Saṃsāra which the Buddha
 discovered, we generally call 'Nibbāna'. Sometimes the Buddha
 made a special effort to explain to the world what sort of a
 deliverance it is. The passing away of the arahant Dabba
@@ -65,9 +65,9 @@ occasions usually call for expression of condolences, here we
 find the Buddha giving expression to the following utterance of
 joy.
 Abhedi kāyo nirodhi saññā
-vedanā sãtibhavi§su sabbā
-våpasami§su sa§khārā
-viññāõa§ atthamagamā
+vedanā sātibhaviṃsu sabbā
+vūpasamiṃsu saṅkhārā
+viññāṇaṃ atthamagamā
 Body broke up
 Perceptions ceased
 All feelings cooled off
@@ -82,10 +82,10 @@ Ayoghanahatasseva
 jalato jātavedaso
 anupubbåpasantassa
 yathā na ñāyate gati
-Eva§ sammā vimuttāna§
-kāma bandhoghatārina§
-paññāpetu§ gati natthi
-pattāna§ acala§ sukha§
+Evaṃ sammā vimuttānaṃ
+kāma bandhoghatārinaṃ
+paññāpetuṃ gati natthi
+pattānaṃ acalaṃ sukhaṃ
 - ibid.
 The two verses are of such depth that the traditional
 commentators have faced difficulties in interpreting them. The
@@ -148,11 +148,11 @@ on to the fuel which it consumes. Its extinction – the proverbial
 'going out' – is Nibbāna. For the Buddha, nibbāna is not a
 destination after death. The most telling evidence we get is his
 lion's roarintheUdumbarika Sãhanāda Sutta.
-Buddho so Bhagavā bodhāya dhamma§ deseti
-Danto so Bhagavā damathāya dhamma§ deseti
-Santo so Bhagavā samathāya dhamma§ deseti
-Tiõõo so Bhagavā taraõāya dhamma§ deseti
-Parinibbuto so Bhagavā parinibbānāya dhamma§
+Buddho so Bhagavā bodhāya dhammaṃ deseti
+Danto so Bhagavā damathāya dhammaṃ deseti
+Santo so Bhagavā samathāya dhammaṃ deseti
+Tiṇṇo so Bhagavā taraṇāya dhammaṃ deseti
+Parinibbuto so Bhagavā parinibbānāya dhammaṃ
 deseti
 Enlightened as he is, the Fortunate One preaches
 the Dhamma for enlightenment
@@ -203,7 +203,7 @@ impermanence, beauty in a world of ugliness, pleasure in a
 world of suffering, and a self in a world of not-self. It is due to
 this perversion that this whirlpool or eddy of a person comes to
 be. Even the Buddha as a Bodhisatta has been a whirlpool in
-Sa§sāra. So also are Pacceka Buddhas and arahants. In the end,
+Saṃsāra. So also are Pacceka Buddhas and arahants. In the end,
 by wisdom, they see the futility of this whirling round. It is when
 the vanity of this whirling round between consciousness and
 name-and-form is understood, and the mind is weaned away
@@ -218,13 +218,13 @@ extinguished fire has gone to the East orWest or North or South,
 it is a foolish question. If something exists depending on causes
 and conditions, when those causes and conditions are removed,
 it has to cease. This truth is implicit in the dictum 'bhavanirodho
-nibbāna§'. 'Cessation of existence is extinction (or Nibbāna).'
+nibbānaṃ'. 'Cessation of existence is extinction (or Nibbāna).'
 The cessation of existence itself is Nibbāna. Apart from this
 there is no other Nibbāna. What the Buddha points out to us is
 thefactthatthisNibbānais toberealizedhereandnow.
 That is why we come across in the Ratana Sutta the
 followinglineswhichyou allarefamiliarwithinyourchanting.
-Khaya§virāga§amata§paõãta§
+Khayaṃ virāgaṃ amataṃ paṇītaṃ
 yadajjhagāSakyamunãsamāhito
 natenadhammena samatthikiñci…
 'That destruction (of craving), that detachment, that
@@ -250,27 +250,27 @@ Fortunate One, perfectly extinguished as he is, preaches the
 Dhamma for perfect extinguishment. But today the moment one
 hears the word 'parinibbāna' one is reminded of the after-death
 state of the arahants. As a matter of fact, the last thought of the
-dictum, 'Bhavanirodho nibbāna§' – 'Cessation of existence is
+dictum, 'Bhavanirodho nibbānaṃ' – 'Cessation of existence is
 Nibbāna', it is clear that the Buddha has called the cessation of
 existence itself Nibbāna. But this cessation of existence is a
 realization. The ultimate point from which one falls into this
-realization is that Immediacy Concentration ('?nantarika
+realization is that Immediacy Concentration ('ānantarika
 samādhi'). Immediately after that concentration, one falls into
 the cessation of existence which is Nibbāna. That is a REAL-
 ization. So the cessation of existence itself is Nibbāna – an
 experience here and now. It is not Mr. Sovanso's 'hereafter-
 Nibbāna', but a perfect experience an arahant goes through in
-Khãõa§ purāõa§ nava§ natthi sambhava§
-virattacittā āyatike bhavasmi§
-te khãõabãjā avirūëhicchandā
+Khīṇaṃ purāṇaṃ navaṃ natthi sambhavaṃ
+virattacittā āyatike bhavasmiṃ
+te khīṇabījā avirūëhicchandā
 nibbanti dhãrā yathāyampadãpo
-'Khãna§ purāna§' - Whatever past karma there was,
+'Khīṇaṃ purāṇaṃ' - Whatever past karma there was,
 all that is exhausted,
-'nava§ natthi sambhava§' – there is no new karma to
+'navaṃ natthi sambhavaṃ' – there is no new karma to
 bring about any existence,
-'virattacittā āyatike bhavasmi§' – detached in mind
+'virattacittā āyatike bhavasmiṃ' – detached in mind
 as regards future existence,
-'te khãõabãjā avirūëhicchandā'- they whose seed (of
+'te khīṇabījā avirūëhicchandā'- they whose seed (of
 consciousness) is destroyed and desire does not
 sprout forth,
 'nibbanti dhãrā yathāyampadãpo' those wise ones get
@@ -286,14 +286,14 @@ highlight these controversial issues. The Buddha answers those
 accusations fairly and squarely pointing out that their criticism
 is groundless. “They are falsely accusing me for something I do
 not say. For monks, formerly as now, I make known only a
-suffering and a cessation of suffering. “Pubbecāha§ bhikkhave
-etarahicadukkhañcevapaññāpemidukkhassa canirodha§.”
+suffering and a cessation of suffering. “Pubbecāhaṃ bhikkhave
+etarahicadukkhañcevapaññāpemidukkhassa canirodhaṃ.”
 The teaching of the Four Noble truths is extremely
 wonderful in that the five aggregates of grasping without
 exception are equated to suffering. The five aggregates are as a
 whole comparable to the pervert activity of a whirlpool. The
 whirlpool whirls between consciousnes and name-and-form
-('ettāvatā vañña§ vaññati' – in so far does the whirlpool whirl). In
+('ettāvatā vaññaṃ vaññati' – in so far does the whirlpool whirl). In
 those discourses where the doctrine of Dependent Arising
 (Pañicca Samuppāda) is explained, it is mentioned that there is a
 vortex or a whirlpool between consciousness and name-and-
@@ -317,7 +317,7 @@ illustration we may cite an instance from the Buddha's life itself.
 In he Mahā Parinibbāna Sutta we find the Buddha coming out
 withsuchanexperience.
 “Monks, when I was once staying in the chaff - house at
-?tumā, there was a torrential downpour with flashes of lightning
+Ātumā, there was a torrential downpour with flashes of lightning
 and peals of thunder. Two farmers – brothers – and four bulls
 were struck down by lightning. A large crowd had gathered
 there. I came out of the chaff house and asked a man who came
@@ -325,7 +325,7 @@ up to me why such a crowd has gathered there. He told me that
 there was a torrential downpour of rain with flashes of lightning
 and peals of thunder and that two farmers and four bulls were
 struckdown deadbylightning.Hethenaskedme:
-“ButwherewereyouVenerableSir?”
+“But where were you, Venerable Sir?”
 “Iwas hereitself,friend.”
 “But didn't you see it Venerable Sir ?”
 “No friend, I did not see it.”
@@ -362,12 +362,12 @@ But to wish him some sort of eternal Nibbāna after death
 is contrary to the spirit of the Dhamma. It is also wrong to
 attribute such a Nibbāna to Buddhas and arahants. They too are
 whirlpools which have been whirling for aeons upon aeons in
-Sa§sāra. Understanding the vanity of this whirling round - this
+Saṃsāra. Understanding the vanity of this whirling round - this
 conflict–theyputanendtoit.Nibbānaisitsverycessation.
-'Dukkha nirodho nibbāna§' – cessation of suffering is Nibbāna.
-“Eta§ santa§ eta§ paõãta§ yadida§ sabbasa§khāra
-samatho sabbåpadhipañinissaggo taõhakkhayo virāgo
-nirodho nibbāna§”
+'Dukkha nirodho nibbānaṃ' – cessation of suffering is Nibbāna.
+“Etaṃ santaṃ etaṃ paṇītaṃ yadidaṃ sabbasaṅkhāra
+samatho sabbåpadhipañinissaggo taṇhakkhayo virāgo
+nirodho nibbānaṃ”
 “This is peaceful, this is excellent, namely, the stilling
 of all preparations, the relinquishment of all assets,
 the destruction of craving, detachment, cessation,
@@ -380,7 +380,7 @@ topurifyyourview.
 Today you have observed the higher precepts and
 practised meditation. Making use of this sermon may you be
 able to forge ahead in your meditation to reach the end of this
-perilous Sa§sāra – the end of this vortex, and realize the bliss of
+perilous Saṃsāra – the end of this vortex, and realize the bliss of
 Nibbāna. May you be able to understand that Nibbāna is an
 experience here and now. Whatever beings there are from the
 lowest hell to the highest Brahma world who wish to rejoice in
