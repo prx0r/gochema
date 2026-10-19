@@ -88,6 +88,18 @@ another body is what slow grace buys you. and for the right death: [READ]:
 "the death of such a person is a 'day of festival' (parvādinam) for the
 disciples."
 
+four — and the destinations, because every tradition grades the afterlife
+and this one grades it four ways. [READ — Tantrāloka 10.28, via in-house
+deepdive extract, library/tantra-death]: sālokya — "sharing the world" of
+the deity, for the uninitiated who die in sacred places; sāmīpya — nearness,
+for initiates who die in sacred places; sārūpya — similarity of form, for
+those who meditated on the deity's form; sāyujya — conjunction, the merge
+with Bhairava, "virtually equivalent to liberation." and who gets which
+depends on initiation-grade: samayin, putraka, sādhaka — [READ, ibid.]:
+"the fate of the soul at death is not uniform — it depends on the level of
+initiation, the knowledge, and even the place of death." note the map:
+sacred-place matters here exactly as Kashi matters in the Hindu film.
+
 > DIR: THE MONEY SHOT (revised): mirror-walk → at the merge frame, the
 > body's layers retract upward (tattva-ladder as anatomy: world-segments
 > lifting off into light) → white-flash. ≥20s take.
