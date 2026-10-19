@@ -1,4 +1,8 @@
-# ESSAY — THE WHOLE WORLD'S REBIRTH, ACTUALLY EXPLAINED (master script)
+# MASTER MATERIAL — THE WHOLE WORLD'S REBIRTH (split: see films/)
+
+> OWNER RULING 2026-10-19: ONE FILM PER TRADITION (not one mega-film).
+> films/<NN-name>/ESSAY.md = per-film core · films/_shared/{FRAME,CLOSE}.md
+> = series frame + close. This file = master material sheet.
 
 > Global companion to buddhist v1's ESSAY.md (same layout, same laws:
 > [READ — cite] = source words verbatim; sparse bridges; owner callback-lines

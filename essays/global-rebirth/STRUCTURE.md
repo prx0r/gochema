@@ -1,8 +1,10 @@
 # GLOBAL REBIRTH VIDEO — structure (same formula, tradition-relative)
 
-> Sibling of the buddhist v1 structure (STRUCTURE-SEGMENTS.md). Every stop
-> = the six fields below + owner-frame + guard + callback. Runtime: 30 min
-> for the first global cut; full 13-stop pass may split (see roster).
+> Sibling of the buddhist v1 structure. **ONE FILM PER TRADITION** (owner
+> ruling 2026-10-19): films/<NN-name>/ = each tradition's own film project.
+> Each film = _shared/FRAME (series cold-open, adapted) + film core (the
+> six fields in narrative form) + _shared/CLOSE (anchors, table, finale).
+> Runtime per film: 20–30 min (buddhist-v1 depth).
 
 ## The six fields per stop
 1. **WHAT** — the theory in one breath.

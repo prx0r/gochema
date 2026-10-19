@@ -83,7 +83,7 @@ tukdam-project link (thoughtforms post), his Platonic-space substack (fetch),
 ---
 
 ## STATUS (2026-10-19 late)
-- GLOBAL REBIRTH: full compilation (resources 01-13 + RESEARCH-ADDENDA + WEAVE-GLOBAL + ONTOLOGY) AND full master script (essays/global-rebirth/ESSAY.md, 2-part, 2,680w) DONE.
+- GLOBAL REBIRTH: compilation DONE (resources 01-13, RESEARCH-ADDENDA, WEAVE-GLOBAL, ONTOLOGY). Structure CORRECTED: 13 ONE-FILM projects under films/ (cores extracted from master material, shared frame/close factored). NEXT: expand each core to full 20-30min script (start films/01-hindu).
 
 ## Queue order (my read)
 1. **Finish rebirth v1** (voice review + prototype) — critical path.
