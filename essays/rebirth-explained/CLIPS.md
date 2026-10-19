@@ -18,3 +18,12 @@
 
 Rule: talking-head scholars voice their own claims (gold rule). Our narrator
 never paraphrases a teacher's position without the teacher audibly saying it.
+
+## SCIENCE ADDITIONS (SCIENCE-REVIEW.md, 2026-10-19)
+| # | Candidate | Use | Status |
+|---|---|---|---|
+| 11 | Levin Tukdam Project talk (linked thoughtforms.life/tukdam) | tukdam anomaly + "body disbands" framing | PULL-REQUIRED |
+| 12 | Boly / pure presence (Tidwell-Boly-Goldman talk) | Luminosity measured: gamma-down, cortex awake | PULL-REQUIRED |
+| 13 | Parnia AWARE-II (NYU Langone summary) | v2: consciousness at 35–60 min CPR | ASK-FIRST |
+| 14 | Mashour dying-brain counterpoint | v2: honest counterweight | CARD-CITE (no clip) |
+| 15 | Rouleau & Levin 2026 paper | filter/transmission mapping across theories | CARD-CITE (audio TBD) |
