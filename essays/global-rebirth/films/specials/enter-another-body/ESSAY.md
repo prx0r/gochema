@@ -1,143 +1,176 @@
-# ESSAY — ENTER ANOTHER BODY AT WILL (special film)
+# ESSAY — ENTER ANOTHER BODY AT WILL (special film — full comparative)
 
-> The extreme claim, cross-tradition: paradehapraveśa (Śaiva), ibbur/dybbuk
-> (Jewish), phowa (Naropa/Tibetan), re-anchoring (modern mirror). Varanasi =
-> the location spine (it's the Śaivite city of entry-and-exit).
-> [READ — cite] = verbatim. Layout: buddhist-v1. ~16 min.
+> Cross-tradition special: every tradition with volitional body-entry, its
+> process, its logic and metaphysics, how they differ. [READ — cite] =
+> verbatim. Varanasi lives in film 11 (owner ruling); Campbell cut (owner).
+> ~20 min. Titles: "Enter Another Body At Will" / "Die Here."
 
 ---
 
 ## CH.1 — THE VERSE (0:00–1:30)
 
-> DIR: black, one struck bell; Sanskrit types in, line by line; gloss below.
+> DIR: black, one struck bell; Sanskrit types in; gloss below.
 
 [READ — Tantrāloka 10.292–293, primary]: "eteṣāṁ maraṇābhikhyo bhogo nāsti
 tu ye tanum | dhāraṇābhis tyajanty āśu paradehapraveśavat" — the realized
 have no death-like experience; they abandon the body swiftly through
 dhāraṇā, "like entering another body."
 
-that sentence says a man can walk out of his life and into another one, on
-purpose, without dying. the tantrāloka gives it three moves. everybody else
-— jews included — has been arguing about the footnotes ever since.
+a man can walk out of his life and into another one, on purpose, without
+dying. this film asks: who else claims this feat, how do they think it
+works, and where exactly do the mechanisms disagree.
 
-## CH.2 — THE ŚAIVA MECHANISM (1:30–5:30)
+## CH.2 — ŚAIVA: THE SELF RE-ANCHORS (1:30–5:00)
 
-**move one — it isn't death.** [READ — deepdive extract, TĀ 10.292–293]:
-"They abandon the body through meditations (dhāraṇā) on the reality levels…
-This is not death — it is conscious withdrawal." identification with the
-body was abandoned long before the body quits; the yogi drops the garment
-the way you take off a coat you stopped believing in.
+three moves, their words. **one — it isn't death**: [READ — deepdive, TĀ
+10.292–293]: "They abandon the body through meditations (dhāraṇā) on the
+reality levels… This is not death — it is conscious withdrawal." **two —
+distance stops meaning anything**: at the tattva-summit the yogi is in
+Bhairava-consciousness, and [READ — TĀ 10.303–307]: "his consciousness
+expands to fill the universe" — universal consciousness relocalizing is a
+light reaching a second room without leaving the first. **three — svātantrya**:
+consciousness is fundamentally free, so it can re-anchor; what binds the
+rest is niyati — [READ — pushing-tantraloka session]: "Necessity (niyati) is
+the principle of constraint that ensures that specific karmic causes give
+rise to their consequences."
 
-**move two — distance stops meaning anything.** at the summit of the
-thirty-six tattvas, the yogi is in Bhairava-consciousness, and then:
-[READ — TĀ 10.303–307, via extract]: "his consciousness expands to fill
-the universe." a consciousness the size of everything moving into this
-corner of everything is not travel — it's a light reaching a second room
-without leaving the first.
+the logic: ENTRY IS RELOCALIZATION. the metaphysics: there was never a
+bounded self to move — only awareness with a freedom-dimension and a
+law-dimension, and the awakened switch which one is running.
 
-**move three — svātantrya.** [READ — IPKK framework via Ratié/ipk notes]:
-consciousness is fundamentally FREE — so it can re-anchor. the obstacle
-isn't physics; it's niyati: [READ — pushing-tantraloka session, TĀ gloss]:
-"Necessity (niyati) is the principle of constraint that ensures that
-specific karmic causes give rise to their consequences" — and kalā: "Its
-limited actions, although possible because it possesses some degree of
-freedom, are binding." free for the awakened, bound for the rest — the
-video's fight scene is right there.
-
-> DIR: three-click beat (withdrawal / expansion / anchor), then the
+> DIR: three-click beat (withdrawal / expansion / anchor) then the
 > svātantrya-vs-niyati split screen.
 
-## CH.3 — THE JEWISH SISTER-PRACTICE (5:30–8:15)
+## CH.3 — TIBETAN: THREE DEGREES OF THE SAME FEAT (5:00–8:30)
 
-the abrahamic house has its own body-entry, twice over.
+tibetan owns three separate instruments:
 
-**ibbur** — the GOOD entry: a righteous soul temporarily inhabits a living
-person to finish a mitzvah or protect the household, then leaves. communal
-practicality: the dead come back to help, with permission, checked by
-scholars.
+**(a) phowa** — transference of consciousness at death: the operator's
+manual — a guided exit through the crown to Sukhāvatī or the next womb
+(their OWN deliberate version; map + deity-assist + practice syllabus).
+logic: the soul needs a ROUTE, not freedom — everything the Śaiva gets by
+being the ocean, the trainee gets by carrying a map. (READ line at draft —
+Evans-Wentz/HVG phowa instruction.)
 
-**dybbuk** — the bad entry: a restless soul clings ("dybbuk" = clinging)
-to the living until driven out — the exorcism literature is real and
-documented (R. Ya'akov Emden's 18th-c. letters; Scholem's essays on the
-dybbuk — exact cites at draft). possession with a rulebook: unlike the
-Śaiva feat, unauthorized entry is an offense — the tradition built its
-permission-system.
+**(b) tulku** — entry as career path: the mind of enlightenment choosing the
+next body, on schedule, with recognizers and tests. logic: reincarnation as
+ADMINISTRATION — the feat is routine because a lineage-managed office keeps
+performing it. (standard tulku cite at draft.)
 
-and the shared garment: the body is the **gūp** — the vessel/garment the
-soul puts on [bank exact Kohelet Rabbah cite at draft] — the same wardrobe
-the Hindu film hung the Gītā on, now worn by a different covenant.
+**(c) illusory body (māyādeha)** — the practice-level sibling: what you move
+in dreams, you learn to move deliberately. the six yogas of naropa's body
+technique. logic: if bodies are illusory, moving between them is a SKILL.
 
-[CALLBACK titles: Hindu "Change of Clothes" + Jewish "A Hair From Dough" —
-the garment-references across the series converge here.]
+the metaphysics that unites them: dharmakāya (unconditioned ground) →
+sambhogakāya (template) → nirmāṇakāya (the emitted display). tibetan bodies
+are not worn — they are SHOWN. against the śaiva re-anchor: same conclusion
+(you don't travel), opposite picture (the body is an emanation, not a seat).
 
-> DIR: two-panel: ibbur-light entering calmly / dybbuk-shadow clinging —
-> then the garment glyph merges both panels.
+> DIR: three-instrument panel: crown-ray (phowa) / lineage-glyph (tulku) /
+> dream-body dissolve (illusory body); kāya-triangle card.
 
-## CH.4 — THE TIBETAN TRANSMISSION: PHOWA (8:15–10:00)
+## CH.4 — JEWISH: PERMISSION MAKES POSSESSION A SERVICE (8:30–11:00)
 
-the machinery heads north in the yogas of naropa. phowa — "transference
-of consciousness at death" — is paradehapraveśa in tibetan dress, with the
-illusory body (māyādeha) as its practice-sibling: the body you make is the
-body you can move. [READ — stock phowa line, verify at draft from Evans-
-Wentz/Guiled or HVG translations]: consciousness released through the
-crown, guided to Sukhāvatī or the next womb — the organized version of the
-Śaiva feat with a bus schedule attached. (Tibetan film covered the bardo;
-this is the OPERATOR's manual angle.)
+**ibbur** — the good entry: a righteous soul temporarily inhabits a living
+person to finish a mitzvah or protect the household, then leaves; scholars
+verify the case. **dybbuk** — the uninvited version: a restless soul clings
+until driven out (Scholem on the dybbuk; R. Ya'akov Emden's 18th-c.
+exorcism letters — exact cites at draft). the body is the **gūp** — vessel/
+garment [exact Kohelet Rabbah cite at draft].
 
-> DIR: crown-ray visual; naropa-six-yogas card.
+the logic: entry rests on PERSONALISM — there's a substantial soul that can
+occupy a seat, temporarily, with or without a lease. the metaphysics is the
+oldest shape in the film: a garment that can be worn by the right person.
+the process-difference: no guru and no svātantrya machinery — what authorizes
+is COMMUNITY LAW: ibbur = licensed, dybbuk = offense. permission, not physics.
 
-## CH.5 — EVERYONE ELSE ALREADY MADE THIS MOVIE (10:00–13:00)
+> DIR: two-panel (ibbur-light enters calmly / dybbuk-shadow clings), both
+> collapsing into the gūp-garment glyph.
 
-before the guard: the trope is older and wider than any single school.
+## CH.5 — THE REST OF THE FIELD (11:00–14:00)
 
-**the traditions that do it too.** tibetan tulkus: lamas who deliberately
-choose the next body — entry as ROUTINE, the tulku-system is paradehapraveśa
-on a career path (verify the standard cite: "the mind of enlightenment
-deliberately reincarnates" line at draft). yoruba and vodou possession: the
-spirit MOUNTS the living — the horse is ridden, the egungun speaks through
-the mask — authorized, scheduled body-sharing with a referee. (ibbur from
-ch.3 is this same category in jewish dress: permission makes possession a
-service, not a haunting.)
+five more claims, one panel each:
 
-**the films and books** — culture has been shipping this idea in every form
-it can: altered carbon (sleeves — bodies as interchangeable hardware, the
-exact paradehapraveśa with a subscription), being john malkovich (entering
-another body as LITERALLY walking in), freaky friday (the comedy version),
-avatar / selfless / heaven can wait (the transfer-for-a-new-chassis romance),
-quantum leap (jumping body to body to fix things — a bodhisattva with a
-broken machine), the matrix-adjacent upload fiction. and the books: the
-shell-game of science fiction's mind-transfer (fort, dick, and their heirs)
-all the way down to children's fairy-tale rules: don't let a stranger wear you.
+- **YORUBA/VOU — THE MOUNT**: the spirit rides the living (the medium is
+  the horse; egungun speaks through the mask). logic: a person is a SEAT
+  with a standing invitation — spirits are routine occupants; the body
+  as公共 chair. authorized by ritual + offering, refereed by the priest.
+  entry in BOTH directions is normal (ancestor rides in, rides out).
+- **GREEK — THE GOD ENTERS YOU**: plato's divine madness — the poet is
+  SEIZED (Ion/Symposium: Eros/god possessing the medium — "god takes
+  possession and the mind is not in him"). the reverse vector: not you
+  entering bodies — bodies as vessels a god uses. theurgy continues it
+  (Iamblichus: theurgist as channel, the god acts THROUGH the rite).
+- **BUDDHIST — THE LIFE-FACULTY TRANSFER**: the Vinaya's institutional case
+  — monks transferring jīvitindriya (life-faculty) to a dying brother
+  (the Tissa/Cunda episode — cite at draft). and note the RULE: the Buddha
+  banned public displays of iddhi — the feat exists, showing it is an
+  offense. entry-adjacent powers with the strictest rulebook in the film.
+- **CHRISTIAN — THE ONE VOLITIONAL ENTRY**: incarnation (God entering
+  flesh, once, on purpose) + exorcism (authorized ejection) + the bilocation
+  saints (one body, two places — the derivative form). logic: the entry is
+  divine-initiative only; human-initiated entry = the grimoire tradition the
+  churches fought (grimoires in our volume: agrippa, heptameron — filed
+  under prohibited, not doctrine).
+- **HINDU — THE SIDDHI FORM**: yogic iddhi and tantric siddhi include
+  manifold-body skills (ākṛśi-form concentration; the gītā's avatāra logic
+  as divine-entry-into-world). mostly closed-course (initiation-gated),
+  same graduation rule as the śaiva.
 
-the pattern: whenever a culture takes this idea seriously it immediately
-writes RULES — permission (ibbur), graduation (thirty-six tattvas),
-schedule (phowa's map), costume (tulku). nobody in the history of the idea
-has ever proposed it without a rulebook. that's the anthropological find of
-this special: the feat is universal, the rules are where the traditions live.
+> DIR: five-panel montage, one glyph each; rules-glyph under ALL of them.
 
-> DIR: four-panel: tulku-lineage glyph · mounted-spirit mask · sleeve-swap
-> · mallows-closet-door (cleared pop references as title cards only, no
-> clips without clearance) — then all four collapse into the rulebook glyph.
+## CH.6 — THE FILMS AND BOOKS (14:00–15:30)
 
-## CH.6 — GUARD + CLOSE (13:00–16:00)
+culture shipping the feat with no rulebook anxiety: altered carbon (sleeves
+— hardware swap + subscription), being john malkovich (literal walk-in),
+freaky friday (comedy rules), avatar/selfless/heaven can wait (chassis
+romance), quantum leap (body-to-body repair — a bodhisattva in a broken
+machine), the science-fiction mind-transfer shelf to fairy-tale law: don't
+let a stranger wear you. title cards only — no pop clips without clearance.
 
-the guard, from our own sessions [READ — pushing-tantraloka hardest-objections/
-karma-rebirth, verbatim at draft]: karma is niyati — law. svātantrya is
-freedom. how are both true? the text itself exposes the tension: [READ —
-karma-rebirth session]: "Its limited actions, although possible because it
-possesses some degree of freedom, are binding." a degree of freedom that
-binds — nobody outside this tradition has ever satisfactorily eaten that
-line, and we're not going to either.
+> DIR: four-panel→rulebook-glyph collapse (kept from previous draft).
 
-and the counter every other film can raise: if entering bodies is a feature,
-why isn't everyone using it? the system's own answer: [READ — TĀ extract]:
-only after the summit of thirty-six tattvas — graduation, not a gift.
+## CH.7 — THE COMPARISON: PROCESS, LOGIC, METAPHYSICS (15:30–18:30)
 
-[OWNER NOTE PLACEHOLDER — final line, owner's to write: something like:
-so yes — enter another body at will. it costs thirty-six tattvas, a guru,
-and probably varanasi.]
+[the table, gold serif — one row per tradition, four columns]:
 
-> DIR: bell, ghats fire to black; series-next card.
+| | PROCESS | LOGIC OF ENTRY | METAPHYSICS OF THE BODY | AUTHORITY |
+|Śaiva| dhāraṇā-withdrawal → re-anchor | svātantrya: freedom re-localizes | body = display of awareness | knowledge + guru |
+|Tibetan (phowa/tulku/illusory) | guided exit / scheduled return / dream-skill | map over freedom: routes, schedules, templates | body = emanation (kāya-structure) | lineage + practice |
+|Jewish (ibbur/dybbuk) | soul enters seat, temporarily | personalism: substantial soul, lease law | body = gūp (garment/vessel) | community + scholars |
+|Yoruba/Vodou | spirit mounts medium | person = seat; occupancy is normal | body = shared chair | ritual + priest |
+|Greek-theurgic | god seizes poet/rites | divine madness: reverse vector | body = vessel for gods | poet/rite |
+|Buddhist (jīvitindriya) | faculty transferred between bodies | compassion-act within anattā | body = not-own (neither house nor garment — an instrument) | Vinaya + ban on display |
+|Christian | incarnation (once) + exorcism | divine initiative only; human-entry prohibited | body = creation, to be RESURRECTED not re-entered | dogma/grace |
+|Films/books | swap-ware | dropped rules for story | sleeves, shells, meat-puppets | no authority — the joke |
 
-[END — special. Can sit after film 11 or as the Varanasi-episode — one film,
-two names: "Enter Another Body At Will" / "Die Here."]
+**the four differences that matter:** (1) DIRECTION — self-anchoring (Śaiva)
+vs god-entering (Greek/theurgic) vs spirit-riding (Yoruba) vs scheduled
+return (tulku); (2) SUBSTANCE — act (Śaiva/Tibetan) vs soul-object (Jewish/
+Yoruba) vs emanation (kāya-structure); (3) THE BODY ONTOLOGY — garment
+(Hindu gūp), seat/house (possession), display (kāyas), machine (films);
+(4) AUTHORITY — knowledge, lineage, community, god, or nobody (films).
+
+the thesis: every system that admits voluntary entry instantly produces its
+four-column table. the features differ; the paperwork always appears.
+
+## CH.8 — GUARD + CLOSE (18:30–20:30)
+
+the guard: [READ — pushing-tantraloka karma-rebirth session, verbatim]:
+karma is niyati, svātantrya is freedom — "Its limited actions, although
+possible because it possesses some degree of freedom, are binding." and
+the system's own admission: entry is graduation, not a gift — [READ — TĀ]:
+only after the summit of thirty-six tattvas.
+
+the counter every other film raises: if it's possible, why is nobody using
+it? and the counter-counter: every tradition above requires exactly what
+they all require of everything — training, permission, or grace. the feat
+is rare because the paperwork is long.
+
+[OWNER PLACEHOLDER — final line: e.g. "so yes — enter another body at will.
+thirty-six tattvas, a guru, and probably varanasi." (varanasi nod ok here as
+the closing allusion to film 11's location, not a segment)]
+
+> DIR: bell, black; series-next card.
+
+[END — special]
