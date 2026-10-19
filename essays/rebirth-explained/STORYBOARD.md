@@ -155,3 +155,8 @@ No science anywhere in v1.
   mūla-vijñāna) — three schools, one concept, goes on the table as proof.
 - Named antarabhava fight (Vasubandhu vs Saṅghabhadra vs Theravāda) kept
   available as an S11b insert if runtime allows — otherwise FAQ line.
+
+## HILLSIDE HERMITAGE WIRING (2026-01-19 fix: 2026-10-19)
+- S17 cliffhanger: HH1 primary — "With birth, death applies" (4pp PDF in
+  library/hillside-hermitage/). Your riff collides with the school's own text.
+- S16: HH4 burden-of-proof chain (fetch full thread when reddit unblocks).

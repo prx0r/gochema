@@ -155,3 +155,15 @@ PDFs/text extracted 2026-10-19: quotes/*.txt (ATI suttas) · truth-of-rebirth-fu
 hayes.txt · arnold.txt · analayo-rebirth.txt · three-pure-land-sutras.pdf (pdftotext) ·
 SOURCE-RAW.txt (fire-simile) · fs extracts · 04-hfield transcript (owner's).
 Entries flagged "via" = quoted by the scholar from the primary — cite BOTH when printing.
+
+---
+
+## M. HILLSIDE HERMITAGE (added 2026-10-19 — library/hillside-hermitage/)
+
+**[HH1] Bhikkhu Ñāṇamoli, "With birth, death applies"** — "from a phenomenological point of view our birth is always here *with* us. The fact that one is constantly engaged with the world of one's desires, decisions and miseries, means that one is born – his birth is *present*." — Path Press 2010 (PDF in repo) — **S17 CLIFFHANGER PRIMARY** (your ending, already written by the school).
+
+**[HH2] Ñāṇamoli, ibid.** — "nothing requires us to think that birth can, and shall *only* be understood as a past event which has started and ended *in* time." — S17.
+
+**[HH3] Ñāṇamoli, ibid.** — "temporal things (events in time) are possible *only* because there is an atemporal structure (*nature* of time) – time is *secondary* to one's experience. Hence, the p.s. is said to be *akālika*, 'timeless'." — S17 (the Buddhist-time comment, in the school's own words).
+
+**[HH4] Ñāṇamoli (via r/HH, partial — full chain pending unblock)** — "Rebirth is a claim, and that claim has a burden of proof. Without proof, the default is not to have a belief in…" — S16 FAQ fairness line.
