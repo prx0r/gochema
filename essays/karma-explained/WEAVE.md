@@ -125,6 +125,23 @@ father.… your brother.… your sister.… your son.… your daughter…"
 Teresa — every role occupied, no one essentially anything. Read in roles,
 never named individuals (see TAKES note on trivialization).
 
+## MOTHER-VIEW (lojong step 1 — QUOTED web sources, verify at render)
+
+**[K16] Berzin, two-level relating (studybuddhism.com)** — "we need to
+relate to others on a conventional level as they are now – as a human, a
+dog, a cockroach – but on the deeper level, we see that they all equally
+have Buddha nature… No one is inherently a human being, a cockroach, a
+woman, or a man."
+— `MOTHER-OBJECTIONS.md` Q2/Q3 — the psychosis + grasshopper answers.
+
+**[K17] Thubten Chodron, provisional acceptance (thubtenchodron.org, 1993)**
+— "provisionally accepting it, so that we can get more of a feeling" +
+"Give your mind that space to play with it instead of seeing people as
+solid, fixed entities" + "If you don't feel comfortable saying all beings
+have been my mother, you can say father or caregiver."
+— ibid. — the figure is interchangeable = strategic technology, stated by
+the tradition. Full Q&A in `MOTHER-OBJECTIONS.md`.
+
 ## EXTRACTION PROVENANCE (audit)
 K1–K10 pulled 2026-10-20 from banked files (ToR full text, hayes.txt,
 arnold.txt). K8/K9 inherit rebirth VERIFY #2/#4 — flagged, not laundered.

@@ -23,6 +23,12 @@ SN 12.67 (K12) + SN 23.2 (K13) + AN 5:161 (K14, ownership-of-kamma)
 banked from dhammatalks.org. Pack stands alone — no rebirth-pack dependency.
 (ToR-framed K7 kept as commentary backup; prefer primaries for reads.)
 
+## 5. Mother-view vs sex (OPEN — no canonical Q&A found, 2026-10-20)
+Best assembly in MOTHER-OBJECTIONS.md Q4 (Berzin two-level + kindness-scope
++ lojong-meets-affliction). Still want: a teacher on record answering the
+exact form. Search Serkong Rinpoche / Chodron / HHDL Eight Verses Q&A
+archives; if absent, the OWNER ASKS IT ON CAMERA (guard beat writes itself).
+
 ## Non-goals (do NOT fetch for v1)
 - Full Abhidhamma kamma-taxonomy (12-fold canonical lists) — the film's
   ladder replaces taxonomy; lists would lecture-ify it.
