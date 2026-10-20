@@ -1,0 +1,93 @@
+# WEAVE — karma film quote bank (v0.1: banked stops only)
+> Fields: **[ID] SOURCE** — QUOTE (verbatim) — cite — SLOT.
+> Unverified/hand entries are flagged, never laundered. Stops without
+> entries live in ACQUIRE.md.
+
+---
+
+## THE UNFAIRNESS ANCHOR (stop 0 — BANKED)
+
+**[K1] The garland and the drum (ToR, sutta parable)** — "misconduct often
+leads to rewards in the present life, and he heaps ridicule on those who
+insist that the results of good and bad actions always appear in the
+here-and-now… a certain person is seen garlanded & adorned… enjoying the
+sensualities of women as if he were a king… this man attacked the king's
+enemy and took his life. The king, gratified with him, rewarded him… Then
+there is the case where a certain person is seen bound with a stout rope…
+marched to a harsh-sounding drum… and beheaded… this man, an enemy of the
+king, has taken the life of a man or a woman."
+— ToR (full parable banked: `quotes/karma-garland-drum.txt`) — STOP 0 cold
+open: same act, opposite payoffs. The canon opens the unfairness file itself.
+
+**[K6] Ajita Kesakambalī (DN 2, via ToR)** — "Generosity is taught by idiots.
+The words of those who speak of existence after death are false, empty
+chatter. With the breakup of the body, the wise and the foolish alike are
+annihilated, destroyed. They do not exist after death."
+— ToR (`quotes/karma-ajita.txt`, + Pāyāsi prince material same file) —
+STOP 1: the denial in its own words. The tradition kept the receipt.
+
+---
+
+## THE LADDER (stops 2–4 — BANKED)
+
+**[K7] Reeds + satta (SN 12.67 / SN 23.2, via ToR)** — "It's as if two
+sheaves of reeds were to stand leaning against one another… If one were to
+pull away one of those sheaves, the other would fall." + "When one is caught
+up [satta] there, tied up [visatta] there, one is said to be 'a being
+[satta].'"
+— ToR (`quotes/karma-reeds-satta.txt`) — STOPS 2+4: the domino mechanism
+and the process-definition of a being. Rebirth-pack VERIFY note carries
+over (secondary source; ticker reads "SN 12.67 via Truth of Rebirth").
+
+**[K2] Field, seed, moisture (AN 3:77, via ToR)** — "Karma is the field,
+consciousness the seed, and craving the moisture… Thus there is the
+production of renewed becoming in the future."
+— ToR (`quotes/karma-field-seed.txt`) — STOP 4 lifetime rung: the
+agriculture image the whole film can reuse.
+
+**[K4] Tears ocean (SN 15:3, via ToR)** — "The tears you have shed over the
+death of a mother while transmigrating & wandering this long, long time…
+are greater than the water in the four great oceans."
+— ToR (`quotes/karma-tears.txt`) — STOP 4 across-lives rung: the timescale.
+
+**[K8] Seeds + perfuming (Yogācāra — FLAG: hand via search, same as rebirth
+VERIFY #4)** — ālaya as seed-store; perceptions grown from past seeds, each
+perception planting the next; store withdraws at death carrying the account.
+— STOP 3 tendency rung. ACTION: bank the Waldron passages.
+
+**[K9] Javana footnote (Abhidhammattha §13 fn — FLAG: hand, same as rebirth
+VERIFY #2)** — "What actually conditions rebirth… is that which is
+experienced during the javana process" (not the last death-thought).
+— STOP 3 moment rung: conduct downstream of conduct. ACTION: bank Nārada.
+
+---
+
+## PRACTICE (stop 5 — BANKED)
+
+**[K3] Sunbeam (SN 12:64, via ToR)** — "Where there is no passion for the
+nutriment of physical food, where there is no delight, no craving, then
+consciousness does not land there or increase… there is no future birth,
+aging, & death."
+— ToR (`quotes/karma-sunbeam.txt`) — STOP 5: starve, don't destroy.
+
+**[K5] Wager + working hypotheses (ToR)** — "Each time you choose one course
+of action over another, you're making a wager as to the consequences of
+your choice" + "Prior to awakening, you can't know these things for sure…
+it's wisest to assume these principles as working hypotheses."
+— ToR (`quotes/karma-wager.txt`) — STOP 5: the work, honestly framed.
+
+**[K10] Continuum + steelman (Dharmakīrti via Hayes; Arnold)** — "The
+continuum of mental causes and effects continues on its own — each moment
+causes the following moment, and it is this continuity that one can call
+continued existence" + Arnold: "persons consist simply in causally continuous
+series of events… it is, indeed, just the post-mortem continuity of any
+series of mental events that is called 'rebirth.'"
+— hayes.txt / arnold.txt (`quotes/karma-continuum.txt`) — STOP 5: the
+courtroom + the modern analytic formulation.
+
+---
+
+## EXTRACTION PROVENANCE (audit)
+All 8 extracts pulled 2026-10-20 from banked files (ToR full text,
+hayes.txt, arnold.txt) with ±context kept. K8/K9 inherit rebirth
+VERIFY #2/#4 — flagged, not laundered.

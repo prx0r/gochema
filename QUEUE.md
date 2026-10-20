@@ -9,13 +9,14 @@
 | 1 | Buddhist Reincarnation, Actually Explained (30-min v1) | `rebirth` | WRITING (v1.2 citation-verified) | Owner voice review: 4 decisions in FINISH-IN-QUILL.md |
 | 2 | Śaiva: Recognition, Not Rebirth (TEMPLATE film) | `film-saiva` | BUILD (full script + storyboard) | Expand per v1 recipe; mirror-merge money shot defines the standard |
 | 3 | What Actually Happens When You Pray (NEW) | `prayer` | SCAFFOLD (2 stops banked, 6 to acquire) | Thesis pick A/B/C + ACQUIRE stops 3–8 |
-| 4–15 | 12 remaining tradition films (Hindu → Astral) | `film-<tradition>` | BUILD (core + movie spec each) | Roster order; buddhist-v1 recipe per film (MOVIE.md = beats+cine+READs) |
-| 16 | Enter Another Body At Will (special) | `special-enter-another-body` | BUILD (script written) | Cross-tradition trope chapter; rights gates still open |
-| 17 | How to Leave Your Body (gateway special) | `special-gateway` | BUILD (spec written) | Wikisource memo fetch; sources in SPEC |
-| 18 | Daimon Companion (seed film) | `daimon` | BUILD (102-shot storyboard, audited) | Render path per BUILD-PIPELINE |
-| 19 | Fire Simile | `fire-simile` | BUILD (v1 reading + v2 analysis) | Voice synth decision (Louis vs old-man take on R2) |
-| 20 | Dependent Origination | `dependent-origination` | SCAFFOLD (source + structure) | Essay draft (v2 stream-entry spine) |
-| 21 | Fundamental Structure (Ñāṇavīra) | `fundamental-structure` | SCAFFOLD (extracts + structure) | Time-doctrine video spec (feeds rebirth ch.9) |
+| 4 | Why Karma Governs Your Life (NEW — owner brief verbatim) | `karma` | SCAFFOLD (ladder + unfairness anchor banked, 8 extracts) | Owner: cold-open + unfairness-charge words; bank ālaya/Abhidhammattha; ACQUIRE theodicy voice |
+| 5–16 | 12 remaining tradition films (Hindu → Astral) | `film-<tradition>` | BUILD (core + movie spec each) | Roster order; buddhist-v1 recipe per film (MOVIE.md = beats+cine+READs) |
+| 17 | Enter Another Body At Will (special) | `special-enter-another-body` | BUILD (script written) | Cross-tradition trope chapter; rights gates still open |
+| 18 | How to Leave Your Body (gateway special) | `special-gateway` | BUILD (spec written) | Wikisource memo fetch; sources in SPEC |
+| 19 | Daimon Companion (seed film) | `daimon` | BUILD (102-shot storyboard, audited) | Render path per BUILD-PIPELINE |
+| 20 | Fire Simile | `fire-simile` | BUILD (v1 reading + v2 analysis) | Voice synth decision (Louis vs old-man take on R2) |
+| 21 | Dependent Origination | `dependent-origination` | SCAFFOLD (source + structure) | Essay draft (v2 stream-entry spine) |
+| 22 | Fundamental Structure (Ñāṇavīra) | `fundamental-structure` | SCAFFOLD (extracts + structure) | Time-doctrine video spec (feeds rebirth ch.9) |
 
 ## Parked (no pack yet — say the word and they get scaffolded like prayer)
 - **Recognition Actually Explained** (Utpaladeva proof — argument map exists in pushing-tantraloka + Ratié shelf)
