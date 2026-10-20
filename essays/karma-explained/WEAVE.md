@@ -117,6 +117,14 @@ individual should be subdued."
 — `quotes/karma-an5161-ownership.txt` — STOP 5: karma-ownership as an
 anti-hatred tool (Hillside 93hh uses exactly this). Practice, not theory.
 
+
+**[K15] SN 15:14–19 every-role-occupied (Thanissaro)** — "A being who has not
+been your mother at one time in the past is not easy to find.… your
+father.… your brother.… your sister.… your son.… your daughter…"
+— `quotes/karma-anamatagga-roles.txt` — STOP 2: the canonical Hitler/Mother
+Teresa — every role occupied, no one essentially anything. Read in roles,
+never named individuals (see TAKES note on trivialization).
+
 ## EXTRACTION PROVENANCE (audit)
 K1–K10 pulled 2026-10-20 from banked files (ToR full text, hayes.txt,
 arnold.txt). K8/K9 inherit rebirth VERIFY #2/#4 — flagged, not laundered.
