@@ -142,6 +142,27 @@ have been my mother, you can say father or caregiver."
 — ibid. — the figure is interchangeable = strategic technology, stated by
 the tradition. Full Q&A in `MOTHER-OBJECTIONS.md`.
 
+## DEEP-DIVE GRADUATES II (2026-10-20 — full papers banked)
+
+**[K18] Wood, habit automaticity (USC PDF, banked)** — "people may
+misattribute externally-cued representations to their own natural response…
+to their internal preferences and desires… as responses become more
+habitual, they come more directly under the control of the stimulus context
+and thereby lose sensitivity to the value of the consequences."
+— `quotes/karma-habit-wood.txt` — STOP 3: the lab version of perfuming;
+habits feel like "me" and stop listening to goals. One card, no numbers.
+
+**[K19] Burley abstract (White Rose, banked)** — "examines three criticisms…:
+no practical guidance; free will vs fatalism; morally repugnant victim-
+blaming… showing that its depth is such that it is best characterized as a
+disagreement in form of life (in Wittgenstein's sense) rather than as a
+disagreement in opinions. Also briefly discussed is an example of a
+non-retributive form that belief in karma and reincarnation can take."
+— `quotes/karma-burley-abstract.txt` — STOP 1: the guard's skeleton (three
+charges = three guard beats) + the domino thesis in academic dress + the
+non-retributive escape hatch. Full paper: fetch before scripting beyond
+the abstract.
+
 ## EXTRACTION PROVENANCE (audit)
 K1–K10 pulled 2026-10-20 from banked files (ToR full text, hayes.txt,
 arnold.txt). K8/K9 inherit rebirth VERIFY #2/#4 — flagged, not laundered.

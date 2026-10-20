@@ -8,11 +8,10 @@ STILL WANT: one named teacher/text squarely facing "what did the child do?"
 without dodging. Candidates left: Tibetan lam-rim black/white karma +
 undeserved-suffering passages; Burley full paper (White Rose PDF).
 
-## 2. Habit-science bridge (stop 3 — EXCERPTS IN HAND, PDFs to fetch)
-Wood 2015 Annual Review excerpts banked in TAKES.md (repetition → automatic
-cuing → goals lose control + misattribution/"feels like me"). FETCH BEFORE
-SCRIPTING: the two OPEN companion PDFs at dornsife.usc.edu (Wood: Habits
-in Dual Process Models; Carden & Wood 2018). One card, no numbers invented.
+## 2. Habit-science bridge (stop 3 — DONE 2026-10-20, K18 banked)
+Wood dual-process chapter banked (`quotes-karma-habit-wood.txt`).
+STILL OPEN: Carden & Wood 2018 companion (health-habit timescale data —
+nice-to-have, not blocking).
 
 ## 3. MN 135 Cūḷakammavibhaṅga (stop 4 support — DONE 2026-10-20)
 K11 banked (owners-of-actions frame + closing; full baseness/excellence

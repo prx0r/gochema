@@ -43,15 +43,12 @@ believer's theodicy voice the film needs (a sick child is NOT "retribution",
 nor "random"). Chinese Buddhist network; verify translation at draft.
 
 **Mikel Burley, "Retributive karma and the problem of blaming the victim"
-(LINKED — White Rose eprints PDF, free)** — three criticisms (no practical
-guidance; free-will-vs-fatalism dilemma; victim-blaming as morally repugnant),
-responses considered, plus the Wittgenstein move: the dispute is a
-"disagreement in form of life rather than… opinions." Also: "a morally
-significant difference between alternative ways of articulating the belief
-in karma."
-— https://eprints.whiterose.ac.uk/id/eprint/85287/ — STOP 1 structure: the
-three charges ARE the film's guard chapter; the form-of-life point is the
-domino thesis in academic dress. Fetch full text before scripting.
+(BANKED 2026-10-20 — `quotes/karma-burley-abstract.txt`, WEAVE K19)** — the
+three criticisms (no practical guidance; free-will-vs-fatalism dilemma;
+morally repugnant victim-blaming) + the Wittgenstein move ("disagreement
+in form of life rather than… opinions") + a non-retributive karma escape
+hatch. STOP 1 structure: the three charges ARE the film's guard chapter.
+Full paper beyond abstract: still fetch before scripting those beats.
 
 ## STOP 1 — the weaponization data (cold-open gold)
 
@@ -68,18 +65,15 @@ Press release is public; paper itself paywalled (cite release only).
 
 ## STOP 3 — the habits bridge (science side)
 
-**Wendy Wood, Annual Review of Psychology 2015 (QUOTED, review excerpts)** —
-"habits develop… through instrumental learning… behavior becomes less
-responsive to current goals and planning as habit associations strengthen"
-+ "people misattribute externally-cued representations to their own natural
-response… to their internal preferences and desires" (habits feel like "me")
-+ habit = "a specific subset of… automaticity… triggered by a relatively
-rigid form of context cuing."
-— https://doi.org/10.1146/annurev-psych-122414-033417 (paywalled) + open
-companion PDFs at dornsife.usc.edu (Wood: Habits in Dual Process Models;
-Carden & Wood 2018 — both linked from search, fetch before scripting).
+**Wendy Wood, Habits in Dual Process Models (BANKED 2026-10-20 —
+`quotes/karma-habit-wood.txt`, WEAVE K18, USC PDF)** — "people may
+misattribute externally-cued representations to their own natural
+response… to their internal preferences and desires… as responses become
+more habitual, they come more directly under the control of the stimulus
+context and thereby lose sensitivity to the value of the consequences."
 STOP 3: the rational on-ramp — repetition → automatic cuing → goals lose
 control. This IS perfuming in lab language. One card, no numbers invented.
+(STILL OPEN: Carden & Wood 2018 companion for timescale data.)
 
 ## STOP 5 — the western-mirror shelf (determinism corner)
 
