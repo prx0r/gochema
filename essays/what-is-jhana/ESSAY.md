@@ -1,13 +1,13 @@
-# ESSAY — What Is a Jhāna? — SCRIPT V0.1 (agent-drafted in owner voice, pushing review pending)
+# ESSAY — What Is a Jhāna? — SCRIPT V0.2 (full, MCP-fed, pushing-addressed)
 
-> V0.1: agent-drafted connecting sections around OWNER VERBATIM locked
-> text from draft1.md. Bridge text written in owner's register (short,
-> dry, direct) per compiler law exception — owner explicitly ordered
-> "pretending to be me". [OWNER VERBATIM] = draft1 exact. [READ — cite]
-> = verbatim from source file. PENDING: pushing review (objection →
-> answer → resolution → honest remainder) before any synth.
-> Voice mix target: ~60% owner verbatim (his brief is unusually long),
-> ~30% READ, ~10% bridges.
+> V0.2: all READs now reference banked source files (no placeholders).
+> [OWNER VERBATIM] = draft1 exact. [READ — cite] = verbatim from the
+> named file. Bridges in owner's register. PUSHBACK objections addressed
+> inline (see ⚡ markers). Ready for owner voice review.
+> Banked sources: HH 38/205/284 + MN 27 (Thanissaro) + Nyanamoli HH
+> transcripts. CONTINGENT: Brahm clip (clearance), Jhorney/reddit
+> (bank before screenshot), Nyanamoli book passages (swap READ when
+> banked).
 
 ---
 
@@ -27,6 +27,10 @@
 
 > DIR: the flame multiplies into a trophy, then the trophy shatters — back to the single flame.
 
+⚡ PUSHBACK-1 APPLIED: the bridge after this names the mechanism as
+"hindrances," not "you" — so the next chapter's "ruining" lands as
+psychology, not mysticism.
+
 ---
 
 ## CH.2 — THE INVERSION (2:30–4:00)
@@ -35,13 +39,20 @@
 
 > DIR: HARD CUT to black on "video over."
 
+⚡ PUSHBACK-1 NOTE: the five hindrances (sense-desire, ill-will, sloth-
+drowsiness, restlessness, doubt) are the "you" the sutta names. If a
+viewer asks "how do I stop?" — the answer is already in MN 27: the
+practitioner "abandons" them one by one before the first jhana arises.
+Banked: `quotes/mn27-four-jhanas.txt`.
+
 ---
 
 ## CH.3 — THE BLANK SCREEN (4:00–4:20)
 
 > DIR: 20 seconds of absolute black. No text. No sound. The chapter
 > marker reads "4:00–4:20 — (this IS the lesson)" for anyone scrubbing
-> the timeline.
+> the timeline. ⚡ PUSHBACK-2: retention risk accepted — the chapter
+> marker joke makes the skip visible, which is the content.
 
 ---
 
@@ -56,10 +67,11 @@
 
 [OWNER VERBATIM] well you have to bribe the mind, you say ok just do nothing for a bit and after a while your experience will be unimaginable bliss , tahts the promise of the buddha (insert suttha quote)
 
-> DIR: sutta card — PICK ONE, bank first:
-> candidate MN 27 (elephant-footprint: "skillful qualities are for the
-> sake of relinquishment") or AN 5.28 or SN 48.10. ACQUIRE — no READ
-> until banked. (WEAVE J5)
+[READ — MN 27, Four Jhanas, Thanissaro, `quotes/mn27-four-jhanas.txt`]: "Having abandoned these five hindrances — imperfections of awareness that weaken discernment — then, quite secluded from sensuality, secluded from unskillful qualities, he enters and remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation."
+
+⚡ PUSHBACK-5: MN 27 is the RIGHT sutta because its own epistemology
+is the bribe: the elephant hunter sees the footprint and knows the
+elephant is real without seeing it. The jhanas are the footprint.
 
 ---
 
@@ -67,8 +79,10 @@
 
 [OWNER VERBATIM] and tehn cut tto clip of ajahn brahm saying its better than sex.
 
-> DIR: Ajahn Brahm clip ≤15s. ACQUIRE video ID + clearance (ask-first).
-> (WEAVE J6)
+> DIR: Ajahn Brahm clip ≤15s. ⚡ PUSHBACK-3: CONTINGENT — clearance
+> check (CLIPS.md ask-first). If clip fails, beat reverts to CH.6
+> definitions with the "real phenomenon" bridge carrying the weight.
+> WEAVE J6 open.
 
 [OWNER VERBATIM] then say, eitehr ajahn brahm is having terrible sex or there is something real about this
 
@@ -76,12 +90,13 @@
 
 > DIR: Jhorney blog screenshots, reddit thread titles (bank first —
 > ACQUIRE #7), book spines (Brasington, Brahm, Ñāṇamoli). Cards only —
-> no fabricated quotes.
+> no fabricated quotes. ⚡ PUSHBACK-4: bank before screenshot.
 
 [OWNER VERBATIM] it does make you think there is a wealth of material here that could have use cases in rehab people suffering with addiction etc (bit shaky here lol)
 
-> DIR: card: "shaky claim — flagged for pushback" (the pushing review
-> gets the last word on this beat).
+> DIR: card: "shaky claim — flagged for pushback." ⚡ PUSHBACK-4
+> VERDICT: stays as-is — the laugh IS the honesty. Never becomes an
+> unsourced claim because the delivery carries the hedge.
 
 ---
 
@@ -90,11 +105,14 @@
 [OWNER VERBATIM] so now that we have somewhat confirmed that this is a real phenomenon, what is it, hand how does it work? do definitions and tehn basically use ajahn nyanamoli explaining it reference his book how to enter first jhana and basically say it is the natural state of the mind.
 
 > DIR: book card — Ñāṇamoli, "How to Enter the First Jhana" (ACQUIRE
-> passages — WEAVE J4). Until banked: [READ from HH 38hh/284hh banked
-> extracts instead]:
-> [READ — HH 38hh Samadhi and Jhana, Ñāṇamoli, banked `quotes/hh-38-natural-state.txt`]:
-> (paste exact banked line here — COMPILER: insert verbatim from the
-> extract file, not from memory).
+> #2 — bank passages). ⚡ PUSHBACK-5: until banked, use HH 38hh extract
+> as the stand-in READ (banked):
+
+[READ — HH 38hh, Ajahn Ñāṇamoli, Samadhi and Jhana, `quotes/hh-38-natural-state.txt`]: "If your samādhi is concerned with composing the nature of things to be present and endure in your experience, that's the right samādhi. If your concentration is concerned with focusing on the particular, whatever is in front of you, and then a further particular within that particular, you're basically preying upon something. You're hunting down the moment, chasing it, trying to see it in its arising, and that's a completely wrong direction."
+
+[READ — HH 205hh, Ajahn Ñāṇamoli, Jhana Is A Lifestyle, `quotes/hh-205-jhana-lifestyle.txt`]: "Jhana is an establishment of mind that results from your own efforts of purifying your lifestyle. It's not a magical experience that will purify your life for you."
+
+[READ — HH 284hh, Ajahn Ñāṇamoli, The Meaning of Right Samadhi, `quotes/hh-284-right-samadhi-def.txt`]: "The normal tendency is to attend to what's right in front of you. That's the definition of sensuality in general. Your being existing on the level of sense objects. That's the measure of what's real."
 
 [OWNER VERBATIM] which doesnt really help that much apart from saying , relax.
 
@@ -103,7 +121,6 @@
 [OWNER VERBATIM] this leads to the suprising discovery taht buddhism isnt a far out religion (not all the time anyway) but a phenomenological approach to investigating human experience.
 
 > DIR: card: phenomenology = the investigation of experience itself.
-> (No source needed — definitional, but flag if owner wants a cite.)
 
 ---
 
@@ -121,8 +138,9 @@
 [OWNER VERBATIM] what wroks actually needs to be done? can people be in jhana without realising it?
 
 > DIR: question cards stack on screen — these are the stops for v2 or
-> the extended cut. End card: "the 8 jhanas, mapped" (ACQUIRE WEAVE J7
-> — DN 2 / Vism ch.5 structure) OR hold for the shamatha video.
+> the extended cut. End card: "the 8 jhanas, mapped" (ACQUIRE WEAVE J7 —
+> DN 2 / Vism ch.5 structure). ⚡ PUSHBACK-6: defer to 8-jhana card,
+> per owner's "more like focused" constraint. The card PROMISES it.
 
 ---
 
@@ -134,4 +152,21 @@
 
 ---
 
-[EOF — script v0.1, agent-drafted in owner voice, PUSHING REVIEW PENDING]
+## FULLY BANKED READs (ready for TTS)
+| READ | Source file | Status |
+|---|---|---|
+| MN 27 four jhanas | quotes/mn27-four-jhanas.txt | **BANKED** |
+| HH 38 samādhi direction | quotes/hh-38-natural-state.txt | **BANKED** |
+| HH 205 lifestyle | quotes/hh-205-jhana-lifestyle.txt | **BANKED** |
+| HH 284 right samadhi | quotes/hh-284-right-samadhi-def.txt | **BANKED** |
+
+## CONTINGENT (blocks synth, not writing)
+| Item | Blocker | Fallback |
+|---|---|---|
+| Brahm clip | Clearance (ask-first) | Revert CH.5 to definitions |
+| Screenshot cards | Bank Jhorney/reddit first | Use text-only cards |
+| Nyanamoli book | Bank passages | HH 38/205/284 stand-ins (done) |
+
+---
+
+[EOF — script v0.2, full, MCP-fed, pushing-addressed, owner review next]

@@ -30,10 +30,14 @@ means within the path).
 state definition the owner wants to quote directly. ACQUIRE: bank 2–3
 key passages. SLOT: stop 8.
 
-**[J5] Sutta for the bribe beat** — owner: "thats the promise of the
-buddha (insert suttha quote)". Candidate: MN 27 (elephant-footprint —
-jhana as the shelter), AN 5.28 (supreme bliss), SN 48.10 (four jhanas =
-basis of winners). ACQUIRE: pick ONE, bank verbatim. SLOT: stop 5.
+**[J5] MN 27, Four Jhanas (Thanissaro, BANKED 2026-10-20)** — "Having
+abandoned these five hindrances… he enters and remains in the first
+jhāna: rapture & pleasure born of seclusion, accompanied by directed
+thought & evaluation." + the second, third, fourth jhana sequence.
+— `quotes/mn27-four-jhanas.txt` — SLOT: CH.4 bribe beat (the Buddha's
+own words for the bliss promise) + CH.7 (8-jhana structure: the four
+form jhanas ARE in this sutta). Elephant-footprint epistemology:
+the footprint is the proof — the jhanas leave marks you can see.
 
 **[J6] Ajahn Brahm "better than sex"** — the clip. ACQUIRE: find video
 ID, check clearance (ask-first per CLIPS.md), bank the transcript line.
