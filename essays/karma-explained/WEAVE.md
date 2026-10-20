@@ -87,7 +87,39 @@ courtroom + the modern analytic formulation.
 
 ---
 
+## PRIMARY GRADUATES (deep-dive 2026-10-20 — fetched from dhammatalks.org)
+
+**[K11] MN 135 owners-of-actions (Thanissaro)** — "Beings are owners of their
+actions, heirs of their actions, born of their actions, related through their
+actions, and have their actions as their arbitrator. Action is what
+differentiates beings in terms of baseness & excellence."
+— `quotes/karma-mn135-owners.txt` (frame + closing bookends; full baseness/
+excellence table fetched, banked in research notes) — STOPS 1+4: the
+birth-lottery sutta. The theodicy anchor is now primary, not secondary.
+
+**[K12] SN 12:67 reeds, primary (Thanissaro)** — same reeds passage as K7
+but from the sutta, plus the cessation half: "If one were to pull away one
+of those sheaves of reeds, the other would fall… from the cessation of
+birth, then aging-&-death… all cease."
+— `quotes/karma-sn1267-reeds.txt` — STOP 2: prefer K12 over K7 for reads
+(ToR version kept as commentary backup).
+
+**[K13] SN 23:2 sand-castles (Thanissaro)** — "you too should smash, scatter,
+& demolish form, and make it unfit for play… the ending of craving… is
+unbinding."
+— `quotes/karma-sn23-satta.txt` — STOP 5: the practice image. Film-ready;
+prefer over K7's satta half.
+
+**[K14] AN 5:161 ownership-of-kamma (Thanissaro)** — "'This venerable one is
+the doer of his actions, heir of his actions… Whatever action he does, for
+good or for evil, to that will he fall heir.' Thus the hatred for that
+individual should be subdued."
+— `quotes/karma-an5161-ownership.txt` — STOP 5: karma-ownership as an
+anti-hatred tool (Hillside 93hh uses exactly this). Practice, not theory.
+
 ## EXTRACTION PROVENANCE (audit)
-All 8 extracts pulled 2026-10-20 from banked files (ToR full text,
-hayes.txt, arnold.txt) with ±context kept. K8/K9 inherit rebirth
-VERIFY #2/#4 — flagged, not laundered.
+K1–K10 pulled 2026-10-20 from banked files (ToR full text, hayes.txt,
+arnold.txt). K8/K9 inherit rebirth VERIFY #2/#4 — flagged, not laundered.
+K11–K14 fetched same day from dhammatalks.org (Thanissaro). Forum/scholar
+takes live in TAKES.md — no READ exists from a URL until its source file
+is banked.
