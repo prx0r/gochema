@@ -27,17 +27,15 @@
 > "And suppose someone were to ask you, 'This fire…'" [full tetralemma in text]
 (Reductio core — already the fire-simile film.)
 
-## SN 12.15 Kaccāyanagotta — the middle
-> "This world, Kaccāna, for the most part is bound up in the notions of
-> existence and non-existence… But one who sees the arising of the world as it
-> really is with right wisdom does not regard the world with the notion of
-> non-existence. One who sees the passing away of the world… does not regard
-> the world with the notion of existence… This world, Kaccāna, for the most
-> part is shackled by engagement, clinging, & holding. But one such as this
-> does not engage, cling, or hold; they do not take a stand on 'my self.' One
-> such is free from reckoning: 'This is mine. This is what I am. This is my
-> self.'" [12-link formula follows]
-(Madhyamaka anchor + Early Buddhism root.)
+## SN 12.15 Kaccāyanagotta — the middle (Thanissaro, quotes/sn12.015.than.txt)
+> "By and large, Kaccayana, this world is supported by — takes as its object
+> — a polarity, that of existence and non-existence… Avoiding these two
+> extremes, the Tathagata teaches the Dhamma via the middle…" [12-link
+> formula follows in file]
+(Madhyamaka anchor + Early Buddhism root. NOTE 2026-10-20: the earlier
+draft of this entry carried wording ("bound up in the notions… shackled by
+engagement") NOT present in the banked Thanissaro file — corrected to the
+file. If that older wording is wanted, bank its translation first.)
 
 ## SN 22.86 Anurādha — the tetralemma
 > "The Tathāgata — the supreme man… — being described, is described otherwise

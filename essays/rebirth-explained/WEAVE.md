@@ -102,7 +102,7 @@
 
 ## H. MADHYAMAKA (S14)
 
-**[M1] SN 12.15 Kaccāyanagotta** — "This world, Kaccāna, for the most part is bound up in the notions of existence and non-existence… Without resorting to either of these extremes, the Tathāgata teaches the teaching by the middle." — quotes/sn12.015.than.txt — S14 (shared root with Early Buddhism).
+**[M1] SN 12.15 Kaccāyanagotta** — "By and large, Kaccayana, this world is supported by — takes as its object — a polarity, that of existence and non-existence… Avoiding these two extremes, the Tathagata teaches the Dhamma via the middle." — quotes/sn12.015.than.txt (Thanissaro; "&" read as "and") — S14 (shared root with Early Buddhism). CORRECTED 2026-10-20: earlier entry misquoted the file.
 
 **[M2] SN 22.85 (Sāriputta, the turn)** — "when you can't pin down the Tathāgata as a truth or reality even in the present life — is it proper for you to declare… 'annihilated, perishes, & does not exist after death'?" — quotes/sn22.085.than.txt — S14.
 

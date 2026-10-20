@@ -1,9 +1,15 @@
-# ESSAY — Buddhist Reincarnation, Actually Explained — SCRIPT V1.1 (peer-reviewed, 30 min)
+# ESSAY — Buddhist Reincarnation, Actually Explained — SCRIPT V1.2 (peer-reviewed, 31 min clock)
 
-> V1.1: my ornamental prose replaced with source wording wherever a source
+> V1.2: citation-verification pass (2026-10-20) — every READ re-checked
+> against its banked source file; SN 12.15 / Vism / MN 2 / BDK-18th corrected
+> to verbatim, CH.3/CH.4 60s double-book fixed (clock now honest at 31:00 —
+> owner call: trim to 30:00 or accept 31:00). No voice changes.
+> V1.1: ornamental prose replaced with source wording wherever a source
 > exists (compiler law enforced on myself). [OWNER VERBATIM] = draft1, exact.
 > [READ — cite] = read aloud AS WRITTEN, verbatim from source.
-> Measured: see ratio at bottom after recount.
+> Voice mix (v1.1 peer-review count, per HANDOVER): ~2,574 words total —
+> owner verbatim 623 · teachers/sutta READ 1,508 · agent bridges 443
+> (83% source-voiced). Recount after owner's voice-review cuts.
 
 ---
 
@@ -61,14 +67,15 @@ in a transplant glossary.
 
 [READ — Visuddhimagga]: "There are three kinds of death: death as cutting
 off, momentary death, and conventional death. Death as cutting off belongs
-to those whose cankers are exhausted. Momentary death is that of each
-consciousness of the cognitive series… Conventional death is that of all
-(so-called) living beings."
+to those whose cankers are exhausted (and are Arahants). Momentary death
+is that of each consciousness of the cognitive series… Conventional death
+is that of all (so-called) living beings."
 
 and what's the alternative to asking these as questions? the buddha
-dismissed exactly that move: [READ — MN 2, via Thanissaro]: "Am I? Am I not?
-What am I? How am I?" — "is a form of inappropriate attention: the kind of
-attention that ignores the four noble truths."
+dismissed exactly that move: [READ — MN 2, via Thanissaro, Truth of Rebirth]:
+"Am I? Am I not? What am I? What was I in the past? What will I be in the
+future?" — "is a form of inappropriate attention: the kind of attention
+that ignores the four noble truths."
 
 three deaths. one of them happens every thought you've ever had. does that
 make it clearer? good. if death has types, birth has types too — and then
@@ -79,7 +86,7 @@ is first.
 
 ---
 
-## CH.4 — TOUR 1: THERAVĀDA (7:30–11:00)
+## CH.4 — TOUR 1: THERAVĀDA (8:30–12:00)
 
 what rebirth is in theravada: death is seventeen thought-moments long. five
 weak flashes grab the death-object — a past deed, its image, or a sign of
@@ -116,7 +123,7 @@ these principles as working hypotheses."
 
 ---
 
-## CH.5 — TOUR 2: YOGĀCĀRA (11:00–14:00)
+## CH.5 — TOUR 2: YOGĀCĀRA (12:00–15:00)
 
 yogacara: no soul, but there's a store. every intentional thing you do drops
 a seed into the storehouse consciousness, perfuming it like sesame in oil.
@@ -137,9 +144,10 @@ while manifest awareness "nurtur[es] the seeds in this life… and caus[es]
 the store feeds the moments, the moments feed the store, and death is just
 the account moving offices.
 
-and keep this receipt for later: [READ — Asaṅga, Mahāyānasaṃgraha]: the ālaya
-is "the same idea which is called root-consciousness (mula-vijñana) by the
-Mahasamghika schools and what the Sthavira schools call the bhavaṅga."
+and keep this receipt for later: [READ — modern survey summary of Asaṅga's
+Mahāyānasaṃgraha point — VERIFY: bank the primary passage at draft]: the
+ālaya is "the same idea which is called root-consciousness (mula-vijñana)
+by the Mahasamghika schools and what the Sthavira schools call the bhavaṅga."
 one concept, three school names.
 
 says who: they fixed the continuity problem everyone else was living with.
@@ -149,13 +157,19 @@ does that make it clearer? only if you like spreadsheets.
 
 ---
 
-## CH.6 — TOUR 3: PURE LAND (14:00–16:30)
+## CH.6 — TOUR 3: PURE LAND (15:00–17:30)
 
 pure land is the answer to 'yeah but I'm rubbish at this.' the eighteenth
-vow: [READ — Larger Sukhāvatīvyūha, BDK]: "If, when I attain buddhahood,
-sentient beings in the lands of the ten directions who sincerely and joyfully
-entrust themselves to me, desire to be born in my land, and think of me even
-ten times should not be born there, may I not attain perfect enlightenment."
+vow: [READ — Larger Sukhāvatīvyūha, BDK, 18th vow]: "If, when I attain
+buddhahood, sentient beings in the lands of the ten directions who sincerely
+and joyfully entrust themselves to me, desire to be born in my land, and
+think of me even ten times should not be born there, may I not attain
+perfect enlightenment." […]
+
+> DIR: the […] hides the vow's exclusion clause — banked text continues:
+> "Excluded, however, are those who commit the five grave offenses and abuse
+> the Right Dharma." Owner call at voice review: read it aloud (honest grace
+> has one exception) or carry it on a card. Do not silently drop it.
 
 entrust, desire, think. ten times. and the daily practice got cut to bone:
 [READ — SEP, Japanese Pure Land]: "simply uttering the Name of Amida Buddha…
@@ -175,14 +189,15 @@ driving, you just sit in the car.
 
 ---
 
-## CH.7 — TOUR 4: MADHYAMAKA (16:30–18:30)
+## CH.7 — TOUR 4: MADHYAMAKA (17:30–19:30)
 
 the demolition crew: rebirth with nobody reborn and nothing travelling.
 what continues is a working name, like 'chariot' for the parts — useful
 word, no chariot in there. their moment of death: only conventional
-designation, nothing to pin down. [READ — SN 12.15]: "This world… is bound
-up in the notions of existence and non-existence… Without resorting to
-either of these extremes, the Tathāgata teaches the teaching by the middle."
+designation, nothing to pin down. [READ — SN 12.15, Thanissaro]: "By and
+large, Kaccayana, this world is supported by — takes as its object — a
+polarity, that of existence and non-existence… Avoiding these two extremes,
+the Tathagata teaches the Dhamma via the middle."
 
 and before the philosophy does backflips —
 [OWNER VERBATIM] we cant say death is an illusion because we can verify
@@ -199,7 +214,7 @@ make it clearer? only if you like philosophy. we move.
 
 ---
 
-## CH.8 — TOUR 5: TIBETAN (18:30–21:30)
+## CH.8 — TOUR 5: TIBETAN (19:30–22:30)
 
 tibetan took notes. the dissolution, as their own reference table gives it —
 [READ — Bardo Thödol ch.11 sequence]: "Earth dissolves into Water — Body
@@ -210,7 +225,8 @@ Space — Breath wheezes, limbs quiver. Redness — 40 attachment-based patterns
 cease. Whiteness — 33 aversion-based patterns cease. Blackness — 7
 delusion-based patterns cease."
 
-then: [READ — Bardo Thödol]: "a profound state of consciousness, called the
+then: [READ — Britannica summary of the Bardo Thödol — VERIFY against
+Gyurme Dorje tr. at draft]: "a profound state of consciousness, called the
 clear light, dawns. If one is able to recognize the clear light as reality,
 one immediately achieves liberation from saṃsāra." miss it and you wake up
 dead in the bardo — a mental body with your habits, for up to forty-nine
@@ -234,10 +250,10 @@ the longest probate in history.
 
 ---
 
-## CH.9 — NĀṆAVĪRA TIME SECTION (21:30–25:00)
+## CH.9 — NĀṆAVĪRA TIME SECTION (22:30–26:00)
 
 next up: the densest four minutes in the film — nanavira taking time apart.
-card on screen: too dense? skip to 25:00. same destination, fewer explosions.
+card on screen: too dense? skip to 26:00. same destination, fewer explosions.
 
 [READ — Ñāṇavīra, FS Dynamic Aspect §2]: "To fix the idea of duration we
 might imagine some rigid object — a lamp, say — together with the ticking of
@@ -265,11 +281,11 @@ were to pull away one of those sheaves, the other would fall."
 pull one reed, the other falls — that's their rebirth. does that make it
 clearer? i don't know. nobody does. that's kind of the point.
 
-> DIR: HARD CUT — fluid never stopped, breath loop. Skip card ends at 25:00.
+> DIR: HARD CUT — fluid never stopped, breath loop. Skip card ends at 26:00.
 
 ---
 
-## CH.10 — SHARED ONTOLOGY (25:00–26:30)
+## CH.10 — SHARED ONTOLOGY (26:00–27:30)
 
 [OWNER VERBATIM] we can compare the general shared ontology and metaphysics across schools without being lectury.
 
@@ -285,7 +301,7 @@ rebirth." so this table is my compilation, not their creed. fair is fair.
 
 ---
 
-## CH.11 — THE HONEST QUESTION (26:30–28:00)
+## CH.11 — THE HONEST QUESTION (27:30–29:00)
 
 does it hold up? their own lawyer says it's a wager: [READ — Thanissaro]:
 "Each time you choose one course of action over another, you're making a
@@ -311,7 +327,7 @@ annihilated." the buddhists wrote his quote down to keep it. observer here.
 
 ---
 
-## CH.12 — CLIFFHANGER (28:00–29:30)
+## CH.12 — CLIFFHANGER (29:00–30:30)
 
 so: are you being born right now? check.
 [OWNER VERBATIM] and buddhist time is weird in a way i dont have words for
@@ -327,9 +343,46 @@ next video we pull the thread properly — nanavira, nanananda, dependent
 origination from the ground up: habits, karma, what a self even is. stream
 entry, actually explained.
 
-## CH.13 — END (29:30–30:00)
+## CH.13 — END (30:30–31:00)
 black. flame goes out.
 
 ---
 
-[EOF — script v1.1, peer-reviewed]
+## VERIFY-AT-DRAFT (citation flags — resolve before render, 2026-10-20 audit)
+
+> Every [READ] below is IN the script but its banked source is missing,
+> indirect, or imprecise. Compiler law: no READ records without its source
+> file in repo. Owner does not need to act on these in voice review — they
+> are compile tasks.
+
+1. **Milinda chariot (CH.2)** — the "[READ — Milinda Pañha…] (acquire at
+   draft)" placeholder is still open. Only the flame simile (III.5.5) is
+   banked (`library/rebirth-sources/milindapanha-rebirth-flame.txt`).
+   ACTION: fetch the Nāgasena chariot exchange (Miln II.1) from
+   buddhanet/sacca mirrors, bank full passage, fill the READ.
+2. **TH2/TH3 Abhidhammatthasaṅgaha §12 + §13 fn (CH.4)** — quoted "hand",
+   no source file. ACTION: bank the Nārada (or Bhikkhu Bodhi) translation
+   passages; the §13 footnote is the film's best "pop-misreading killer,"
+   it must be letter-exact.
+3. **Y1/Y2 Waldron Ālaya Treatise (CH.5)** — "hand via search". ACTION:
+   bank the Waldron passages (seed/support + nurturing-into-next-life).
+4. **Asaṅga identity receipt (CH.5)** — retagged as survey summary (see
+   above). ACTION: bank the Mahāyānasaṃgraha passage proper.
+5. **PL3 Vasubandhu entrust gāthā (CH.6)** — "hand via search". ACTION:
+   bank from the BDK volume or Tanluan commentary.
+6. **SEP Yogācāra withdrawal (CH.5) + SEP Pure Land Name (CH.6)** — web
+   quotes, no SEP print banked. ACTION: save both SEP pages to library.
+7. **Kongtrul "lu" (CH.8)** — Rubin Museum web, no transcript banked.
+   ACTION: bank URL + transcript lines.
+8. **Lott et al. 2021 tukdam (CH.8)** — title read as citation, paper not
+   in library. ACTION: bank paper (or downgrade READ to a source card).
+9. **Dissolution table (CH.8)** — matches `library/tibetan/` reference
+   guide (compiled 2026-07-14); confirm cell wording against Gyurme Dorje
+   at draft. Ticker should read "Bardo Thödol, ch.11 (Gyurme Dorje tr.)".
+10. **Clear-light (CH.8)** — retagged Britannica (see above). ACTION:
+    replace with Gyurme Dorje or the banked TBOTD full text wording.
+11. **BDK deathbed welcome (CH.6)** — VERIFIED, but note: the banked
+    passage is from the BDK translator's introduction, not the sutra
+    proper. Ticker: "BDK Larger Sutra, translator's intro".
+
+[EOF — script v1.2, citation-verified; voice review + owner cuts still pending]

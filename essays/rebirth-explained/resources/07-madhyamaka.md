@@ -16,10 +16,11 @@ what continues. Charitable to Theravāda continuism; hostile to every
 substantial carrier, including ālaya-as-thing.
 
 ## Quotes (verbatim, cite)
-- SN 12.15 (Kaccānanagotta — the shared root): "This world, Kaccāna, for
-  the most part is bound up in the notions of existence and non-existence…
-  Without resorting to either of these extremes, the Tathāgata teaches the
-  teaching by the middle" [12-link formula follows] (Thanissaro, quotes/*.txt).
+- SN 12.15 (Kaccānagotta — the shared root): "By and large, Kaccayana,
+  this world is supported by — takes as its object — a polarity, that of
+  existence and non-existence… Avoiding these two extremes, the Tathagata
+  teaches the Dhamma via the middle" [12-link formula follows]
+  (Thanissaro, quotes/sn12.015.than.txt — read-aloud normalizes "&" to "and").
 - SN 22.86 (Anurādha): "The Tathāgata… being described, is described
   otherwise than with these four positions: exists after death, does not
   exist, both, neither."
@@ -32,7 +33,7 @@ substantial carrier, including ālaya-as-thing.
 
 ## Best objections
 - If everything is empty, does karma have force? (Standard answer: emptiness
-  is WHY因果 works — no svabhāva needed for conditioning. State the charge
+  is WHY causality works — no svabhāva needed for conditioning. State the charge
   first: the eternalism/nihilism double-bind the school lives inside.)
 - Hyde 2021 on Bergson applies here too: extreme-dualism accusations miss
   the two-truths move; but Western readers will hear nihilism — quote the
