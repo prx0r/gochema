@@ -87,3 +87,52 @@
   (pasted tokens treated as exposed — owner advised rotate).
 - Media never enters git (.gitignore: mp4/wav/png/scenes). Fa-Tsang PDF
   gitignored (>100MB GitHub limit); lives on disk + stallshark bucket.
+
+---
+
+# ADDENDUM — session continuation (2026-10-19 late)
+
+## Since the main handover above
+- **Films built:** film 11 Śaiva = full movie (STRUCTURE/ESSAY/STORYBOARD,
+  4-act, 13 beats, mirror-merge money shot, ~27:30). Body-transfer SPECIAL
+  (`films/specials/enter-another-body/`, refocused: core-family only,
+  Varanasi moved INTO film 11 as B8b, Campbell cut to science lane). GATEWAY
+  special speced (`films/specials/gateway/`): title "How to Leave Your Body"
+  + owner cold-open verbatim + lineage canon (filter→Bergson→Monroe→Campbell)
+  + Śaiva/Tibetan metaphysics verdict. Global: 13 cores + research shelf +
+  WEAVE-GLOBAL + ONTOLOGY + TITLES + RESEARCH-ADDENDA + SPINOFFS (11 parked).
+- **All 12 remaining tradition films = movie specs** (films/MOVIE-TEMPLATE
+  + 01…13 MOVIE.md: beats/rhythm/cinematography/READ lists).
+- **R2/volume sweeps done:** library/death (Hornung, Duat, Garuda, 27 Egyptian
+  papers, Ecology of Souls), library/tantra-death (Tantrāloka death deepdives
+  incl. four post-mortem levels + self-initiation, render packs, GRETIL
+  Tantrasāra), library/recognition (Ratié shelf + Tantrasāra/Paramārthasāra).
+
+## VISUAL LANGUAGE RULING (owner, 2026-01-19 fix: 2026-10-19 — BINDING)
+All films share ONE visual language, the way gcomedy's fundamentals videos
+share theirs (VISUAL-GRAMMAR v1.0 + the 9 trope shapes learned once in
+Episode 0). Rule: **shared layer dominates, per-film skin is decoration.**
+- SHARED across every film (from gochema/VISUAL-GRAMMAR.md — single source
+  of truth): element-fluid body, serif-citation law, gold=citation only,
+  state bar + citation ticker, five-function palette, death-stamp, motion
+  law (cuts vs state-dissolves), trope shapes (Probe/Three-Deaths/Tour-Stop/
+  Table/Guard/Cliff), Anton+Inter Tight type, silence policy.
+- PER-FILM allowed to vary: ONE light source (the tradition's ritual light),
+  palette skin tone within the shared hues, the single money shot, room-tone
+  bed. NOTHING else — no new glyphs, no new card styles, no new fonts.
+- Recommend: build a **gochema "Episode 0" fundamentals short** (like
+  gcomedy's) teaching the shapes once before the series rolls — flag to owner.
+
+## Queue for next agent
+1. Owner: voice-review buddhist ESSAY v1.1 + S16/close cuts.
+2. Expand 12 tradition cores → full ESSAY prose (roster order, film-11 recipe;
+   MOVIE.md = beats+cine spec, resources/NN = six fields, WEAVE = quotes).
+3. 20s Theravāda-transfer prototype (TRANSFER-VISUALS spec) → element-fluid
+   pass → Tibetan money shot (the shared body's validation).
+4. Gateway special build (sources listed in its SPEC: Wikisource memo fetch).
+5. Verify-at-draft pulls: sefaria/ctext/sacred-texts quotes per RESEARCH-ADDENDA.
+6. RIGHTS GATES still open: channeled verbatim (LL permission), Hariri/Wallace/
+   Upton clearances, pop-title-cards (film 11? no — films/12 panels).
+- Disk: system at 97% — big pulls to a volume; gochema ~460MB (Fa-Tsang
+  gitignored 235MB on disk).
+- Repo: origin/master shared with a parallel session (rebase before push).
