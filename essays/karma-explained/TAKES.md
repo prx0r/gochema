@@ -97,6 +97,13 @@ lead to… volitional catatonia"); knowledge of cause/effect makes outcomes
 evitable; mindfulness of volition = control. Stop 5's "the work works"
 anchor, scholarly.
 
+**Makkhali Gosala's fatalism, refuted (POINTER — DN 2 Samaññaphala)** —
+"no cause… for the defilement of beings… fate, chance and nature" — the
+doctrine the Buddha set beside Ajita's annihilationism and refuted both.
+Fetch the Makkhali passage if stop 5 wants the symmetry beat (fatalism on
+one side, randomness on the other, karma as the taught middle). Primary
+exists, not yet banked.
+
 **Iso 2025, Theravāda karma ≠ determinism (LINKED, doi:10.65680/jibs.6188)**
 — "karma itself does not deterministically cause external phenomena; rather
 it serves as… necessary and sufficient conditions" for feelings on contact;

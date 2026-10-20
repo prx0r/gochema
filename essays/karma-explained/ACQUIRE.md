@@ -1,12 +1,12 @@
 # ACQUIRE — karma film (fetch list, in priority order)
 
-## 1. Theodicy believer voice (stop 1 guard — PARTIAL 2026-10-20, still open)
-IN HAND: Bodhi Path child-cancer Middle Way (tendencies-not-labels, karma
-as one condition among many, focus on not-causing-more-harm) + Jayasena's
-birth-lottery candor + DharmaWheel Holocaust thread + MN 135 itself (K11).
+## 1. Theodicy believer voice (stop 1 guard — STRONG 2026-10-20, one want left)
+IN HAND: MN 135 (K11) + Sivaka not-everything (K20) + unconjecturable card
+(K22) + child-cancer Middle Way + Jayasena + DharmaWheel Holocaust thread.
 STILL WANT: one named teacher/text squarely facing "what did the child do?"
 without dodging. Candidates left: Tibetan lam-rim black/white karma +
-undeserved-suffering passages; Burley full paper (White Rose PDF).
+undeserved-suffering passages; Burley full paper beyond abstract (White
+Rose PDF).
 
 ## 2. Habit-science bridge (stop 3 — DONE 2026-10-20, K18 banked)
 Wood dual-process chapter banked (`quotes-karma-habit-wood.txt`).

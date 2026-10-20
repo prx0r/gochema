@@ -163,6 +163,32 @@ charges = three guard beats) + the domino thesis in academic dress + the
 non-retributive escape hatch. Full paper: fetch before scripting beyond
 the abstract.
 
+## THE THREE NEW ANSWERS (2026-10-20 — owner's determinism chain)
+
+**[K20] SN 36:21 not-everything-is-kamma (Thanissaro)** — feelings arise
+"based on bile… phlegm… internal winds… a combination of bodily humors…
+from the change of the seasons… from uneven care of the body… from harsh
+treatment… from the result of kamma" — and anyone who says it is ALL past
+action "slip[s] past what they themselves know… Therefore I say that those
+contemplatives & brahmans are wrong."
+— `quotes/karma-sivaka-noteverything.txt` (+ Thanissaro intro: kamma
+"finds expression within" other causes; the teaching "avoids
+determinism") — STOP 0/1: the canon refuses total-karma. Anti-fatalist lock.
+
+**[K21] AN 6:63 intention-is-kamma (Thanissaro)** — "Intention, I tell you,
+is kamma. Intending, one does kamma by way of body, speech, & intellect."
++ three ripening clocks ("right here & now… later in this lifetime… and
+following that") + "the cessation of kamma" via the path.
+— `quotes/karma-intention-iskamma.txt` — STOP 4 rung 0: the ladder is made
+of cetanā, not acts. Three clocks = the scaling mechanism, canonical.
+
+**[K22] AN 4:77 unconjecturable (Thanissaro)** — "The [precise working out
+of the] results of kamma" is not to be conjectured about — "would bring
+madness & vexation to anyone who conjectured about it."
+— `quotes/karma-unconjecturable.txt` — GUARD: exact karmic accounting is
+forbidden BY THE TRADITION. The film never does victim-math; neither may
+its critics demand it. Read this card right after any "deserve" sentence.
+
 ## EXTRACTION PROVENANCE (audit)
 K1–K10 pulled 2026-10-20 from banked files (ToR full text, hayes.txt,
 arnold.txt). K8/K9 inherit rebirth VERIFY #2/#4 — flagged, not laundered.
