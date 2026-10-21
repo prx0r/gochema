@@ -4,7 +4,7 @@
 > cosmologies this is gonna be kinda like extension of the rebirth vid format
 > analysing different ones and analysing the shared worldviews how to
 > understand them (are tehy all mental etc)"
-> Status: SEED v2 — 13 sections, intro assumption-clearing + mode/destination
+> Status: SEED v3 — 12 sections, intro assumption-clearing + mode/destination
 > + nirvana questions folded in (owner's reasoning, 2026-10-21). Owner words
 > above locked. Compiler law binding.
 
@@ -29,6 +29,17 @@ buddhist-cosmologies film is both a standalone magnum AND the template
 for the wing (STRUCTURE/WEAVE/ACQUIRE trio per tradition). Queue rows
 come after the current rebirth roster completes.
 
+## Trilogy slot (owner, 2026-10-21) — "vid 1 = rebirth, vid 2 = cosmology,
+vid 3 = nirvana (not necessarily final order, just how it's happening)"
+- This film (cosmology) = VID 2. Stays FOCUSED on cosmology: the nirvana
+  chapter (equanimity-trap / off-map / akālika time-framing) was CUT from
+  this structure → belongs to VID 3 entirely; material parked in
+  `rebirth-explained/resources/11-v3-nirvana.md` (the vid-3 seed).
+- The Analayo "Denial of Rebirth" debate → REBIRTH video's intro (owner:
+  "the central debate"), see `rebirth-explained/FAQ.md` A-DEBATE entry.
+- No cross-film callbacks: the mode-reading (CH.7) and the fractal bridge
+  stand alone here; the rebirth-mechanics deep-dive stays in vid 1.
+
 ## Thesis
 Buddhism is not one cosmology — it's at least five (sutta-minimalist,
 Abhidhamma-31, six-realm wheel, Pure Land, Tibetan bardo-map, plus the
@@ -43,8 +54,8 @@ no callbacks to any other film.
 
 ## Format
 Standalone magnum — own cold-open (no shared series frame), stops per map,
-guard, close. Runtime target: MAGNUM — 45–60 min clock (13 sections ≈
-3.5–4.5 min each), chapter count set at STRUCTURE expansion.
+guard, close. Runtime target: MAGNUM — 45–60 min clock (12 sections ≈
+4–5 min each), chapter count set at STRUCTURE expansion.
 Storyboard/shot tables: after essay pass.
 
 ## Sections (seed v2)
@@ -82,7 +93,7 @@ It never claimed the job. [SCHOLARSHIP — Berzin, fetched] "neither was
 formulated for the sake of navigation" + [SCHOLARSHIP — Imphong 2023,
 ERIC free, fetched excerpt] the two magisteria argument: science studies
 physical matter; "Buddhism concentrates on the mind" — non-overlapping.
-Science maps matter with sensors; this maps experience with — (CH.11
+Science maps matter with sensors; this maps experience with — (CH.10
 plants the answer: a finer sensor). The map's genre = instrument-manual,
 not pre-Copernican astronomy.
 
@@ -101,7 +112,7 @@ parents (CH.4), mind is the mold (CH.5).
 
 **Beat E — the foundations preview.** End the intro on the hook: "five
 assumptions every one of these maps already makes — nobody argues them,
-because they're the floor" → pointer to CH.12 (the quiet part). [DIR:
+because they're the floor" → pointer to CH.11 (the quiet part). [DIR:
 list appears as on-screen cards, un-dealt; paid off at the close.]
 
 ### CH.3 — THE SUTTA MINIMALISM (the small map)
@@ -252,64 +263,7 @@ psychology" — then AN 10.216's birth-language loses its meaning) and
 naive literalism ("solid heavens" — then the Buddha's own minimalism and
 Toh174's nonrealms are ignored).]
 
-### CH.10 — WHAT IS NIRVĀṆA THEN? (the exit from the map)
-> Owner questions (verbatim, locked): "if its a map of mental states in
-> this lifetime what is nirvana? not being reborn at all = equanimity the
-> escape from time and exsiting as a temporal entity? but nanavira thought
-> it was between lives right and he was smart cookie .."
-
-**Beat A — the trap in the question.** If everything on the map is a
-state, is nirvāṇa just the equanimity state? No — and the map itself
-proves it: equanimity (upekkhā) is ON the dial (a brahmavihāra, a
-practicable state), and even the top of the TOWER — the four formless
-attainments — are still births that end (the arūpa heavens have
-lifespans, then death; they're addresses, not exit). Nothing on any
-Buddhist map IS nibbāna. The mode-reading makes this sharper: if realms
-are modes, then "a better mode" is still samsāra — the escape can't be a
-mode by definition.
-
-**Beat B — what it actually is: off-map.** The word: a fire going out for
-lack of fuel. [in-house: rebirth-explained/resources/11-v3-nirvana.md —
-sources banked there, reused as sources not callbacks]: SN 12.64 sunbeam
-("if there is no western wall… it does not land, lord") · MN 72 fire move
-(dependent burning → gone out → absurd to ask the direction) · the two
-negatives: Ud 8:3 unborn-unbecome-unmade-unfabricated · MN 49
-consciousness-without-surface "not been experienced through the earthness
-of earth" · SN 56:11 "this is the last birth" · DN 1 "the world would see
-him no more." [in-house, verbatim banked]: Ñāṇananda — "the obvious
-meaning of the term 'nibbāna' is extinction, i.e. going out of a fire."
-
-**Beat C — the owner's time-framing, taken seriously.** "Escape from
-time / existing as a temporal entity" — this is close to the canonical
-marks: the deathless is **akālika** (timeless) against the santāna
-(stream) that every mode belongs to. [ACQUIRE: bank the formula
-`sandhiṭṭhiko akāliko ehipassiko…` via FoJin + the kṣaṇa/santāna/akālika
-triad already on-screen in rebirth ESSAY (as TERM cards — banked fresh
-here, no film reference)]. The map's own top floor is IN time (formless
-still ages) — so the exit isn't climbable, it's ex-tinguishable. Direction
-questions don't apply to a gone fire.
-
-**Beat D — Ñāṇavīra: "between lives"? (owner claim → verify, don't
-assert).** The owner's memory that Ñāṇavīra placed rebirth "between
-lives" needs a source before the film says it. [ACQUIRE: (i) verify from
-Ñāṇavīra's Letters/CtP — NOT in this repo's fs extracts (fs-TIME-PASSAGES
-covers time-structure only); (ii) Analayo's in-house book
-`library/buddhist-debate/analayo-rebirth.txt` has both relevant chapters —
-"The Denial of Rebirth" (the Buddhadasa psychologization debate: IS the
-mode-reading a denial of rebirth?) and "The Destiny of an Awakened One
-after Death" — extract both; they ARE this chapter's scholarly spine.]
-Structural point regardless: the schools disagree on whether the event is
-between-lives, at-death, moment-to-moment, or all three (CH.7's fractal
-resolves the "or"): the disagreement itself is content, not a gap.
-
-**Beat E — guard.** Not annihilation (Yamaka's starting view gets
-dismantled — in-house v3 FAQ) · not a heaven (no address) · not a state
-you attain ON the dial (attainments end). The honest remainder: from
-inside time, the map cannot draw what's out of time — every depiction of
-nibbāna in art uses ABSENCE (flame out, empty circle, footprint that
-stopped). [DIR: the wheel drawn to its edge → nothing. Blank held.]
-
-### CH.11 — THE INSTRUMENT: NOT A MAP OF THE SOLAR SYSTEM (the unsaid)
+### CH.10 — THE INSTRUMENT: NOT A MAP OF THE SOLAR SYSTEM (the unsaid)
 > Owner thesis (2026-10-21): "are these literally maps of the cosmos
 > basically where awareness is the ground truth and instead of navigating
 > external planes you are going internal and the body is the doorway to the
@@ -413,7 +367,7 @@ proves-Buddhism cheap shots are refuted by the parting: the canon claims
 cessation, Wheeler claims participation, and that difference is the
 film's last cut — not waved away.]
 
-### CH.12 — THE QUIET PART: THE FOUNDATIONS NOBODY ARGUES (the agreement table, paid off)
+### CH.11 — THE QUIET PART: THE FOUNDATIONS NOBODY ARGUES (the agreement table, paid off)
 > Owner (2026-10-21): "i think the really interesting part is the queit
 > part that all these cosmologies assume" — the CH.2 cards dealt face-
 > down get turned here.
@@ -426,7 +380,7 @@ listed for the wing later, no cross-film reference now):
    — the hardest floor: neither soul nor annihilation.
 3. **The human realm is the hub.** Every map agrees: practice happens
    from here; the other rooms are weather.
-4. **The map is made from inside.** Instrument, not survey [CH.11] —
+4. **The map is made from inside.** Instrument, not survey [CH.10] —
    there is no observation platform outside the system the map describes.
 5. **Time is structured, not a line.** Cycles: deterioration and recovery
    [CH.6, DN 26], eons, seasons of doctrine — against the Western
@@ -438,27 +392,29 @@ listed for the wing later, no cross-film reference now):
    that's the real answer to "which cosmology is right" — they were never
    arguing the floor.
 
-### CH.13 — GUARD + CLOSE
+### CH.12 — GUARD + CLOSE
 Guard: one more time — the map is not the claim; the chain is. This film's
 own close-line: "the realm you're in is the one your actions are building."
-Close: the quiet part (CH.12) holds — five floors, one engine, nobody in
+Close: the quiet part (CH.11) holds — five floors, one engine, nobody in
 charge — so the question was never "which cosmology is right" but "what
 kind of thing are you assuming a realm is before you ask." [DIR: table →
 wheel → blank white.]
 
 ## What's banked (this session, FoJin-verified — see WEAVE.md + SCHOLARSHIP.md)
 B1–B12 primary passages with URNs/text_ids + Pali/English verbatim from
-read_passage; CH.11's legs: DN 4 formula (tid 233) + Toh 10 divine eye
+read_passage; CH.10's legs: DN 4 formula (tid 233) + Toh 10 divine eye
 (tid 5164) + Berzin Kālacakra measures / clear-light (fetched) + Wheeler
-it-from-bit (fetched from paper PDF). CH.2/CH.7/CH.9/CH.10 scholarship
+it-from-bit (fetched from paper PDF). CH.2/CH.7/CH.9 scholarship
 quotes (Lion's Roar, Tricycle/Ray, BPS, Gethin, Huang Po, Imphong) —
 marked fetched-excerpt in SCHOLARSHIP.md. NOTHING quoted from memory.
 
 ## What's NOT here yet
-- Owner: verdict phrasing for CH.9/CH.10 (owner register — agent drafts
-  marked DRAFT only) + the CH.12 quiet-part final line
+- Owner: verdict phrasing for CH.9 (owner register — agent drafts
+  marked DRAFT only) + the CH.11 quiet-part final line
 - ACQUIRE runs: Vism 31-plane extract · Pure Land vow lines · Dyczkowski
-  deity-body line · Analayo "Denial of Rebirth" + "Destiny of an Awakened
-  One" extracts · akālika formula via FoJin · Huang Po exact line + T2012
-  cite · Ñāṇavīra between-lives claim verify · witness clips (see ACQUIRE)
+  deity-body line · Huang Po exact line + T2012 cite · Ñāṇavīra between-
+  lives claim verify · witness clips (see ACQUIRE)
+- ANALAYO (in-house): "Denial of Rebirth" + "Destiny of an Awakened One"
+  extracts serve the REBIRTH intro debate + this film's CH.7 only — not a
+  nirvana chapter (nirvana = vid 3)
 - Storyboard + MOVIE (after essay pass)

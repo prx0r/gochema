@@ -25,6 +25,58 @@
    reborn? (The charge; the Buddha's answer = not-a-valid-question — but
    SAY the charge first.)
 
+## A-DEBATE — THE CENTRAL DEBATE, INTO THE INTRODUCTION (owner direction, 2026-10-21)
+> Owner: "The Denial of Rebirth… needs to be talked about in the rebirth
+> video right in the introduction the central debate." Structure/bank only —
+> no narration written; owner frames it (suggest: after the hook lands,
+> before or inside the PROBE — seam call at essay pass).
+
+**The debate (internal to Buddhism, not us-vs-them):** is psychologizing
+rebirth — the mode-reading, "realms are states" — a DENIAL of rebirth? Or
+is the destination-reading over-literalized? Both camps are Buddhist, both
+have real citations. The film's own ending already embodies the tension
+(TRILOGY: the cliffhanger = Ñāṇavīra/Ñāṇananda "rebirth is constantly
+happening") — so the intro POSES it and the cliff PAYS it. Symmetry: the
+question is the film.
+
+**Camp A — destination (rebirth is a real event):**
+- Analayo's whole book is the modern defense: *Rebirth in Early Buddhism
+  and Current Research* — IN HOUSE `library/buddhist-debate/
+  analayo-rebirth.txt`. EXTRACT AT ACQUIRE: ch. "The Denial of Rebirth"
+  (line 120/1538 — his critique of the psychologizing reading: Buddhadasa
+  et al.) + part II intro "Debates on Rebirth" (line 147+ — incl. "The
+  Undeclared Questions / Poisoned Arrow" and "The Destiny of an Awakened
+  One after Death").
+- Early-canon language layer: MN 38, SN 44.9, DN 15 (already in FAQ
+  "This the Buddha or the commentaries?").
+
+**Camp B — mode (rebirth is happening here, now):**
+- Buddhadasa: realms-as-psychological — [ACQUIRE: verify from his own
+  text, "Buddhadhamma for Students" Q47 (pointer from forum fetch 2026-
+  10-21, NOT yet read)] + his "denial" reputation is exactly what Camp A
+  criticizes — that's the debate's shape.
+- The film's cliff material (Ñāṇavīra/Ñāṇananda vortex, kṣaṇa/santāna) —
+  already locked in TRILOGY + resource 05.
+- Modern renderings (witness-tier, fetched): Trungpa "recurring
+  environments" · Lion's Roar "modes of experiencing" (same excerpt banked
+  in buddhist-cosmologies SCHOLARSHIP S9 — quote here too, quote-brief).
+
+**The charge each camp makes (state in their words):**
+- Camp A to B: "momentary rebirth + this-life-only karma = you've deleted
+  the doctrine" (Analayo's denial frame).
+- Camp B to A: "then who/what travels, and where's your evidence that
+  the map is geography?" (the no-self + instrument counter).
+
+**The film's observer stance (fairness law):** name the tension, don't
+resolve it in the intro — the resolution IS the cliffhanger (constant
+rebirth held as tension, cut to black). Guard source for "don't speculate
+beyond": Analayo's "Undeclared Questions / Poisoned Arrow" extract.
+
+**ACQUIRE list for this entry:** (1) Analayo chs. extract (in-house) ·
+(2) Buddhadasa Q47 exact words (book not in repo?) · (3) confirm the
+Triilogy ending's Ñāṇavīra/Ñāṇananda quotes already banked in
+resources/05-early-buddhism.md.
+
 ## FAQ list (one line answers, sources in QUOTES.md)
 - If no self, who is reborn? → process, not person (SN 23:2 satta).
 - Doesn't this contradict not-self? → the Buddha refused both horns (SN 44:10).

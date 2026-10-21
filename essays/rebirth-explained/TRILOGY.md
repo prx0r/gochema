@@ -35,3 +35,18 @@
   narrative film (deities, three bardos, hearing-liturgy frame). Separate
   video; the v1 Tibetan stop is its teaser. Source: library/tibetan reference
   + Gyurme Dorje tr. to acquire.
+
+
+## Ordering update (owner, 2026-10-21) — supersedes positions, not content
+> "think of it like this vid 1 = rebirth vid 2 = cosmology vid 3 = nirvana
+> this isnt necessarily the final order its just how its happening"
+
+| Slot | Film | State |
+|---|---|---|
+| 1 | **Buddhist Reincarnation, Actually Explained** | WRITING (v1.2) — now carries the CENTRAL DEBATE in its intro (FAQ A-DEBATE, Analayo "Denial of Rebirth") |
+| 2 | **Buddhist Cosmologies** (magnum) | SEED v3 (12 sections) — `essays/buddhist-cosmologies/` — focused on cosmology ONLY; nirvana chapter cut out of it |
+| 3 | **Nirvana Actually Explained** | SEED (`resources/11-v3-nirvana.md`) — gains the cut material: equanimity-trap, off-map, akālika time-framing, the absence-visuals close |
+| (slot TBD) | Stream Entry | was vid-2 under the 10-19 ruling — position now open (owner: "not necessarily the final order") |
+
+Standing rules unchanged. The arc shape: what keeps going (1) → what the
+universe it happens in looks like (2) → how it stops (3).

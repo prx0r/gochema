@@ -10,6 +10,11 @@
 > Voice mix (v1.1 peer-review count, per HANDOVER): ~2,574 words total —
 > owner verbatim 623 · teachers/sutta READ 1,508 · agent bridges 443
 > (83% source-voiced). Recount after owner's voice-review cuts.
+> **V1.3 TODO (owner direction, 2026-10-21):** the INTRODUCTION carries
+> the central debate — Analayo's "Denial of Rebirth" (is the mode-reading
+> a denial of rebirth?) framed as THE question, before the tour. Structure
+> + source bank: `FAQ.md` A-DEBATE entry. Owner frames at essay pass —
+> no agent narration inserted (compiler law).
 
 ---
 

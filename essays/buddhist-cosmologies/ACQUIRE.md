@@ -61,14 +61,16 @@ explaining this" — explainer/witness material for CH.2 + CH.7, NOT sources)
 
 ## New ACQUIRE items (STRUCTURE v2 additions)
 1. **Analayo, *Rebirth in Early Buddhism and Current Research* — IN HOUSE**
-   (`library/buddhist-debate/analayo-rebirth.txt`): extract the two chapters
-   that ARE CH.10's spine — "The Denial of Rebirth" (line 120/1538: the
-   Buddhadasa psychologization debate = is the mode-reading a DENIAL of
-   rebirth?) + "The Destiny of an Awakened One after Death" (line 149/2003).
-   Also his "The Undeclared Questions / Poisoned Arrow" section → CH.13 guard.
-2. **akālika formula via FoJin** — the deathless-is-timeless line
-   (`sandhiṭṭhiko akāliko ehipassiko…`) for CH.10 beat C, + confirm the
-   kṣaṇa/santāna/akālika triad card-term bank.
+   (`library/buddhist-debate/analayo-rebirth.txt`) — RETARGETED (owner
+   2026-10-21): "The Denial of Rebirth" (line 120/1538) + "The Destiny of
+   an Awakened One after Death" (line 149/2003) serve the **REBIRTH video's
+   intro central debate** (`rebirth-explained/FAQ.md` A-DEBATE) — NOT a
+   cosmology-nirvana chapter. For THIS film they only feed CH.7's two-
+   readings beat (mode-reading vs denial-of-rebirth context, one line).
+   His "Undeclared Questions / Poisoned Arrow" section → rebirth FAQ.
+2. **(moved to vid 3)** akālika formula / Ud 8:3 / MN 49 / SN 56:11 pulls
+   → `rebirth-explained/resources/11-v3-nirvana.md` (nirvana = vid 3,
+   owner 2026-10-21). No nirvana chapter in this film.
 3. **Huang Po extract** — full PDF (archive.org/zhenhost, both free) →
    verify the S13 line + get Taishō T2012 cite + one more CH.9 beat line.
 4. **Ñāṇavīra "between lives" claim** — VERIFY before the film says it:
@@ -76,8 +78,8 @@ explaining this" — explainer/witness material for CH.2 + CH.7, NOT sources)
    (not in this repo) or drop the claim. Owner memory flagged, not banked.
 5. **Ud 8:3 / MN 49 / SN 56:11 / DN 1 lines** — already sourced in
    `rebirth-explained/resources/11-v3-nirvana.md` (Thanissaro, in
-   truth-of-rebirth-full.txt lines 1975–2015) — pull verbatim into WEAVE
-   for CH.10 beat B (sources reused, no film reference).
+   truth-of-rebirth-full.txt lines 1975–2015) — VID 3 material now, not
+   pulled into this film's WEAVE (owner: nirvana = separate video).
 6. **Punnadhammo, *The Buddhist Cosmos*** — free PDF download (from the
    Sona video page) → CH.4 companion + maybe CH.6 wheel narration.
 
