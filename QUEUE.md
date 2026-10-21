@@ -24,4 +24,5 @@
 | 26 | Fire Simile | `fire-simile` | BUILD (v1 reading + v2 analysis) | Voice synth decision (Louis vs old-man take on R2) |
 | 27 | Dependent Origination | `dependent-origination` | SCAFFOLD (source + structure) | Essay draft (v2 stream-entry spine) |
 | 28 | Fundamental Structure (Ñāṇavīra) | `fundamental-structure` | SCAFFOLD (extracts + structure) | Time-doctrine video spec (feeds rebirth ch.9) |
+| 29 | Buddhist Cosmologies (MAGNUM — rebirth-format extension) | `buddhist-cosmologies` | SCAFFOLD (STRUCTURE + WEAVE B1–B9 FoJin-verified + ACQUIRE) | Owner: cold-open + CH.7 verdict words, title pick; ACQUIRE: Vism 31-plane extract, Pure Land vow lines, asura question (in-house PDFs + FoJin) |
 
