@@ -136,3 +136,102 @@ Episode 0). Rule: **shared layer dominates, per-film skin is decoration.**
 - Disk: system at 97% — big pulls to a volume; gochema ~460MB (Fa-Tsang
   gitignored 235MB on disk).
 - Repo: origin/master shared with a parallel session (rebase before push).
+
+---
+
+# ADDENDUM — session (2026-10-21): the BUDDHIST COSMOLOGIES magnum (vid 2 of the trilogy)
+
+> Session spanned two repos: this (gochema content) + quill/manuscriptAI
+> (canvas session — see pointer at the end). 13 commits below were local;
+> push with rebase (rule above still holds).
+
+## WHAT LANDED — `essays/buddhist-cosmologies/` (SCAFFOLD, structurally complete)
+- **STRUCTURE.md v3 — 12 sections**, every owner question locked VERBATIM
+  as a beat: CH.1 frame (cold-open LOCKED: "the buddhist realms are states
+  of awareness not physical maps of the solar system") · CH.2 what-everyone-
+  gets-wrong (samsara=how-not-where defined, not-outdated/not-competing,
+  foundations preview) · CH.3 THE BUDDHA'S OWN MAP (what he taught/assumed/
+  refused + definitive-reading lineage table) · CH.4 31 planes · CH.5 god-
+  made-by-mind · CH.6 wheel+time-machine · CH.7 mode-vs-destination fractal
+  (ghost-now? devas?) · CH.8 Pure-Land-as-promise · CH.9 four readings
+  (+zen fourth) · **CH.9b THE COMMITMENT PROBLEM** (cascade + underdeter-
+  mination + Dalai Lama solution + Ñāṇavīra/HH resolution + death coda) ·
+  CH.10 THE INSTRUMENT (owner's unsaid thesis: body-doorway/Wheeler/sensor) ·
+  CH.11 quiet part (5 foundations, CH.2 cards paid off) · CH.12 guard+close.
+- **NIRVANA CUT from this film** (owner: vid 3 is separate) — equanimity-
+  trap/off-map/akālika beats parked for `rebirth-explained/resources/11-v3-nirvana.md`.
+- **WEAVE.md: B1–B13** (FoJin `read_passage` Pali/EN this session — tids:
+  AN10.216=3713, DN1=230, DN26=255, MN99=362, Dhp1-2=3779, SN35.107=1408,
+  Toh174=84k/174.1, Dhp167, DN4=233, MN63=326, Toh10=5164, Vism XII fan-
+  opening in-house) + **N1–N9** (in-house: N1-N4Ñāṇavīra *Clearing the Path*
+  — structural-not-temporal/seen-here-trusted-there/not-a-hypothesis/death
+  letters; N5-N6Ñāṇananda fire-simile SOURCE seed-field+whirlpool; N7-N9
+  LIVING HH Ñāṇamoli — 18hh "There is no travel…" + With-birth-death-applies
+  akālika line).
+- **SCHOLARSHIP.md S1–S22** — fetched-excerpt provenance marked; headline
+  blocks: THE DIRECT ANSWER (Thai-31 vs Tibetan = same backbone, counts
+  31/32/33, Kālacakra round-vs-square Meru), THE FRONTIER ARGUMENTS (Bodhi
+  vs Buddhadasa · Dalai Lama two-step "abandon many aspects" + "did
+  Vasubandhu believe it?" · Madhyamaka samsāra=nirvāṇa · idealism-debate ·
+  Pure Land other-direction-vs-mind-only), S18 Analayo Conclusion (read
+  in-house), S19/S20 Analayo cosmology papers (free PDFs), S21 the dead-
+  translator split, S22 Kongtrul four-systems ("shows how the world
+  arises from mind" = the film's epigraph).
+- **TRADITIONS.md** — the per-tradition full-metaphysics dossier (10
+  entries: early suttas · Theravāda · Abhidharmakośa · Yogācāra ·
+  Madhyamaka · Tibetan-Abhidharma · Kālacakra · Dzogchen · Pure Land ·
+  Zen — universe / how-it-started / made-of / frontier, provenance-tagged;
+  feeds CH.3–CH.9).
+- **ACQUIRE.md** — the remaining bank gaps (see Queue below).
+
+## RULINGS THIS SESSION (binding)
+1. **Trilogy order (provisional): vid1 = rebirth · vid2 = cosmology ·
+   vid3 = nirvana.** Recorded in `rebirth-explained/TRILOGY.md` (ordering
+   table appended; Stream Entry's slot now OPEN — was vid2 under the
+   10-19 ruling).
+2. **Rebirth intro carries the CENTRAL DEBATE** (Analayo "Denial of
+   Rebirth": is the mode-reading a denial of rebirth?) → banked as
+   `rebirth-explained/FAQ.md` **A-DEBATE** + ESSAY.md header **V1.3 TODO**
+   (structure only — NO narration written; owner frames at essay pass).
+   Cosmology keeps mode-vs-destination as a COSMOLOGY question only.
+3. **Standalone rule:** cosmology film has NO callbacks to any other film
+   (STRIP performed in f4e1e12).
+4. Naming: series stays "cosmology wing" (map-word); metaphysics noted as
+   the register question for title-time (CH.9b note).
+
+## SESSION COMMITS (13 — pushed with rebase at session end)
+8192499 seed · f4e1e12 strip-callbacks+SCHOLARSHIP · 9b6f2be CH.8 instrument
+· 421c7d4 cold-open locked+deity-body+endgame · fdb93d3 STRUCTURE v2 ·
+9142194 TRILOGY REORDER+A-DEBATE+nirvana cut (v3) · cb3d1c3 CH.3 Buddha's
+own map+B13 · 7707766 frontier arguments · 801315c CH.9b commitment problem
+· 9bc854a cascade+N1-N4+S19/S20 · 136f9d2 dead-Nanamoli split+S21+N5/N6 ·
+3710177 TRADITIONS dossier+living-HH-Nanamoli correction N7-N9+Beat B3 ·
+9126cfd queue fix.
+
+## OTHER FINDINGS THIS SESSION
+- **Essay-quality survey (owner asked):** the 12 global-rebirth film cores
+  (01-10/12/13) are STUBS ~190-290w vs their own header target "expand to
+  ~2,000-2,400w"; only 11-saiva is full (1683w = the recipe). Already the
+  QUEUE's job ("Expand 12 tradition cores… film-11 recipe") — flagged as
+  the biggest open content gap in the repo.
+- Analayo's rebirth book Conclusion read in full (in-house txt, line 7407+)
+  — key lines already extracted into SCHOLARSHIP S18; his two A-DEBATE
+  chapters ("Denial of Rebirth" line 1538/1538+ / "Destiny of an Awakened
+  One" line 2003) are the rebirth-intro extracts still to pull.
+- Quill session (separate repo): shared-canvas sync feature built +
+  UNCOMMITTED, canvas MCP tools live, CF deploy blocked on stale token —
+  see `/root/manuscriptAI/HANDOVER.md` (uncommitted by owner instruction).
+
+## QUEUE FOR NEXT AGENT (cosmology, ordered)
+1. **ACQUIRE run** (all free/in-house): Analayo 2 PDFs (S19/S20) · Vism
+   31-plane + four-phase-cycle extracts (in-house) · Pure Land vow lines
+   (in-house) · Aggañña DN 27 (FoJin) · Laṅkāvatāra mind-only line (FoJin zh)
+   · Dyczkowski deity-body line (in-house) · CTP page-number pass (N1–N4) ·
+   witness-clip rights notes (ACQUIRE table).
+2. Owner verdict lines: CH.9 mental-verdict phrasing · CH.9b quiet-part
+   final line (CH.11) · title pick · cold-open already LOCKED (use it).
+3. Essay pass (compile STRUCTURE → ESSAY, compiler law), then STORYBOARD/MOVIE.
+4. Rebirth repo: pull Analayo A-DEBATE chapters → FAQ entry tightening;
+   owner frames the intro (V1.3 TODO in ESSAY header).
+5. Watch: image-scanned PDFs (nanananda/concept-and-reality, magic-of-the-
+   mind) need OCR before any extract (pdftotext returns nothing).
