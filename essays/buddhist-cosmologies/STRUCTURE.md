@@ -15,28 +15,31 @@ Universe" · "Are Buddhist Cosmologies Real?" · "The Three Readings"
 ## Thesis
 Buddhism is not one cosmology — it's at least five (sutta-minimalist,
 Abhidhamma-31, six-realm wheel, Pure Land, Tibetan bardo-map, plus the
-mind-only/emptiness counter-readings). The five-family table in the global
-rebirth film mapped traditions against each other; this film maps ONE
-tradition against ITSELF. And the owner's crux — "are they all mental?" —
-is not a modern imposition: the canon already holds three incompatible
-readings (realist-kammic, mind-made, deconstructed), each banked below with
-primary text. The verdict the sources force: they are REAL ENOUGH TO BE
-KAMMICALLY PRODUCED and CONVENTIONAL ENOUGH TO BE EMPTY — "shown" by
-realms the wise do not observe (Toh174).
+mind-only/emptiness counter-readings). Not one tradition against other
+traditions — ONE tradition against ITSELF. And the owner's crux — "are they
+all mental?" — is not a modern imposition: the canon already holds three
+incompatible readings (realist-kammic, mind-made, deconstructed), each
+banked below with primary text. The verdict the sources force: they are
+REAL ENOUGH TO BE KAMMICALLY PRODUCED and CONVENTIONAL ENOUGH TO BE EMPTY
+— "shown" by realms the wise do not observe (Toh174). Standalone video —
+no callbacks to any other film.
 
 ## Format
-buddhist-v1 recipe: FRAME cold-open (adapted from series FRAME) + stops.
-Runtime target: MAGNUM — 45–60 min clock, chapter count set at STRUCTURE
-expansion. Storyboard/shot tables: after essay pass.
+Standalone magnum — own cold-open (no shared series frame), stops per map,
+guard, close. Runtime target: MAGNUM — 45–60 min clock, chapter count set
+at STRUCTURE expansion. Storyboard/shot tables: after essay pass.
 
-## Sections (v1 seed)
+## Sections (seed)
 
 ### CH.1 — FRAME: FIVE UNIVERSES IN ONE RELIGION (0:00–1:30)
-Cold-open adapted: v1 walked other traditions' rooms; this one walks every
-FLOOR of buddhism's own building. The six realms are the most famous map —
-and the least agreed-on. [DIR: the classic bhavachakra dissolving into five
-competing map renderings — 31-plane tower, sutta-dot, pure-land horizon,
-bardo sequence, blank.]
+Cold-open (own, not the series frame): the six realms are Buddhism's most
+famous map — and its least agreed-on. Theravāda counts 31 planes, the
+Sanskrit traditions 32 or 33, Tibet draws three cosmologies at once
+(Abhidharma, Kālacakra, Dzogchen) with a 15th-century Tibetan commentary
+chapter devoted to resolving their contradictions. Same religion, same
+Buddha, different universes. [DIR: the classic bhavachakra dissolving into
+five competing map renderings — 31-plane tower, sutta-dot, pure-land
+horizon, bardo sequence, blank.]
 
 ### CH.2 — THE SUTTA MINIMALISM (the small map)
 What the early suttas actually pin down: world = the six internal/external
@@ -87,8 +90,8 @@ three-pure-land-sutras.pdf · Vism PDF].
 ### CH.6 — THE PURE LAND: COSMOLOGY AS PROMISE (the exit)
 The Pure Land is the odd member: a geographically specific cosmology
 (Amitābha's Sukhāvatī, 48 vows) that functions as ONE-STEP transport — the
-only school where the cosmology IS the soteriology. Connects to v1's five
-families: "re-created by promise" family gets a buddhist member. [ACQUIRE:
+only school where the cosmology IS the soteriology: the map doesn't
+describe where you are, it's a promise about where you're going. [ACQUIRE:
 exact lines from the in-house three-sutras PDF — Larger Sutra vow lines].
 
 ### CH.7 — ARE THEY MENTAL? (the crux — owner's question)
@@ -119,24 +122,23 @@ psychology" — then AN 10.216's birth-language loses its meaning) and
 naive literalism ("solid heavens" — then the Buddha's own minimalism and
 Toh174's nonrealms are ignored).]
 
-### CH.8 — THE SHARED WORLDVIEW (the table — v1's device, internal)
-Buddhism-vs-buddhism five-family analogue (structure seed — expand into
-table): (1) engine = kamma, never creator (all schools) · (2) address =
-dependent-arising, not substance (Madhyamaka makes this explicit, Abhidhamma
-implies it in tables) · (3) hub = the human realm (only plane that can
-practice; both maps agree) · (4) time = deteriorating cycles (DN 26 +
-kaliyuga-adjacent echoes) · (5) the exit disagreements: map-study vs
-poison-work vs vow-transport vs seeing-through. What they share even when
-they contradict: NOBODY IS IN CHARGE.
+### CH.8 — THE SHARED WORLDVIEW (the agreement table)
+Internal agreement table (structure seed — expand into table): (1) engine =
+kamma, never creator (all schools) · (2) address = dependent-arising, not
+substance (Madhyamaka makes this explicit, Abhidhamma implies it in tables)
+· (3) hub = the human realm (only plane that can practice; all maps agree)
+· (4) time = deteriorating cycles (DN 26 + kaliyuga-adjacent echoes) ·
+(5) the exit disagreements: map-study vs poison-work vs vow-transport vs
+seeing-through. What they share even when they contradict: NOBODY IS IN
+CHARGE.
 
-### CH.9 — GUARD + CLOSE (callback)
-Guard: one more time — the map is not the claim; the chain is. v1's cliff
-callback: "birth is happening now" → this film's: "the realm you're in is
-the one your actions are building." Close: the five-family table from the
-global film re-rendered with buddhism's internal rows — the traditions
-disagreed about what carries; buddhism disagrees about how MANY maps there
-are — and lands on the same answer: wrong starting point, again. [DIR:
-table → wheel → blank white (callback to canvas)].
+### CH.9 — GUARD + CLOSE
+Guard: one more time — the map is not the claim; the chain is. This film's
+own close-line: "the realm you're in is the one your actions are building."
+Close: the agreement table (CH.8) holds — five maps, one engine, nobody in
+charge — so the question was never "which cosmology is right" but "what
+kind of thing are you assuming a realm is before you ask." [DIR: table →
+wheel → blank white.]
 
 ## What's banked (this session, FoJin-verified — see WEAVE.md)
 B1–B7 primary passages with URNs/text_ids + Pali/English verbatim from
