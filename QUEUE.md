@@ -24,5 +24,11 @@
 | 26 | Fire Simile | `fire-simile` | BUILD (v1 reading + v2 analysis) | Voice synth decision (Louis vs old-man take on R2) |
 | 27 | Dependent Origination | `dependent-origination` | SCAFFOLD (source + structure) | Essay draft (v2 stream-entry spine) |
 | 28 | Fundamental Structure (Ñāṇavīra) | `fundamental-structure` | SCAFFOLD (extracts + structure) | Time-doctrine video spec (feeds rebirth ch.9) |
-| 29 | Buddhist Cosmologies (MAGNUM — rebirth-format extension) | `buddhist-cosmologies` | SCAFFOLD (STRUCTURE + WEAVE B1–B9 FoJin-verified + ACQUIRE) | Owner: cold-open + CH.7 verdict words, title pick; ACQUIRE: Vism 31-plane extract, Pure Land vow lines, asura question (in-house PDFs + FoJin) |
+| 29 | Buddhist Cosmologies (MAGNUM — rebirth-format extension) | `buddhist-cosmologies` | SCAFFOLD (STRUCTURE 10 sections + WEAVE B1-B12 FoJin-verified + SCHOLARSHIP S3-S5 + ACQUIRE) | Owner: cold-open LOCKED (states-of-awareness line), title pick; ACQUIRE: Vism 31-plane extract, Pure Land vows, Dyczkowski deity-body line; then essay pass |
+
+> **ENDGAME (owner, 2026-10-21):** the cosmology wing. Every tradition in
+> the global-rebirth roster gets a cosmology sequel after its rebirth film
+> (rebirth mechanics → what their universe is made of + what it's FOR,
+> mechanics included). buddhist-cosmologies is the template + the buddhist
+> entry. Wing queues after the current rebirth roster completes.
 

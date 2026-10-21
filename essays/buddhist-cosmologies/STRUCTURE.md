@@ -9,8 +9,24 @@
 
 ## Working title
 **Buddhist Cosmologies, Actually Explained** (family: "Actually…" series ·
-extension of `rebirth`) — candidates: "Every Buddhism Has a Different
-Universe" · "Are Buddhist Cosmologies Real?" · "The Three Readings"
+extension of "rebirth" in kind, not in callbacks) — candidates: "Every
+Buddhism Has a Different Universe" · "Are Buddhist Cosmologies Real?" ·
+"The Three Readings"
+
+## Owner's cold-open (verbatim, locked, 2026-10-21)
+"the buddhist realms are states of awareness not physical maps of the
+solar system"
+
+## Series position (owner endgame, 2026-10-21)
+This film is the BUDDHIST entry of the cosmology wing: every tradition
+already mapped for rebirth (the 13 global-rebirth films + specials) gets
+a cosmology sequel — "Change of Clothes" → Hindu cosmology · tribunal →
+Zoroastrian cosmology · audit → Egyptian … — each answering "what is
+their universe made of and what is it FOR," mechanics included. The
+endgame = complete mapping of ALL cosmologies with mechanics; this
+buddhist-cosmologies film is both a standalone magnum AND the template
+for the wing (STRUCTURE/WEAVE/ACQUIRE trio per tradition). Queue rows
+come after the current rebirth roster completes.
 
 ## Thesis
 Buddhism is not one cosmology — it's at least five (sutta-minimalist,
@@ -32,14 +48,15 @@ at STRUCTURE expansion. Storyboard/shot tables: after essay pass.
 ## Sections (seed)
 
 ### CH.1 — FRAME: FIVE UNIVERSES IN ONE RELIGION (0:00–1:30)
-Cold-open (own, not the series frame): the six realms are Buddhism's most
-famous map — and its least agreed-on. Theravāda counts 31 planes, the
-Sanskrit traditions 32 or 33, Tibet draws three cosmologies at once
-(Abhidharma, Kālacakra, Dzogchen) with a 15th-century Tibetan commentary
-chapter devoted to resolving their contradictions. Same religion, same
-Buddha, different universes. [DIR: the classic bhavachakra dissolving into
-five competing map renderings — 31-plane tower, sutta-dot, pure-land
-horizon, bardo sequence, blank.]
+Cold-open = owner's locked line, first frame: "the buddhist realms are
+states of awareness not physical maps of the solar system." Then the
+hook: the six realms are Buddhism's most famous map — and its least
+agreed-on. Theravāda counts 31 planes, the Sanskrit traditions 32 or 33,
+Tibet draws three cosmologies at once (Abhidharma, Kālacakra, Dzogchen)
+with a 15th-century Tibetan commentary chapter devoted to resolving their
+contradictions. Same religion, same Buddha, different universes. [DIR:
+the classic bhavachakra dissolving into five competing map renderings —
+31-plane tower, sutta-dot, pure-land horizon, bardo sequence, blank.]
 
 ### CH.2 — THE SUTTA MINIMALISM (the small map)
 What the early suttas actually pin down: world = the six internal/external
@@ -171,6 +188,27 @@ enter. "The body is the doorway" is not a modern gloss; Kālacakra says
 the universe and the body have literally the same measures and the same
 basis (Berzin: "the proportions and shape of the universe, human body,
 and the mandala … are all the same" — fetched).
+
+**Beat 2b — is Meru a physical place? No — it works like a deity body
+(owner's reading, 2026-10-21).** Two fetched/in-house anchors make this
+textual, not New-Age: (i) [SCHOLARSHIP — Samye, fetched]: "Mount Meru …
+a sacred mountain in Indian cosmology that does not correspond to any
+known geophysical location"; and the map-never-was-navigation line (S4).
+(ii) The TANTRA PARALLEL, where the owner's instinct is exact: in
+generation stage the deity body is not drawn, it is BUILT — deities are
+mind-made in the same precise sense as DN 1's `manomayo` [B3]; and the
+system says so about itself [in-house: tibetan-book-of-dead-reference.md,
+fetched this session from library/]: Guhyagarbha Tantra — "first work to
+portray the 42 peaceful and 58 wrathful deities as the purified forms of
+ordinary psycho-physical states." Deities = states, displayed as bodies;
+Meru = same measurements as the body, because cosmos/body/mandala are
+one object at three scales (S4). So the tantric answer to "where is
+Meru": the same place your generation-stage body is — produced by
+practice, real in the register the manual operates. [ACQUIRE: Dyczkowski
+`journey-in-the-world-of-the-tantras` (in-house PDF) for the one
+deity-body line in a tantric scholar's own words; note SERIES-GLOBAL's
+TĀ 10.292–307 material (consciousness relocalizing, not traveling) as
+the Śaiva cousin of this same argument — cross-wing only, no callback].
 
 **Beat 3 — the science mirror: every sensor bottoms out at information.**
 [SCIENCE, banked — Wheeler, "Information, physics, quantum: the search
