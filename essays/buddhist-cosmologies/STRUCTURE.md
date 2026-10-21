@@ -115,16 +115,72 @@ assumptions every one of these maps already makes — nobody argues them,
 because they're the floor" → pointer to CH.11 (the quiet part). [DIR:
 list appears as on-screen cards, un-dealt; paid off at the close.]
 
-### CH.3 — THE SUTTA MINIMALISM (the small map)
-What the early suttas actually pin down: world = the six internal/external
-sense fields and their contact-chain. [READ — SN 35.107 Lokasamudaya,
-FoJin tid 1408, banked]: "Lokassa, bhikkhave, samudayañca atthaṅgamañca
-desessāmi… Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ" — "I will
-teach the origin and disappearance of the world: eye and forms and
-eye-consciousness arise… contact → feeling → craving → grasping → becoming
-→ birth → aging-and-death." The world's origin IS the origin of contact.
-No Sumeru, no cosmography required for liberation. The Buddha as world-
-minimalist: the map is optional, the chain is not.
+### CH.3 — THE BUDDHA'S OWN MAP: what he taught, what he assumed, what he refused
+> Owner questions (verbatim, locked): "surely there is some definitive
+> reading of cosmology for each tradition? what did the buddha think? what
+> assumptions was he under at the time?"
+
+**Beat A — what he taught: the minimal core.** World = the six internal/
+external sense fields and their contact-chain. [READ — SN 35.107
+Lokasamudaya, FoJin tid 1408, banked]: "Lokassa, bhikkhave, samudayañca
+atthaṅgamañca desessāmi… Cakkhuñca paṭicca rūpe ca uppajjati
+cakkhuviññāṇaṃ" — "I will teach the origin and disappearance of the world:
+eye and forms and eye-consciousness arise… contact → feeling → craving →
+grasping → becoming → birth → aging-and-death." The world's origin IS the
+origin of contact. No Sumeru required for liberation: the map is optional,
+the chain is not. [SCHOLARSHIP — Gethin, fetched]: the Nikāyas/Āgamas "do
+not provide a systematic account of the Buddhist understanding of the
+nature of the cosmos" — THERE IS NO BUDDHA'S-OWN SYSTEM; systematization
+comes centuries later (→ Beat D table).
+
+**Beat B — what he assumed (the era's furniture).** He worked INSIDE the
+pan-Indian world-model — Meru + four continents + the sun/moon circling
+it — which is Hindu, Jain AND Buddhist shared property [SCHOLARSHIP —
+Springer NTM, fetched]: "a pan-Indian cosmic model that is not limited to
+Buddhism but also common in Brahmanism, Jainism, and Hinduism" ·
+[Kotyk 2022, fetched]: "This cosmology is attributed to the Buddha
+himself. It was conceived of as physical and not figurative or
+mythological" — flat-earth reading, sun/moon around Sumeru, no other
+planets known to the early texts. His era's intellectual air = the62
+speculative views [same DN 1 already banked as B3/B4 — parts II–III: 18
+views of the past + 44 of the future: eternalist / annihilationist /
+skeptic camps] — he mapped his opponents' mapping. What he DIDN'T assume:
+a creator (B5's Brahmā is the victim, not the cause) — and he turned the
+caste-creation myth into a counter-myth [ACQUIRE: DN 27 Aggañña — the
+Buddha's OWN origin-story, told explicitly to break "born of the mouth of
+Brahma" (budsas, fetched) — social decline arc mirrors CH.6's DN 26].
+
+**Beat C — what he refused: the definitive stance is procedural.**
+[READ — MN 63 Cūḷamālukya, FoJin tid 326, banked Pali, B13]: the ten
+undeclared (cosmos eternal/finite, soul-body, Tathāgata-after-death…) ·
+the poisoned arrow ("I will not have this arrow removed until I know the
+man by whom I was shot") · and the refusal formula: "na nibbidāya na
+virāgāya na nirodhāya… na nibbānāya saṁvattati. Tasmā taṁ mayā
+abyākataṁ" — "it does not conduce to cessation… THAT is why I have not
+declared it. What HAVE I declared? This is suffering, its origin, its
+cessation, the path." → the Buddha's test for ANY cosmology is not "is
+the topology true" but "does it conduce to cessation." Every later
+system below is judged by its own master's rule.
+
+**Beat D — the definitive reading per tradition (the lineage answer).**
+The owner's question has a real answer: every tradition DOES have a
+definitive text — and it is ALWAYS a later systematization, never the
+Buddha's words (Beat A). The table:
+
+| Tradition | The definitive reading | Status |
+|---|---|---|
+| The Buddha / early suttas | no system — MN 63 refusal + the chain (Beat A/C) | procedural |
+| Theravāda | **Visuddhimagga** (Buddhaghosa, 5th c.) — the 31-plane manual | systematization |
+| Sanskrit Abhidharma | **Abhidharmakośa** (Vasubandhu) — "inherited the cosmology of early Buddhism," elaborates "while remaining faithful to it" (Kotyk, fetched) | systematization |
+| Tibet (default) | Abhidharmakośa + **Kālacakra** + Dzogchen — with Khedrup Norsang Gyatso's 15th-c. "Resolving Contradictions" chapter as the official reconciliation | triple + repair manual |
+| Tibetan practice | **Tibetan Book of the Dead** (Guhyagarbha) — the bardo operational | practice manual |
+| Pure Land | **Larger Sukhāvatīvyūha** — geography-as-promise (→ CH.8) | promise |
+| Zen | **Huang Po Ch'uan-hsin fa-yao** — One Mind, no map (→ CH.9) | denial-as-answer |
+| Modern live fight | Buddhadasa (realms = psychological) vs traditionalists — Analayo's "Denial of Rebirth" frames it (cross-ref rebirth's A-DEBATE, one line, no callback) | unresolved |
+
+So the film's own order IS the history: refusal (this chapter) →
+systematization (CH.4) → its competitors (CH.6–CH.9) → what kind of map
+it ever was (CH.10).
 
 ### CH.4 — THE 31 PLANES (the big map)
 Abhidhamma/Visuddhimagga expansion: kāma/rūpa/arūpa, 11+16+4 = 31, every
@@ -401,8 +457,8 @@ kind of thing are you assuming a realm is before you ask." [DIR: table →
 wheel → blank white.]
 
 ## What's banked (this session, FoJin-verified — see WEAVE.md + SCHOLARSHIP.md)
-B1–B12 primary passages with URNs/text_ids + Pali/English verbatim from
-read_passage; CH.10's legs: DN 4 formula (tid 233) + Toh 10 divine eye
+B1–B13 primary passages with URNs/text_ids + Pali/English verbatim from
+read_passage (B13 = MN 63, tid 326, Pali read this session); CH.10's legs: DN 4 formula (tid 233) + Toh 10 divine eye
 (tid 5164) + Berzin Kālacakra measures / clear-light (fetched) + Wheeler
 it-from-bit (fetched from paper PDF). CH.2/CH.7/CH.9 scholarship
 quotes (Lion's Roar, Tricycle/Ray, BPS, Gethin, Huang Po, Imphong) —

@@ -210,6 +210,38 @@ the magisteria argument in a Buddhist scholar's words: Buddhism's
 magisterium is "focused on human goals, meaning, and value," science's
 "the empirical world" — "they cannot be naturally compared."
 
+## THE SOURCE-LAYER LEG (CH.3 — what the Buddha assumed/refused, fetched 2026-10-21)
+
+**[S16] Kotyk, Jeffrey — "Abhidharmakośa as a Reflection of Earlier Āgama
+and Nikāya Buddhism" (UBC, 2022 — free PDF, fetched excerpts):**
+- "The world of Mt. Sumeru and the Four Continents is the foundational
+  worldview of the Buddhists in ancient India. Abhidharma inherited the
+  cosmology of early Buddhism."
+- "This cosmology is attributed to the Buddha himself. It was conceived of
+  as physical and not figurative or mythological."
+- "The physical world is brought about due to the collective karma of all
+  beings… it is not organized according to some plan or divine willpower.
+  There is no Creator in the Buddhist worldview."
+- "Vasubandhu elaborates upon an earlier ancient model of Buddhist
+  cosmology while remaining faithful to it."
+— ROLE: CH.3 beats B/D — the physically-real reading of the source layer
++ the "no creator, collective-kamma" engine + the inheritance chain
+(early → Abhidharma).
+
+**[S17] Pan-Indian furniture (fetched):**
+- Springer NTM (2020): "The Weltmodell centered on the cosmic mountain
+  called Sumeru… is a pan-Indian cosmic model that is not limited to
+  Buddhism but also common in Brahmanism, Jainism, and Hinduism."
+  + "The Buddha refuted this Brahmanic social-religious hierarchy,
+  regarding Brahmā just as one of the ignorant sentient beings…
+  and rejected Brahmanic cosmology absolutely."
+- Wikipedia/Meru (fetched): the five-peaked mountain is "of Hindu, Jain,
+  and Buddhist cosmology" — the furniture was SHARED; the engine-swap is
+  the Buddhist innovation.
+- MN 63 English cross-checks (fetched: Sujato via SuttaCentral +
+  Thanissaro via Gutenberg) — for the B13 translation choice at draft;
+  Pali is the bank.
+
 ## THE ESSAYS (the actual scholarship shelf)
 
 ### Tier 1 — directly the film's thesis (ACQUIRE full texts)

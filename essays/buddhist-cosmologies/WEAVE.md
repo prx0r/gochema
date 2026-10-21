@@ -169,6 +169,34 @@ session, lines 22750 / 22860 of pdftotext).
 — SLOT: CH.11 beat 1 visual — the map is OPENED FROM HERE (the fan
 opening = the cheapest, truest money-shot idea in the film).
 
+**[B13] MN 63 Cūḷamālukya — what he REFUSED (pi, tid 326, read this session)** —
+Three banked passages:
+(i) The undeclared list: "yānimāni diṭṭhigatāni bhagavatā abyākatāni
+ṭhapitāni paṭikkhittāni: 'sassato loko'tipi, 'asassato loko'tipi,
+'antavā loko'tipi, 'anantavā loko'tipi, 'taṁ jīvaṁ taṁ sarīran'tipi…
+'neva hoti na na hoti tathāgato paraṁ maraṇā'tipi" — "the positions
+left undeclared, set aside, rejected by the Blessed One: the cosmos is
+eternal / not eternal / finite / infinite / soul-and-body one or two /
+the Realized One after death exists… does not, both, neither."
+(ii) The poisoned arrow: "Seyyathāpi, mālukyaputta, puriso sallena viddho
+assa savisena gāḷhapalepanena… 'na tāvāhaṁ imaṁ sallaṁ āharissāmi yāva
+na taṁ purisaṁ jānāmi yenamhi viddho'" — "Suppose a man were struck by an
+arrow smeared thickly with poison… 'I will not have this arrow removed
+until I know the man by whom I was shot — a khattiya, a brāhmaṇa, a
+vess…" (the full birth/caste/shaft/bow list continues in-text).
+(iii) The refusal formula + what he DID declare: "Na hetaṁ, mālukyaputta,
+atthasaṁhitaṁ… na nibbidāya na virāgāya na nirodhāya na upasamāya na
+abhiññāya na sambodhāya na nibbānāya saṁvattati. Tasmā taṁ mayā
+abyākataṁ. Kiñca, mālukyaputta, mayā byākataṁ? 'Idaṁ dukkhan'ti…
+'ayaṁ dukkhanirodho'ti… 'ayaṁ dukkhanirodhagāminī paṭipadā'ti" — "It is
+not beneficial… it does not conduce to disenchantment, dispassion,
+cessation… or nibbāna. That is why I have not declared it. And what HAVE I
+declared? This is suffering / its origin / its cessation / the path."
+— SLOT: CH.3 beat C — THE definitive stance: procedure over topology.
+The verdict-question for every later cosmology in the film: not "is it
+true" but "does it conduce to cessation" (the Buddha's own test, stated
+in his own words). Pairs with DN 1 (same frame: 62 views catalogued).
+
 ---
 
 ## Pairs that make the film's argument (do not split)
