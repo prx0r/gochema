@@ -329,6 +329,83 @@ psychology" — then AN 10.216's birth-language loses its meaning) and
 naive literalism ("solid heavens" — then the Buddha's own minimalism and
 Toh174's nonrealms are ignored).]
 
+### CH.9b — THE COMMITMENT PROBLEM (the fundamental critique) + the Dalai Lama's offer
+> Owner questions (verbatim, locked): "so they did mean it as geography
+> back in the day?" · "no one know whetehr teh buddha meant rebirth
+> literally or psychologically? how are we supposed to commit to a
+> tradition if we are unsure of basics like this?" · "what does the dalai
+> lama offer as solution?" · naming note: "maybe cosmology is the wrong
+> word instead its metaphysics eh i guess we can merge them?"
+
+**Beat A — yes, geography, meant physically.** [SCHOLARSHIP S16 — Kotyk,
+fetched]: "This cosmology is attributed to the Buddha himself. It was
+conceived of as physical and not figurative or mythological" — flat earth,
+sun/moon circling Sumeru, no other planets known. And rebirth itself:
+the suttas say it happens "with the breakup of the body, after death"
+(Bodhi's line in the frontier bank) — the early record is not ambiguous.
+The corrective to "no one knows": **the past is actually fairly clear; the
+PRESENT is the problem.** [in-house, read this session — Analayo,
+*Rebirth in Early Buddhism and Current Research*, Conclusion]: "Rebirth
+is an integral component of the teachings of the historical Buddha in the
+way these have been preserved in the earliest textual materials at our
+disposal. The early Buddhist doctrine of rebirth does not involve a
+simple mind-body duality, nor does it posit an unchanging entity to be
+reborn. Instead, continuity during life and beyond is conceived of as a
+changing process…" — so the scholarly verdict on "what did he mean":
+literally a process, not psychologically a mood, not a soul either.
+
+**Beat B — the critique (the owner's charge, stated at full strength).**
+What IS unsettled: whether a tradition whose own authorities disagree —
+Bodhi (literal, "reduce the Dhamma to tatters") vs Buddhadasa ("I do not
+touch this kind of rebirth but I do not deny that it exists") vs the
+Dalai Lama ("Buddhism must abandon many aspects of the Abhidharma
+cosmology") — can demand commitment at the level of the map. There is no
+settlement mechanism: no central authority; every school's reading is
+just that — a reading of a text whose reading is contested. So "commit to
+a tradition" quietly becomes "commit to ONE SCHOOL'S INTERPRETATION of a
+map the tradition itself hasn't finished arguing about." And the
+uncertainty lands exactly on a basic: is the universe it describes
+OUT THERE (then science's veto bites) or IN HERE (then the rebirth claim
+changes register). Either way, the beginner is asked to trust before the
+map's own status is agreed. That is the fundamental critique — bank it in
+the opponent's-strongest form, fairness law (Bodhi speaks it: remove
+rebirth and the Dhamma is "tatters"; the reformers speak theirs).
+[And the honest sting — in-house, Analayo Conclusion, read this session]:
+"certainty about what happens or does not happen after death will become
+accessible to each of us only at an uncertain point in time in the future,
+namely when we die ourselves" + his pivot: "what remains of central
+importance is to learn to face mortality… rather than turning a blind eye
+to it."
+
+**Beat C — what the Dalai Lama offers as solution (banked two-step).**
+1. **Credibility first:** "to uphold a tenet that contradicts reason is to
+   undermine one's credibility; to contradict empirical evidence is a
+   still greater fallacy" → "Buddhism must abandon many aspects of the
+   Abhidharma cosmology." (Dalai Lama 2005:80, fetched via JHI Blog/Sheehy)
+2. **The system-as-instrument move:** he shifts the question to "whether
+   Vasubandhu actually believed in the Buddhist cosmology that he
+   presented" — i.e. treat the Kośa's geography as a teaching instrument,
+   not a thesis the master staked his name on. Plus the magisteria split:
+   science owns physics, Buddhism owns mind/soteriology (CH.2's Beat B).
+   → In film terms: **demote the map from thesis to tool — keep the
+   engine (kamma, mind, cessation), release the geography.**
+3. **What the solution COSTS (guard — the fight relocates, doesn't end):**
+   traditionalists hear exactly Bodhi's charge — the Dhamma reduced "to
+   tatters" — and no authority can overrule him either. The Dalai Lama's
+   offer solves credibility with the world and re-opens fidelity with the
+   tradition: that trade IS the frontier (banked in SCHOLARSHIP).
+
+**Beat D — the film's non-partisan hold (observer stance).** The critique
+bites the GEOGRAPHY, never the engine: Bodhi and Buddhadasa agree on the
+chain, kamma, mind-made, cessation — they fight over furniture. And the
+Buddha already said where the commitment belongs [B13, MN 63]: declared =
+suffering/origin/cessation/path; undeclared = the topology. The film's
+own two devices do the holding without picking a camp: CH.7's fractal
+(reads at both magnitudes) + CH.10's instrument-manual (real enough for
+kamma, never for navigation). Register note for title pick: the MAP-word
+is cosmology, the REAL-question is metaphysics — the film argues both;
+series name stays "cosmology wing," owner decides framing at title.
+
 ### CH.10 — THE INSTRUMENT: NOT A MAP OF THE SOLAR SYSTEM (the unsaid)
 > Owner thesis (2026-10-21): "are these literally maps of the cosmos
 > basically where awareness is the ground truth and instead of navigating

@@ -274,6 +274,11 @@ and Nikāya Buddhism" (UBC, 2022 — free PDF, fetched excerpts):**
   for cosmology within Buddhist thought for one to question the literal
   truth of any particular version. **My own view is that Buddhism must
   abandon many aspects of the Abhidharma cosmology.**"
+- **The credibility dictum (fetched, same JHI/Sheehy excerpt, 2005:80):**
+  "There is a dictum in Buddhist philosophy that to uphold a tenet that
+  contradicts reason is to undermine one's credibility; to contradict
+  empirical evidence is a still greater fallacy." — the SOLUTION sentence
+  that precedes "abandon many aspects" (CH.9b Beat C).
 - **Step two (fetched, Sheehy 2020 fn.):** elsewhere he "does not concede
   that the Buddha was wrong about cosmology but rather shifts to question
   **whether Vasubandhu actually believed in the Buddhist cosmology that
@@ -336,6 +341,27 @@ and Nikāya Buddhism" (UBC, 2022 — free PDF, fetched excerpts):**
 - Practice-side frontier: self-power vs other-power (Hōnen/Shinran;
   "faith alone"; nembutsu as gratitude not transaction) (fetched, Britannica
   + Buddhistdoor review).
+
+## THE COMMITMENT-PROBLEM SOURCES (CH.9b — in-house + fetched 2026-10-21)
+
+**[S18] Analayo, *Rebirth in Early Buddhism and Current Research* — IN
+HOUSE (`library/buddhist-debate/analayo-rebirth.txt`), Conclusion read
+verbatim this session:**
+- The historical verdict: "Rebirth is an integral component of the
+  teachings of the historical Buddha in the way these have been preserved
+  in the earliest textual materials at our disposal. The early Buddhist
+  doctrine of rebirth does not involve a simple mind-body duality, nor
+  does it posit an unchanging entity to be reborn. Instead, continuity
+  during life and beyond is conceived of as a changing process of a
+  plurality of interrelated mental and physical phenomena…"
+- The sting: "certainty about what happens or does not happen after death
+  will become accessible to each of us only at an uncertain point in time
+  in the future, namely when we die ourselves… what remains of central
+  importance is to learn to face mortality, one's own and that of others,
+  rather than turning a blind eye to it."
+- On denial: his ch. "The Denial of Rebirth" treats materialist denial as
+  the ANNIHILATIONIST wrong view from the canon's own list (Brahmajāla/
+  Sāmaññaphala) — i.e. denial is an old opponent, not a modern discovery.
 
 ## THE ESSAYS (the actual scholarship shelf)
 
