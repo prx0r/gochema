@@ -433,6 +433,26 @@ trusted there. (3) The formula: "unless craving has ceased, rebirth does
 take place" — no how, just THAT. And he kills the modern meta-error in
 advance: "the Buddha was an agnostic on rebirth… a very slight
 acquaintance with the Suttas will correct this idea."
+**Who expands this view — and who didn't (owner Q: "does nyanamoli
+explain and expand this view?"):** careful with the three names.
+Ñāṇamoli (the translator, 1905–60) did NOT — his life's work rendered
+the OTHER side: the Vism's three-life model + the Paṭisambhidāmagga's
+rebirth-linking mechanics (fetched: Gatikathā, "at the moment of
+rebirth-linking…"), i.e. the temporal reading [N1] attacks; and the
+correspondence ENDED (fetched, nanavira.org letters index, L.99): Ñāṇavīra
+stopped writing him — "no longer anything for me to discuss… the former
+relationship of parity between us regarding the Dhamma had suddenly come
+to an end" (L.105: his DA view was criticized by a three-life partisan).
+BUT his own preface leaves the film's line [S21]: "Old cosmologies give
+place to new; but the questions of consciousness, of pain and death, of
+responsibility… remain… its independence of any particular cosmology."
+The actual EXPANDER is Ñāṇananda (different monk, in-house fire-simile
+sermons): [N5] seed-field + whirlpool ("conditioned by the fire of
+craving that rebirth occurs"; kamma-field/kamma-seed/craving-moisture) —
+the image half completing Ñāṇavīra's structure half. And [N6]: "not…
+'hereafter-Nibbāna', but a perfect experience an arahant goes through in
+this world."
+
 Death coda [N4]: Letter 1 = "'to be opened in the event of my death'";
 his decision (illness → concentration impossible → "no further use for
 this life") in his own words; and his OWN formula applies to him —

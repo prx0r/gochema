@@ -397,6 +397,29 @@ fetched excerpts) — the "outdated?" beat's own scholar:**
   Buddhist Studies 2010, extracts from "Views and the Tathāgata", listed
   free on his publications page) → pairs with DN 1's own 62-views catalog.
 
+## THE ÑĀṆAMOLI SPLIT (CH.9b — who expanded the view, who didn't)
+
+**[S21] Ñāṇamoli Thera's position — three legs, provenance marked:**
+1. **His own line (IN HOUSE — visuddhimagga-path-of-purification.pdf,
+   preface, pdftotext this session, verified local):** "Old cosmologies
+   give place to new; but the questions of consciousness, of pain and
+   death, of responsibility for acts, and of what should be looked to in
+   the scale it values as the highest of all, remain… not least among
+   them is its **independence of any particular cosmology**." — the
+   translator of the great cosmology-manual, framing the teaching as
+   cosmology-independent. CH.2/CH.9b gold; quote local-verified.
+2. **The split (fetched — nanavira.org letters index):** L.99 (15.8.1964)
+   — Ñāṇavīra on ending the long correspondence: "no longer anything for
+   me to discuss with him, since the former relationship of parity between
+   us regarding the Dhamma had suddenly come to an end." · L.105 (23.11.
+   1963) — "criticism of his view of Dependent Arising (by someone
+   favouring the 'Three Life Interpretation')." → they did not co-sign the
+   structural reading; the translator stands inside the commentarial
+   machinery he rendered (fetched: his Gatikathā trans, Ps 1.6 —
+   rebirth-linking moments, three-life mechanics).
+3. **Note:** the other name in this story — Ñāṇananda (NOT Ñāṇamoli) —
+   IS the expander; see WEAVE N5–N6 (in-house fire-simile SOURCE).
+
 ## THE ESSAYS (the actual scholarship shelf)
 
 ### Tier 1 — directly the film's thesis (ACQUIRE full texts)

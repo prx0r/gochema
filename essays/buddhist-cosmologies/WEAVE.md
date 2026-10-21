@@ -261,6 +261,27 @@ anguish in the face of death" (Theragāthā 606–607, quoted in CTP).
 — SLOT: CH.9b Beat E coda — handle soberly, no melodrama; the film's
 point is that his epistemology and his death agree.
 
+**[N5] ÑĀṆANANDA — the expansion (in-house — essays/fire-simile/SOURCE-RAW.txt,
+the fire-simile sermons, read this session):**
+(a) "It is due to that grasping conditioned by the fire of craving that
+rebirth occurs." · (b) the seed-field dictum, quoted by him:
+"kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sineho" — "Karma is the field,
+consciousness is the seed, and craving the moisture. The ordinary
+person's consciousness seed has that germinating power to bring about
+rebirth in the field of karma, watered by craving." · (c) the whirlpool
+answer: "It is this simile of the whirlpool that holds the answer…"
+— SLOT: CH.9b Beat D — THE expansion of N1–N2: rebirth as germination-
+in-a-field HERE (conditions, not a traveler) + designation-whirlpool —
+the image half of Ñāṇavīra's logic half. [No film callbacks: fire-simile
+is its own film; primary source shared.]
+
+**[N6] ÑĀṆANANDA — the anti-hereafter line (same source):**
+"It is not Mr. Sovanso's 'hereafter-Nibbāna', but a perfect experience an
+arahant goes through in this world." + "Deathlessness is not an
+experience that comes after death."
+— SLOT: CH.9b Beat D coda / pairs with [N2]'s akālika — the tradition's
+own present-tense register.
+
 ---
 
 ## Pairs that make the film's argument (do not split)
