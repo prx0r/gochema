@@ -24,7 +24,7 @@
 | 26 | Fire Simile | `fire-simile` | BUILD (v1 reading + v2 analysis) | Voice synth decision (Louis vs old-man take on R2) |
 | 27 | Dependent Origination | `dependent-origination` | SCAFFOLD (source + structure) | Essay draft (v2 stream-entry spine) |
 | 28 | Fundamental Structure (Ñāṇavīra) | `fundamental-structure` | SCAFFOLD (extracts + structure) | Time-doctrine video spec (feeds rebirth ch.9) |
-| 29 | Buddhist Cosmologies (MAGNUM — rebirth-format extension) | `buddhist-cosmologies` | SCAFFOLD (STRUCTURE v3 = 12 sections (nirvana chapter CUT → trilogy vid 3) incl. assumption-clearing intro + mode/destination + nirvana chapters + quiet-part close; WEAVE B1-B12; SCHOLARSHIP S3-S15; ACQUIRE incl. witness clips) | Owner: cold-open LOCKED (states-of-awareness line), title pick; ACQUIRE: Vism 31-plane extract, Pure Land vows, Dyczkowski deity-body line; then essay pass |
+| 29 | Buddhist Cosmologies (MAGNUM — rebirth-format extension) | `buddhist-cosmologies` | SCAFFOLD (STRUCTURE v3 = 12 sections (nirvana chapter CUT → trilogy vid 3) incl. assumption-clearing intro + mode/destination + nirvana chapters + quiet-part close; WEAVE B1-B12; SCHOLARSHIP S3-S15; ACQUIRE incl. witness clips) + TRADITIONS.md dossier + WEAVE N1-N9| Owner: cold-open LOCKED (states-of-awareness line), title pick; ACQUIRE: Vism 31-plane extract, Pure Land vows, Dyczkowski deity-body line; then essay pass |
 
 > **ENDGAME (owner, 2026-10-21):** the cosmology wing. Every tradition in
 > the global-rebirth roster gets a cosmology sequel after its rebirth film

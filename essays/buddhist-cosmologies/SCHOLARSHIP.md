@@ -397,6 +397,39 @@ fetched excerpts) — the "outdated?" beat's own scholar:**
   Buddhist Studies 2010, extracts from "Views and the Tathāgata", listed
   free on his publications page) → pairs with DN 1's own 62-views catalog.
 
+## THE TIBETAN-SYNTHESIS SOURCES (TRADITIONS dossier — fetched 2026-10-21)
+
+**[S22] Kongtrul / Kālacakra / Dzogchen — the tradition's own four-system map:**
+- **Kongtrul, *Myriad Worlds* (via Enc. of Buddhism + Shambhala +
+  namsebangdzo, all fetched):** "describes four major cosmological
+  systems found in the Tibetan tradition—those associated with the
+  Hinayana, Mahayana, Kalachakra, and Dzogchen teachings. **Each of these
+  cosmologies shows how the world arises from mind**, whether through the
+  accumulated results of past actions or from the constant striving of
+  awareness to know itself." + "the dazzling non-cosmology of the
+  Dzogchen system, which dispenses with the dualistic perspectives
+  revealing the creative principle to be awareness alone."
+- **Kālacakra cosmogony excerpt (Shambhala, fetched):** "In the formation
+  of a world-system, the mind is the [productive] agent, the environment
+  and inhabitants are the objects [created], and creation is accomplished
+  by evolutionary actions… energy-winds gather the subtle particles [that
+  remain in space following the destruction of the previous world-system]."
+- **Dzogchen ground (Wikipedia/Ground + Rigpa Wiki, fetched):** the ground
+  "before realization produced buddhas and nonrealization produced
+  sentient beings"; "Since the basis transcends time, any temporal
+  language used to describe it… is purely conventional"; Longchenpa's
+  "groundless ground"; the seven assertions (only #7 primordial purity
+  correct — then even that incomplete; union of essence/nature/compassion)
+  — an internal Dzogchen debate over what the ground IS.
+- **The cosmos=person identity (Namkhai Norbu, fetched):** "the
+  fundamental ground of existence, both at the universal level and at the
+  level of the individual, the two being essentially the same."
+- **Living voice, newest (Orgyen Chowang, Tricycle, 2024 — fetched):**
+  "The dualistic mind is the source of the outer universe and of one's
+  own self… All the galaxies of this universe have appeared out of space…
+  appears only within the primordial basis. Awareness produces
+  enlightenment, and ignorance produces our ordinary mind."
+
 ## THE ÑĀṆAMOLI SPLIT (CH.9b — who expanded the view, who didn't)
 
 **[S21] Ñāṇamoli Thera's position — three legs, provenance marked:**

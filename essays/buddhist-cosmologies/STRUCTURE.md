@@ -57,6 +57,10 @@ Standalone magnum — own cold-open (no shared series frame), stops per map,
 guard, close. Runtime target: MAGNUM — 45–60 min clock (12 sections ≈
 4–5 min each), chapter count set at STRUCTURE expansion.
 Storyboard/shot tables: after essay pass.
+**Per-tradition full-metaphysics dossier: `TRADITIONS.md`** (universe /
+how-it-started / what-it's-made-of / frontier, per tradition — CH.3–CH.9
+draw from it; epigraph = Kongtrul: every one of these systems "shows how
+the world arises from mind").
 
 ## Sections (seed v2)
 
@@ -396,6 +400,33 @@ on early Buddhism itself: "a precious fossil from bygone times; it can
 provide much inspiration, but it cannot be revived." — the scholar's own
 "outdated" admission, kept for the guard.
 
+**Beat B3 — THE UNDERDETERMINATION CHARGE (owner, locked verbatim): "ok
+that gives a process that makes logical sense but u could literally make
+something up and it has the same epistemic weight right?"**
+Concede first: YES — internal coherence doesn't license content; any
+made-up story ties the real one at the level of logic alone. Banked as
+the film's sharpest sceptical line. The replies, in order (all banked):
+1. **The tradition already knows this** — that is exactly what MN 63
+   [B13] is FOR: the declared/undeclared split is the canon's own answer
+   to underdetermination (it stakes nothing on topology precisely because
+   topology can't be proven from inside).
+2. **What the process-claims claim instead** — not narrative plausibility
+   but PRESENT experience: [N2] direct-seeing of the dependence "not
+   involving time" · [N5] seed-germination observable in the field ·
+   [N7] HH: "within the five aggregates that you have and can know right
+   here and now" + "There is no travel." A made-up story isn't offered as
+   checkable-against-present-experience; these are.
+3. **Evidence tier, honestly weighted** — the tradition never rested on
+   logic alone: testimony/cases [S18 Analayo: xenoglossy etc. — "changing
+   the notion of rebirth from a religious creed to a reasonable belief"]
+   + trust-authority [N2] — with the concession attached: [S18] "certainty…
+   only when we die." If you demand proof-grade weight, nobody has it yet.
+4. **The function test (MN 63's):** assigned weight = "does it conduce
+   to cessation" — a made-up story and the real one diverge exactly there
+   (only one works as practice). [GUARD: never pretend logic carries the
+   claim — the film says plainly it doesn't, and then says what the
+   tradition says instead.]
+
 **Beat C — what the Dalai Lama offers as solution (banked two-step).**
 1. **Credibility first:** "to uphold a tenet that contradicts reason is to
    undermine one's credibility; to contradict empirical evidence is a
@@ -434,7 +465,8 @@ take place" — no how, just THAT. And he kills the modern meta-error in
 advance: "the Buddha was an agnostic on rebirth… a very slight
 acquaintance with the Suttas will correct this idea."
 **Who expands this view — and who didn't (owner Q: "does nyanamoli
-explain and expand this view?"):** careful with the three names.
+explain and expand this view?"):** careful with the THREE men — the owner
+meant the LIVING one.
 Ñāṇamoli (the translator, 1905–60) did NOT — his life's work rendered
 the OTHER side: the Vism's three-life model + the Paṭisambhidāmagga's
 rebirth-linking mechanics (fetched: Gatikathā, "at the moment of
@@ -446,13 +478,29 @@ to an end" (L.105: his DA view was criticized by a three-life partisan).
 BUT his own preface leaves the film's line [S21]: "Old cosmologies give
 place to new; but the questions of consciousness, of pain and death, of
 responsibility… remain… its independence of any particular cosmology."
-The actual EXPANDER is Ñāṇananda (different monk, in-house fire-simile
-sermons): [N5] seed-field + whirlpool ("conditioned by the fire of
+**(a) THE LIVING EXPANDER — Ajahn Ñāṇamoli Thero (Bhikkhu Ninoslav),
+Hillside Hermitage — the owner's actual referent [IN-HOUSE:
+library/hillside-hermitage/ — "the living Nanavira school"; "Ven. Nanavira
+is the bedrock and foundation of HH" (r/HH community consensus)]. YES, he
+explains and expands it — [WEAVE N7–N9], from 18hh "Saṃsāra" + "With
+birth, death applies": "There is no travel. Rebirth, as in re-arising, is
+within the five aggregates that you have and can know right here and
+now." · "A change of rebirth is more accurately reflected upon as a
+change of immediacy, a change in the degree and nature of your senses." ·
+"The whole idea of a 'round of rebirth' is a notion that people develop
+based on this life and its self-centeredness." — plus the atemporal hinge
+in his own words: "temporal things… are possible only because there is an
+atemporal structure… time is secondary to one's experience. Hence, the
+p.s. is said to be akālika, 'timeless.'"
+**(b) The DEAD translator, Ñāṇamoli Bhikkhu (1905–60, same name, NOT this
+one):** rendered the OTHER side (Vism three-life + Gatikathā rebirth-
+linking) and the correspondence with Ñāṇavīra ENDED (see SCHOLARSHIP S21).
+**(c) The other expander — Ñāṇananda** (different monk, in-house fire-
+simile sermons): [N5] seed-field + whirlpool ("conditioned by the fire of
 craving that rebirth occurs"; kamma-field/kamma-seed/craving-moisture) —
 the image half completing Ñāṇavīra's structure half. And [N6]: "not…
 'hereafter-Nibbāna', but a perfect experience an arahant goes through in
 this world."
-
 Death coda [N4]: Letter 1 = "'to be opened in the event of my death'";
 his decision (illness → concentration impossible → "no further use for
 this life") in his own words; and his OWN formula applies to him —

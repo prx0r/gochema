@@ -261,6 +261,34 @@ anguish in the face of death" (Theragāthā 606–607, quoted in CTP).
 — SLOT: CH.9b Beat E coda — handle soberly, no melodrama; the film's
 point is that his epistemology and his death agree.
 
+**[N7] AJAHN ÑĀṆAMOLI (living, Hillside Hermitage) — 18hh "Saṃsāra"
+transcript, IN-HOUSE `library/hillside-hermitage/transcripts/18hh-discussions-from-a-mountain-top-6.txt`,
+read this session:**
+"There is no travel. Rebirth, as in re-arising, is within the five
+aggregates that you have and can know right here and now."
+— And: "The whole idea of a 'round of rebirth' is a notion that people
+develop based on this life and its self-centeredness. They use this life
+as a reference point, from which you die and then come back in some sort
+of cycle."
+— SLOT: CH.9b Beat D — the living school's one-sentence version of N1–N2:
+no travel, re-arising is knowable HERE. (Transcript is PDF-extracted;
+wording normalized from line-breaks only — spot-check at draft.)
+
+**[N8] The same talk — the immediacy formula:**
+"A change of rebirth is more accurately reflected upon as a change of
+immediacy, a change in the degree and nature of your senses. But in terms
+of the nature of phenomena, there's no difference."
+— SLOT: CH.7 (fractal) — the living traditional voice: rebirth = change
+of immediacy at the micro scale; the macro reading unchanged.
+
+**[N9] "With birth, death applies" (Ñāṇamoli, Path Press 2010 — IN-HOUSE
+`library/hillside-hermitage/HILLSIDE-HERMITAGE.md`, verbatim bank):**
+"temporal things (events in time) are possible *only* because there is
+an atemporal structure (*nature* of time) – time is *secondary* to one's
+experience. Hence, the p.s. is said to be *akālika*, 'timeless'."
+— SLOT: CH.9b Beat D — the akālika hinge in the living heir's own words;
+pairs with [N2]'s chain-is-akālika + CH.10's deathless-formula frame.
+
 **[N5] ÑĀṆANANDA — the expansion (in-house — essays/fire-simile/SOURCE-RAW.txt,
 the fire-simile sermons, read this session):**
 (a) "It is due to that grasping conditioned by the fire of craving that
