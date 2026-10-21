@@ -8,11 +8,11 @@
 ## In-house (extract at draft — pdftotext works, verified)
 1. **Vism 31 planes** — `library/theravada/visuddhimagga-path-of-purification.pdf`
    (BPS Ñāṇamoli). Find the chapter enumerating kāma/rūpa/arūpa plane counts
-   (31) → verbatim extract for CH.3. Also the sense-sphere-deity passages
+   (31) → verbatim extract for CH.4. Also the sense-sphere-deity passages
    (grep hits already seen: "world-marshal (loka-byūha) deities").
 2. **Pure Land vows** — `library/pureland/three-pure-land-sutras.pdf`.
    Larger Sukhāvatīvyūha: pick 1–2 of the 48 vows verbatim (esp. 18/19/20 —
-   the rebirth-in-pure-land-by-faith vows) → CH.6. License: CC-BY-NC-SA —
+   the rebirth-in-pure-land-by-faith vows) → CH.8. License: CC-BY-NC-SA —
    non-commercial OK, cite Numata/BDK.
 3. **TBOTD six-realm/deity table** — `library/tibetan/tibetan-book-of-dead-reference.md`
    (already has day/deity/poison/realm rows — table exists at lines ~55-67)
@@ -20,7 +20,7 @@
    ("the six realms arise from the six poisons" needs exact wording).
 4. **Analayo on manopubbaṅgamā context** — `library/buddhist-debate/analayo-rebirth.txt`
    line 9818: Dhp 1–2 in his rebirth argument — gives a modern scholarly
-   voice to pair with [B6] (scholar-quote slot in CH.7).
+   voice to pair with [B6] (scholar-quote slot in CH.9).
 5. **Cross-map depth** — `library/death/egyptian-tibetan-death-mapping.md`
    + `death-systems-convergence.md`: the v1-style convergence note for the
    CLOSE (buddhist wheel vs global five families).
@@ -32,20 +32,54 @@
   count) — Vism or a sutta passage via FoJin.
 - Abhidhamma-plane enumeration in Chinese (Dhammasaṅgaṇī/Paṭṭhāna, T-shelf):
   search "三界" + "三十一" — the 31-count in the Abhidhamma commentarial
-  line, for the CH.3 citation if Vism extraction is thin.
+  line, for the CH.4 citation if Vism extraction is thin.
 - Khuddaka/phones: "gati" six-destination formula texts (AN 6.43-ish?) —
   search "six destinations rebirth" already returned SC-an8.49 + SC-mn57 —
-  tid-hunt and read for CH.5.
+  tid-hunt and read for CH.6.
 
 ## Scholarly essays (tier 1 — fetch full texts where free)
 - Sadakata, *Buddhist Cosmology: Philosophy and Origins* — FULL FREE PDF
   on archive.org → download + extract at draft (the Abhidharma/Mahāyāna
-  two-stream thesis is CH.2-3's spine in scholarly register)
+  two-stream thesis is CH.3-4's spine in scholarly register)
 - Kotyk 2022 (UBC free PDF) → "the big map was inherited from the suttas"
 - Imphong 2023 (ERIC free) → Thai-vs-science comparison
 - Gethin 1997 / Hamilton 1999 / Burley 2017 → paywalled; bank exact
   citations only (already in SCHOLARSHIP.md), quote only via fetched
   abstracts or legitimate excerpts
+
+
+## Witness clips (owner: "we might even want to find some videos or clips
+explaining this" — explainer/witness material for CH.2 + CH.7, NOT sources)
+| Clip / text | What it's for | Rights |
+|---|---|---|
+| **Ajahn Sona × Ajahn Punnadhammo — "Buddhist Cosmology" video series** (YouTube; incl. "Six Sensuous Heavens") | the traditional-map walkthrough by respected monks; Punnadhammo's **"The Buddhist Cosmos" book = free download** (per video desc) → EXTRACT for CH.4 (a monk-scholar's 31-plane narration) | book free; clips = ask-first (house rule) |
+| **Delson Armstrong — "31 Realms Buddhist Cosmology Explained"** (YouTube 2022) | modern map-explainer witness | ask-first |
+| **Moon Mind Temple — "Why Your Life Keeps Repeating Itself"** (2026) | mode-reading framing in the wild: "Six rooms open and close in the mind every day" | ask-first |
+| **BPS "The six realms of the mind"** (S11 banked) | psychological reading, psychotherapy framing | quote-brief OK |
+| **Lion's Roar "Making Sense of Buddhism's Six Realms"** (S9 banked) | two-camps + fractal setup | quote-brief OK |
+| **Tricycle / McKeever** (S10 banked) | fractal quote source | quote-brief OK |
+
+## New ACQUIRE items (STRUCTURE v2 additions)
+1. **Analayo, *Rebirth in Early Buddhism and Current Research* — IN HOUSE**
+   (`library/buddhist-debate/analayo-rebirth.txt`): extract the two chapters
+   that ARE CH.10's spine — "The Denial of Rebirth" (line 120/1538: the
+   Buddhadasa psychologization debate = is the mode-reading a DENIAL of
+   rebirth?) + "The Destiny of an Awakened One after Death" (line 149/2003).
+   Also his "The Undeclared Questions / Poisoned Arrow" section → CH.13 guard.
+2. **akālika formula via FoJin** — the deathless-is-timeless line
+   (`sandhiṭṭhiko akāliko ehipassiko…`) for CH.10 beat C, + confirm the
+   kṣaṇa/santāna/akālika triad card-term bank.
+3. **Huang Po extract** — full PDF (archive.org/zhenhost, both free) →
+   verify the S13 line + get Taishō T2012 cite + one more CH.9 beat line.
+4. **Ñāṇavīra "between lives" claim** — VERIFY before the film says it:
+   fs extracts in-house cover time-structure only; check his Letters/CtP
+   (not in this repo) or drop the claim. Owner memory flagged, not banked.
+5. **Ud 8:3 / MN 49 / SN 56:11 / DN 1 lines** — already sourced in
+   `rebirth-explained/resources/11-v3-nirvana.md` (Thanissaro, in
+   truth-of-rebirth-full.txt lines 1975–2015) — pull verbatim into WEAVE
+   for CH.10 beat B (sources reused, no film reference).
+6. **Punnadhammo, *The Buddhist Cosmos*** — free PDF download (from the
+   Sona video page) → CH.4 companion + maybe CH.6 wheel narration.
 
 ## Owner
 - Cold-open words for CH.1 (the "five universes" frame in owner register)

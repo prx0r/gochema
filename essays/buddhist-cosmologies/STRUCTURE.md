@@ -4,8 +4,9 @@
 > cosmologies this is gonna be kinda like extension of the rebirth vid format
 > analysing different ones and analysing the shared worldviews how to
 > understand them (are tehy all mental etc)"
-> Status: SEED — thesis + section plan + banked primary (FoJin-verified this
-> session). Owner words above locked. Compiler law binding.
+> Status: SEED v2 — 13 sections, intro assumption-clearing + mode/destination
+> + nirvana questions folded in (owner's reasoning, 2026-10-21). Owner words
+> above locked. Compiler law binding.
 
 ## Working title
 **Buddhist Cosmologies, Actually Explained** (family: "Actually…" series ·
@@ -42,10 +43,11 @@ no callbacks to any other film.
 
 ## Format
 Standalone magnum — own cold-open (no shared series frame), stops per map,
-guard, close. Runtime target: MAGNUM — 45–60 min clock, chapter count set
-at STRUCTURE expansion. Storyboard/shot tables: after essay pass.
+guard, close. Runtime target: MAGNUM — 45–60 min clock (13 sections ≈
+3.5–4.5 min each), chapter count set at STRUCTURE expansion.
+Storyboard/shot tables: after essay pass.
 
-## Sections (seed)
+## Sections (seed v2)
 
 ### CH.1 — FRAME: FIVE UNIVERSES IN ONE RELIGION (0:00–1:30)
 Cold-open = owner's locked line, first frame: "the buddhist realms are
@@ -58,7 +60,51 @@ contradictions. Same religion, same Buddha, different universes. [DIR:
 the classic bhavachakra dissolving into five competing map renderings —
 31-plane tower, sutta-dot, pure-land horizon, bardo sequence, blank.]
 
-### CH.2 — THE SUTTA MINIMALISM (the small map)
+### CH.2 — WHAT EVERYONE GETS WRONG (the assumption-clearing intro)
+> Owner (2026-10-21): "anything consistant across traditions that western
+> people usually get wrong we need to define in the intro its basically
+> assumptions clearing up setting the foudnations all the cosmologies rely
+> on" + "no it is not outdated, no it is not competing with science it is
+> mapping a different thing entirely."
+
+**Beat A — the sobering rendering, defined once (owner: "taht rendering
+of samsara is sobering").** [SCHOLARSHIP — Lion's Roar, fetched excerpt]:
+"samsara is not where we exist — it's how we exist. Samsara isn't a
+location on any cosmic map. It's a state of delusion. And if samsara is
+how rather than where, then the six realms aren't destinations either.
+They're modes of experiencing." + the cycle-as-default: [Tricycle —
+McKeever, fetched excerpt] "you've already been both, countless times"
+(hell beast and sky god). The wheel is not scenery; it's the standing
+condition. Define here — every later chapter leans on this.
+
+**Beat B — Wrong #1: "it's outdated science / it competes with science."**
+It never claimed the job. [SCHOLARSHIP — Berzin, fetched] "neither was
+formulated for the sake of navigation" + [SCHOLARSHIP — Imphong 2023,
+ERIC free, fetched excerpt] the two magisteria argument: science studies
+physical matter; "Buddhism concentrates on the mind" — non-overlapping.
+Science maps matter with sensors; this maps experience with — (CH.11
+plants the answer: a finer sensor). The map's genre = instrument-manual,
+not pre-Copernican astronomy.
+
+**Beat C — Wrong #2: "it's just a metaphor" vs "it's all literal."**
+Both camps exist and both flatten. [SCHOLARSHIP — Lion's Roar, fetched]:
+"Most of us respond in one of two ways… a watered-down interpretation —
+treating the realms as mere metaphors — or we politely set aside these
+teachings as cultural artifacts… Both approaches let us continue
+practicing without cognitive dissonance." The film refuses BOTH: the
+three readings run the whole middle (CH.9), guarded both directions.
+
+**Beat D — Wrong #3: "reincarnation = a soul changing houses."**
+No traveler, no driver — the stream continues, nothing does (state fresh,
+one beat, no cross-film reference). Preview of the engine: deeds are the
+parents (CH.4), mind is the mold (CH.5).
+
+**Beat E — the foundations preview.** End the intro on the hook: "five
+assumptions every one of these maps already makes — nobody argues them,
+because they're the floor" → pointer to CH.12 (the quiet part). [DIR:
+list appears as on-screen cards, un-dealt; paid off at the close.]
+
+### CH.3 — THE SUTTA MINIMALISM (the small map)
 What the early suttas actually pin down: world = the six internal/external
 sense fields and their contact-chain. [READ — SN 35.107 Lokasamudaya,
 FoJin tid 1408, banked]: "Lokassa, bhikkhave, samudayañca atthaṅgamañca
@@ -69,7 +115,7 @@ eye-consciousness arise… contact → feeling → craving → grasping → beco
 No Sumeru, no cosmography required for liberation. The Buddha as world-
 minimalist: the map is optional, the chain is not.
 
-### CH.3 — THE 31 PLANES (the big map)
+### CH.4 — THE 31 PLANES (the big map)
 Abhidhamma/Visuddhimagga expansion: kāma/rūpa/arūpa, 11+16+4 = 31, every
 plane a psychophysical address produced by kamma. [ACQUIRE: Vism chapter
 extracts from in-house PDF — BPS Ñāṇamoli trans.]. The engine paragraph:
@@ -78,8 +124,13 @@ bhikkhave, sattā kammadāyādā kammayonī kammabandhū kammapaṭisaraṇā" �
 beings are owners, heirs, WOMB, kindred and refuge of their actions; action
 distinguishes them as inferior and superior. The cosmology has no creator
 because it has a different engine: your deeds are the parents.
+Note for CH.2's promise: the tower's TOP floors have no location
+[banked via Berzin, S4]: "The plane of formless beings has no location,
+since it is without any physical form" — the map physically converges on
+awareness as it climbs. (Density-ladder note: "density" is Theosophy's
+word, not Buddhist — the native axis is immersion-depth of experience.)
 
-### CH.4 — THE GOD WHO WAS MADE BY MIND (the trapdoor)
+### CH.5 — THE GOD WHO WAS MADE BY MIND (the trapdoor)
 [READ — DN 1 Brahmajāla, FoJin urn sc/dn1.1, banked Pali]: the first being
 in the empty brahma-world, "manomayo pītibhakkho" (mind-made, fed on
 rapture), alone for an aeon, concludes: "ahamasmi brahmā mahābrahmā …
@@ -93,7 +144,7 @@ opening fable. [READ — MN 99 Subho, FoJin urn sc/mn99.1]: the Buddha tells
 the brahmin the "path to Brahmā's company" — it's the brahmavihāras.
 Cosmology as practice-address: the heaven is reachable by method.
 
-### CH.5 — THE WHEEL: SIX REALMS (the famous map)
+### CH.6 — THE WHEEL: SIX REALMS (the famous map)
 The popular map: deva/asura/human/animal/hungry-ghost/hell — as karmic
 weather-system. [READ — DN 26 Cakkavatti, FoJin urn sc/dn26.1, banked:
 the decline to a ten-year lifespan ("girls marriageable at five"), food
@@ -104,18 +155,71 @@ where the hub is (Abhidhamma = tables, Tibetan = poisons, Pure Land =
 exit-ramp). [in-house: tibetan-book-of-dead-reference.md six-bardo table ·
 three-pure-land-sutras.pdf · Vism PDF].
 
-### CH.6 — THE PURE LAND: COSMOLOGY AS PROMISE (the exit)
+### CH.7 — MODE OR DESTINATION? IS IT HAPPENING NOW? (the owner's confusion, resolved)
+> Owner questions (verbatim, locked): "is that literally true then
+> rebirth is literally happening now or they are saying you come back as
+> a literal ghost while u are a human now? doesnt that imply devas ah god
+> im confused.. i kinda like the mode reading this is actaully relevent to
+> our rebirth stuff right"
+
+**Beat A — the two readings, both banked.**
+- Destination-reading (traditional): full birth, full duration — the
+  deed-womb [B1] produces births, not moods; DN 26 shows realms have
+  their own timescales. Gods are literal — and they die: [SCHOLARSHIP —
+  Samye, fetched] "once their karmic actions are exhausted, they suffer
+  the pain of dying, and after that comes life in the realms of hell
+  beings, starving spirits, and animals" (Ārya-saddharma-smṛtyupasthāna).
+- Mode-reading (psychological): [SCHOLARSHIP — Lion's Roar, fetched]
+  "Moment by moment, we move from the bliss of the god realms to the
+  anger of the hell realms to the stupidity of the animal realm" ·
+  [BPS, fetched] "rather than viewing the thangka painting as a literal
+  depiction… we can see it as a map of our ever-changing mental states" ·
+  [Tricycle, fetched] "reincarnation is something that takes place many
+  times within a single lifetime" · Gethin's equivalence principle (see
+  SCHOLARSHIP): greed→hungry ghost, hatred→hell, ignorance→animal — the
+  correlation is PRECISE, not loose.
+
+**Beat B — the resolution the tradition offers: the fractal.**
+[SCHOLARSHIP — Reggie Ray via Tricycle, fetched] "If indeed 'we' have
+cycled through these realms since the dawn of eternity… it would make
+perfect sense that the pattern of cycling would manifest in our
+daily/current lives. Like a fractal pattern that is the same (or similar)
+from near, as it is from far." → the answer to owner's question: you
+don't choose between "literal ghost after death" and "ghost-mode now" —
+ONE process, read at two magnitudes. Death-transition = the macro turn of
+the wheel; Tuesday-afternoon craving = the micro turn. Same engine (B1),
+different frame-rate. This is ALSO why the mode reading is the natural
+bridge into rebirth mechanics (owner instinct confirmed) — no film
+reference needed; the bridge is structural, stated fresh.
+
+**Beat C — the devas implication, paid out (owner: "doesnt that imply
+devas ah god im confused").** Under mode-reading: god = the smug-
+oblivious stretch you're currently in [BPS fetched: god-realm "a blissful,
+ethereal state in which one is supremely contented but oblivious to the
+suffering of others"]. Under destination-reading: devas are colleagues,
+not authorities — they're on the clock, they die, they fall (Samye quote
+above), and the tradition's own creator-god is one of them (CH.5). There
+is no God in the machinery anywhere: the "gods" are the six-room cast, not
+the landlord. [GUARD: mode-reading is NOT a personality quiz —
+just-buddha.org, fetched: the six "do not… divide living people into six
+spiritual personality types" — the modes are habitats that come and go,
+not badges you wear.]
+
+### CH.8 — THE PURE LAND: COSMOLOGY AS PROMISE (the exit)
 The Pure Land is the odd member: a geographically specific cosmology
 (Amitābha's Sukhāvatī, 48 vows) that functions as ONE-STEP transport — the
 only school where the cosmology IS the soteriology: the map doesn't
 describe where you are, it's a promise about where you're going. [ACQUIRE:
 exact lines from the in-house three-sutras PDF — Larger Sutra vow lines].
+Own commentarial tradition undercuts the geography from inside
+[banked Chinese source, fetched]: "淨穢在心，不在國土也" — "purity and
+impurity are in the mind, not in the land."
 
-### CH.7 — ARE THEY MENTAL? (the crux — owner's question)
+### CH.9 — ARE THEY MENTAL? (the crux — owner's question)
 Three readings, all primary, none invented:
-- **Realist-kammic** (CH.3): realms are produced like everything else —
+- **Realist-kammic** (CH.4): realms are produced like everything else —
   dependently, kammically, without a maker. [AN 10.216 again]
-- **Mind-made** (CH.4): Dhp 1–2 [READ — FoJin urn sc/dhp1-20.1, banked]:
+- **Mind-made** (CH.5): Dhp 1–2 [READ — FoJin urn sc/dhp1-20.1, banked]:
   "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā" — "Phenomena are preceded
   by mind, ruled by mind, MADE OF MIND." The most-quoted line in every
   psychology-of-religion anthology — sitting two books from the 31-plane
@@ -130,8 +234,17 @@ Three readings, all primary, none invented:
   VOCABULARY with no inherent existence: "shown" the way you'd show
   emptiness with a finger. And [READ — Dhp 167 range, urn sc/dhp167-178.1]:
   "Look upon the world as a bubble or a mirage."
+- **+ the ZEN FOURTH** (owner: "taht zen teaching of huang po etc")
+  [SCHOLARSHIP — Huang Po, Ch'uan-hsin fa-yao, fetched via Grove/
+  terebess/Blofeld excerpts]: "All the Buddhas and all sentient beings
+  are nothing but the One Mind, beside which nothing exists… no
+  distinction between the Buddha and sentient beings." The deflation at
+  the extreme: no realms, no beings, no Buddha-outside — the same cut
+  Toh 174 makes from the Kangyur side, made from Chan. [ACQUIRE: verify
+  the exact line + its Taishō cite (T2012) at draft — Blofeld trans.
+  quoted from fetched editions.]
 Then the synthesis the sources actually force: mental ≠ unreal-for-you
-(kamma still lands — CH.3), real ≠ solid (Toh174 + Dhp bubble), so the
+(kamma still lands — CH.4), real ≠ solid (Toh174 + Dhp bubble), so the
 question "are they all mental?" answers YES in register (mind-made,
 mind-riddled, empty-of-self) and NO in address (the deed-womb produces
 births, not moods). [GUARD: against both New-Age flattening ("all just
@@ -139,7 +252,64 @@ psychology" — then AN 10.216's birth-language loses its meaning) and
 naive literalism ("solid heavens" — then the Buddha's own minimalism and
 Toh174's nonrealms are ignored).]
 
-### CH.8 — THE INSTRUMENT: NOT A MAP OF THE SOLAR SYSTEM (the unsaid)
+### CH.10 — WHAT IS NIRVĀṆA THEN? (the exit from the map)
+> Owner questions (verbatim, locked): "if its a map of mental states in
+> this lifetime what is nirvana? not being reborn at all = equanimity the
+> escape from time and exsiting as a temporal entity? but nanavira thought
+> it was between lives right and he was smart cookie .."
+
+**Beat A — the trap in the question.** If everything on the map is a
+state, is nirvāṇa just the equanimity state? No — and the map itself
+proves it: equanimity (upekkhā) is ON the dial (a brahmavihāra, a
+practicable state), and even the top of the TOWER — the four formless
+attainments — are still births that end (the arūpa heavens have
+lifespans, then death; they're addresses, not exit). Nothing on any
+Buddhist map IS nibbāna. The mode-reading makes this sharper: if realms
+are modes, then "a better mode" is still samsāra — the escape can't be a
+mode by definition.
+
+**Beat B — what it actually is: off-map.** The word: a fire going out for
+lack of fuel. [in-house: rebirth-explained/resources/11-v3-nirvana.md —
+sources banked there, reused as sources not callbacks]: SN 12.64 sunbeam
+("if there is no western wall… it does not land, lord") · MN 72 fire move
+(dependent burning → gone out → absurd to ask the direction) · the two
+negatives: Ud 8:3 unborn-unbecome-unmade-unfabricated · MN 49
+consciousness-without-surface "not been experienced through the earthness
+of earth" · SN 56:11 "this is the last birth" · DN 1 "the world would see
+him no more." [in-house, verbatim banked]: Ñāṇananda — "the obvious
+meaning of the term 'nibbāna' is extinction, i.e. going out of a fire."
+
+**Beat C — the owner's time-framing, taken seriously.** "Escape from
+time / existing as a temporal entity" — this is close to the canonical
+marks: the deathless is **akālika** (timeless) against the santāna
+(stream) that every mode belongs to. [ACQUIRE: bank the formula
+`sandhiṭṭhiko akāliko ehipassiko…` via FoJin + the kṣaṇa/santāna/akālika
+triad already on-screen in rebirth ESSAY (as TERM cards — banked fresh
+here, no film reference)]. The map's own top floor is IN time (formless
+still ages) — so the exit isn't climbable, it's ex-tinguishable. Direction
+questions don't apply to a gone fire.
+
+**Beat D — Ñāṇavīra: "between lives"? (owner claim → verify, don't
+assert).** The owner's memory that Ñāṇavīra placed rebirth "between
+lives" needs a source before the film says it. [ACQUIRE: (i) verify from
+Ñāṇavīra's Letters/CtP — NOT in this repo's fs extracts (fs-TIME-PASSAGES
+covers time-structure only); (ii) Analayo's in-house book
+`library/buddhist-debate/analayo-rebirth.txt` has both relevant chapters —
+"The Denial of Rebirth" (the Buddhadasa psychologization debate: IS the
+mode-reading a denial of rebirth?) and "The Destiny of an Awakened One
+after Death" — extract both; they ARE this chapter's scholarly spine.]
+Structural point regardless: the schools disagree on whether the event is
+between-lives, at-death, moment-to-moment, or all three (CH.7's fractal
+resolves the "or"): the disagreement itself is content, not a gap.
+
+**Beat E — guard.** Not annihilation (Yamaka's starting view gets
+dismantled — in-house v3 FAQ) · not a heaven (no address) · not a state
+you attain ON the dial (attainments end). The honest remainder: from
+inside time, the map cannot draw what's out of time — every depiction of
+nibbāna in art uses ABSENCE (flame out, empty circle, footprint that
+stopped). [DIR: the wheel drawn to its edge → nothing. Blank held.]
+
+### CH.11 — THE INSTRUMENT: NOT A MAP OF THE SOLAR SYSTEM (the unsaid)
 > Owner thesis (2026-10-21): "are these literally maps of the cosmos
 > basically where awareness is the ground truth and instead of navigating
 > external planes you are going internal and the body is the doorway to the
@@ -243,36 +413,52 @@ proves-Buddhism cheap shots are refuted by the parting: the canon claims
 cessation, Wheeler claims participation, and that difference is the
 film's last cut — not waved away.]
 
-### CH.9 — THE SHARED WORLDVIEW (the agreement table)
-Internal agreement table (structure seed — expand into table): (1) engine =
-kamma, never creator (all schools) · (2) address = dependent-arising, not
-substance (Madhyamaka makes this explicit, Abhidhamma implies it in tables)
-· (3) hub = the human realm (only plane that can practice; all maps agree)
-· (4) time = deteriorating cycles (DN 26 + kaliyuga-adjacent echoes) ·
-(5) the exit disagreements: map-study vs poison-work vs vow-transport vs
-seeing-through. What they share even when they contradict: NOBODY IS IN
-CHARGE.
+### CH.12 — THE QUIET PART: THE FOUNDATIONS NOBODY ARGUES (the agreement table, paid off)
+> Owner (2026-10-21): "i think the really interesting part is the queit
+> part that all these cosmologies assume" — the CH.2 cards dealt face-
+> down get turned here.
 
-### CH.10 — GUARD + CLOSE
+The quiet assumptions — shared by ALL the maps in this tradition (and
+listed for the wing later, no cross-film reference now):
+1. **Nobody is in charge.** Engine = kamma, never a maker [B1]. Even the
+   "creator" is a victim of his own story [CH.5].
+2. **No traveler, but continuity.** The stream continues without a self
+   — the hardest floor: neither soul nor annihilation.
+3. **The human realm is the hub.** Every map agrees: practice happens
+   from here; the other rooms are weather.
+4. **The map is made from inside.** Instrument, not survey [CH.11] —
+   there is no observation platform outside the system the map describes.
+5. **Time is structured, not a line.** Cycles: deterioration and recovery
+   [CH.6, DN 26], eons, seasons of doctrine — against the Western
+   assumption of linear progress toward an end. AND the deepest quiet
+   part (owner's candidate, verdict in owner register at review): the
+   maps assume **awareness is the ground the map is drawn on** — the
+   sensor manual can't be written in the sensor's own units. All five
+   hold even when the traditions contradict on everything else:
+   that's the real answer to "which cosmology is right" — they were never
+   arguing the floor.
+
+### CH.13 — GUARD + CLOSE
 Guard: one more time — the map is not the claim; the chain is. This film's
 own close-line: "the realm you're in is the one your actions are building."
-Close: the agreement table (CH.9) holds — five maps, one engine, nobody in
+Close: the quiet part (CH.12) holds — five floors, one engine, nobody in
 charge — so the question was never "which cosmology is right" but "what
 kind of thing are you assuming a realm is before you ask." [DIR: table →
 wheel → blank white.]
 
 ## What's banked (this session, FoJin-verified — see WEAVE.md + SCHOLARSHIP.md)
-B1–B9 primary passages with URNs/text_ids + Pali/English verbatim from
-read_passage this session; CH.8's three legs: DN 4 formula (tid 233) +
-Toh 10 divine eye (tid 5164) + Berzin Kālacakra body-measures / clear-
-light-mind (fetched) + Wheeler it-from-bit (fetched from paper PDF).
-NOTHING quoted from memory.
+B1–B12 primary passages with URNs/text_ids + Pali/English verbatim from
+read_passage; CH.11's legs: DN 4 formula (tid 233) + Toh 10 divine eye
+(tid 5164) + Berzin Kālacakra measures / clear-light (fetched) + Wheeler
+it-from-bit (fetched from paper PDF). CH.2/CH.7/CH.9/CH.10 scholarship
+quotes (Lion's Roar, Tricycle/Ray, BPS, Gethin, Huang Po, Imphong) —
+marked fetched-excerpt in SCHOLARSHIP.md. NOTHING quoted from memory.
 
 ## What's NOT here yet
-- Owner: cold-open words + verdict phrasing for CH.7 (the "are they all
-  mental" answer in OWNER REGISTER — agent drafts marked DRAFT only)
-- Vism 31-plane extracts (in-house PDF → extract at draft)
-- Pure Land vow lines (in-house PDF → extract at draft)
-- Asura-realm analysis (the school-disagreement: is asura a realm or a
-  tribe? — ACQUIRE)
+- Owner: verdict phrasing for CH.9/CH.10 (owner register — agent drafts
+  marked DRAFT only) + the CH.12 quiet-part final line
+- ACQUIRE runs: Vism 31-plane extract · Pure Land vow lines · Dyczkowski
+  deity-body line · Analayo "Denial of Rebirth" + "Destiny of an Awakened
+  One" extracts · akālika formula via FoJin · Huang Po exact line + T2012
+  cite · Ñāṇavīra between-lives claim verify · witness clips (see ACQUIRE)
 - Storyboard + MOVIE (after essay pass)

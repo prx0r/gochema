@@ -17,7 +17,7 @@ bhavanti."
 — "Beings are owners of their actions, heirs of their actions, born of
 their actions, bound by their actions, have their actions as their refuge;
 whatever action they do, good or bad, they become heirs of it."
-— SLOT: CH.3 engine paragraph · THE line for "cosmology with a different
+— SLOT: CH.4 engine paragraph · THE line for "cosmology with a different
 engine". Scored companion: the crooked-gati passage continues "jimhā gati,
 jimhupapatti" (crooked destination, crooked rebirth) → animal realm = snake,
 scorpion, centipede, mongoose, cat, rat, owl (the animal list is in-text).
@@ -31,7 +31,7 @@ who lived twenty thousand years were men of ten thousand years."
 — (SC translation, verified same session: "lifespan has fallen to ten
 years. Among the humans who live for ten years, girls will be marriageable
 at five.")
-— SLOT: CH.5 — the world deteriorates on a schedule: poverty → theft →
+— SLOT: CH.6 — the world deteriorates on a schedule: poverty → theft →
 weapons → killing → lying → slander → sexual misconduct → lifespan halves,
 generation by generation (the full causal ladder is verbatim in the text
 above). NOTE: this is MORAL arithmetic, not apocalypse-porn — keep the
@@ -48,7 +48,7 @@ tattha ekakassa dīgharattaṁ nivusitattā anabhirati paritassanā uppajjati:
 — "There he is mind-made, fed on rapture, self-luminous, wandering in
 midair… After dwelling there alone for a long time, dissatisfaction and
 longing arise: 'Oh, if only other beings would come to this state.'"
-— SLOT: CH.4 beat 1 — mind-made + fed on rapture + LONELINESS creates the
+— SLOT: CH.5 beat 1 — mind-made + fed on rapture + LONELINESS creates the
 population.
 
 **[B4] DN 1 — the proclamation (pi, tid 230)** —
@@ -63,7 +63,7 @@ controller, the father of all that are and are to be. These beings were
 made by me. And why? Because once I thought: 'Oh, if only other beings
 would come to this state.' And so, by MY MIND-PREFERENCE, these beings
 came to this state."
-— SLOT: CH.4 money quote. The trap IN THE TEXT: "Mayā ime sattā nimmitā"
+— SLOT: CH.5 money quote. The trap IN THE TEXT: "Mayā ime sattā nimmitā"
 (they were MADE BY ME) followed one sentence later by "mama manopaṇidhi"
 (BY MY MIND-WISH). He concludes creator from mind-wish. And the latecomers
 believe him: "ayaṁ kho bhavaṁ brahmā… iminā mayaṁ bhotā brahmunā nimmitā."
@@ -74,7 +74,7 @@ believe him: "ayaṁ kho bhavaṁ brahmā… iminā mayaṁ bhotā brahmunā nim
 mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati…"
 — "And what, young man, is the path to Brahmā's company? There the
 monk abides pervading one quarter with a mind of loving-kindness…"
-— SLOT: CH.4 button — the heaven is an ADDRESS REACHABLE BY METHOD
+— SLOT: CH.5 button — the heaven is an ADDRESS REACHABLE BY METHOD
 (mettā = the road to the brahma-world). Cosmology-as-practice: same world,
 entered by training. Guards against "the Buddhists didn't believe their
 own maps" overcorrection.
@@ -94,7 +94,7 @@ Tato naṁ sukhamanveti, chāyāva anapāyinī."
 speaks or acts with a corrupted mind, suffering follows that one as the
 wheel follows the foot of the draught-ox. If one speaks or acts with a
 clear mind, happiness follows that one as a shadow that never departs."
-— SLOT: CH.7 mental-reading pillar 1 — "manomayā" (MADE OF MIND) is the
+— SLOT: CH.9 mental-reading pillar 1 — "manomayā" (MADE OF MIND) is the
 line every psychology-of-religion anthology quotes. Pair it against [B1]
 in the same breath: the canon contains BOTH.
 
@@ -109,7 +109,7 @@ the origin of the world? With the eye and forms as condition there arises
 eye-consciousness; the meeting of the three is contact; with contact as
 condition, feeling; with feeling as condition, craving…" (chain continues
 to aging-and-death)
-— SLOT: CH.2 — the Buddha's OWN usage of "world" (loka) = the sense-field
+— SLOT: CH.3 — the Buddha's OWN usage of "world" (loka) = the sense-field
 chain. Minimalism: no Sumeru needed for liberation. Companion: SN 12.44
 (tid 744) = same formula for householders.
 
@@ -122,7 +122,7 @@ arise from many causes and conditions, the wise thus understand the three
 realms to be nonrealms."
 — (preceding, in-text): "There is no desire realm in the desire realm…
 The absence of realms is indicated and articulated by using realms."
-— SLOT: CH.7 pillar 3 — the deconstructive cut, from the KANGYUR itself
+— SLOT: CH.9 pillar 3 — the deconstructive cut, from the KANGYUR itself
 (not a modern philosopher): realms = vocabulary-without-inherent-existence,
 "shown" the way you'd show emptiness. THE answer to "are they all mental?"
 : the wise "do not observe" them — but the untaught are shown them BY
@@ -131,7 +131,7 @@ realms.
 **[B9] Dhp 167–178 — bubble and mirage (en, sc/dhp167-178.1)** —
 "Look upon the world as a bubble or a mirage, then the King of Death
 won't see you."
-— SLOT: CH.7 closing beat — the seeing-instruction itself.
+— SLOT: CH.9 closing beat — the seeing-instruction itself.
 
 ---
 
@@ -143,7 +143,7 @@ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
 — "This world with its gods, its Māras, its Brahmās, this generation with
 its recluses and brahmins, its gods and humans — having realized it with
 HIS OWN KNOWLEDGE, he declares it."
-— SLOT: CH.8 beat 1 money quote — lokavidū ("knower of the world") is the
+— SLOT: CH.11 beat 1 money quote — lokavidū ("knower of the world") is the
 title; the construction method is `sayaṁ abhiññā` (own-direct-knowledge),
 not survey. The formula appears in the sutta's OWN mouth twice (DN 4 —
 verified this session at both occurrences).
@@ -153,7 +153,7 @@ verified this session at both occurrences).
 beings, and they know beings that are dying and being born; are beautiful,
 ugly, vile, or exemplary; are in a good form of life and in a terrible
 form of life — exactly in accord with the action."
-— SLOT: CH.8 beat 1 — the finer sensor, in the tradition's own equipment
+— SLOT: CH.11 beat 1 — the finer sensor, in the tradition's own equipment
 list. Pairs with Wheeler (SCHOLARSHIP, S3): both name an instrument as
 prior to the result.
 
@@ -166,20 +166,19 @@ taught the Dhamma."
 — Cite: Visuddhimagga, Ch. XII (Supernormal Powers), §§71, 80 — in-house
 `library/theravada/visuddhimagga-path-of-purification.pdf` (extracted this
 session, lines 22750 / 22860 of pdftotext).
-— SLOT: CH.8 beat 1 visual — the map is OPENED FROM HERE (the fan
+— SLOT: CH.11 beat 1 visual — the map is OPENED FROM HERE (the fan
 opening = the cheapest, truest money-shot idea in the film).
 
 ---
 
 ## Pairs that make the film's argument (do not split)
 
-- **[B1] + [B6]**: same canon, deed-womb AND mind-made. Not a
+- **[B1] + [B6]**: same canon, deed-womb AND mind-made (CH.9's crux). Not a
   contradiction to hide — the whole film is that tension held open.
 - **[B4] then [B5]**: the creator's delusion, then the method-road to his
   seat. Delusion AND addressability in one chapter.
-- **[B7] then [B8]**: sutta-minimalism ("world" = contact chain) →
-  Mahāyāna/Kangyur deconstruction ("nonrealms"). Same move, 500 years
-  apart.
+- **[B7] then [B8]**: sutta-minimalism (CH.3) → Mahāyāna/Kangyur
+  deconstruction (CH.9). Same move, 500 years apart.
 
 ## Not banked yet (ACQUIRE carries these)
 - Pure Land: exact Larger-Sutra vow line (in-house PDF, extract at draft)

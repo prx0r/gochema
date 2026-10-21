@@ -83,7 +83,7 @@
 
 ---
 
-## THE INSTRUMENT LEG (CH.8 sources — science side, fetched 2026-10-21)
+## THE INSTRUMENT LEG (CH.11 sources — science side, fetched 2026-10-21)
 
 **[S3] Wheeler, J.A. — "Information, Physics, Quantum: The Search for
 Links" (1989/1990) — QUOTE FETCHED from the paper PDF (philpapers.org/
@@ -99,7 +99,7 @@ every particle, every field of force, even the spacetime continuum itself
 — derives its function, its meaning, its very existence entirely — even
 if in some contexts indirectly — from the apparatus-elicited answers to
 yes or no questions, binary choices, bits."
-— ROLE in CH.8 beat 3: science pushed to its floor arrives at INFORMATION
+— ROLE in CH.11 beat 3: science pushed to its floor arrives at INFORMATION
 (an answer to a question) as the most granular thing — and answers require
 the asking. The instrument is inside the result. Owner's "that's the most
 granular you can get" = Wheeler's own claim.
@@ -125,7 +125,7 @@ QUOTES FETCHED (studybuddhism.com Abhidharma-vs-Kalachakra + shambhala.com
   the collective karma on the clear light minds of prior beings."
 - Not-for-navigation (studybuddhism): "neither was formulated for the
   sake of navigation."
-— ROLE: CH.8 beat 2 is the tradition saying "awareness is the ground
+— ROLE: CH.11 beat 2 is the tradition saying "awareness is the ground
 truth, body is the doorway" IN ITS OWN WORDS with numbers attached.
 
 **[S5] Gethin two-angle line (fetched via Enc. of Buddhism) — the
@@ -135,14 +135,89 @@ other psychological."**
 
 ---
 
+## THE INTRO/READINGS LEG (CH.2 · CH.7 · CH.9 · CH.10 — fetched excerpts 2026-10-21)
+> Provenance note: these quotes came back in web-search result excerpts
+> (verbatim from the source pages/PDFs, URLs cited). Verify against the
+> full page/PDF at draft before READ-aloud (compiler law: re-check every
+> quote at draft).
+
+**[S9] Lion's Roar — "Making Sense of Buddhism's Six Realms" (2026, fetched):**
+- The sobering definition (CH.2 beat A): "samsara is not where we exist —
+  it's how we exist. Samsara isn't a location on any cosmic map. It's a
+  state of delusion. And if samsara is how rather than where, then the six
+  realms aren't destinations either. They're modes of experiencing."
+- The two-camps frame (CH.2 beat C): "Most of us respond in one of two
+  ways. We either accept a watered-down interpretation — treating the
+  realms as mere metaphors for psychological states — or we politely set
+  aside these teachings as cultural artifacts… Both approaches let us
+  continue practicing without cognitive dissonance."
+- The mode cadence (CH.7 beat A): "Moment by moment, we move from the
+  bliss of the god realms to the anger of the hell realms to the stupidity
+  of the animal realm."
+- Genre note: modern dharma journalism — VOICE = witness, not primary.
+
+**[S10] Tricycle — Monty McKeever, "The Six Realms, Reincarnation, and
+Confusing Your Friends" (2010, fetched):**
+- "While many people believe the six realms to be literal and absolutely
+  real, there are others that view them as strictly symbolic… reincarnation
+  is something that takes place many times within a single lifetime."
+- THE FRACTAL RESOLUTION (CH.7 beat B, via Reggie Ray quoted in-article):
+  "Like a fractal pattern that is the same (or similar) from near, as it
+  is from far." — the one-sentence answer to "ghost after death OR
+  ghost-mode now?" → both, one process at two magnitudes.
+- "gods exist, they're just imperfect, confused, and eventually die just
+  like the rest of us" (CH.7 beat C — devas on the clock).
+
+**[S11] BPS — Matt Furnell, "The six realms of the mind" (The Psychologist,
+2025, fetched):**
+- Mode-reading frame: "Rather than viewing the thangka painting as a
+  literal depiction of reincarnation, we can instead see it as a map of
+  our ever-changing mental states."
+- God-realm as state (CH.7 beat C): "a blissful, ethereal state in which
+  one is supremely contented but oblivious to the suffering of others."
+
+**[S12] Gethin — *The Foundations of Buddhism* (fetched from the PDF):
+THE equivalence principle (CH.7 beat A's scholarly spine):**
+"The key to understanding the Buddhist cosmological scheme lies in the
+principle of the equivalence of cosmology and psychology… a rather precise
+correlation exists here: dominated by greed one becomes a hungry ghost…
+dominated by hatred one enters one of the hell realms… dominated by
+ignorance one becomes an animal ruled by the instincts."
+- Also banked in this fetch: "nirvāṇa may be obtained from any of the
+  realms from the human to the highest of the Pure Abodes and the four
+  formless realms" — i.e. the formless realms are STILL samsāric
+  addresses (CH.10 beat A's evidence: the top of the tower isn't the exit).
+
+**[S13] Huang Po — Ch'uan-hsin fa-yao (Essentials of Mind Transmission),
+Blofeld trans., fetched via Grove Atlantic + terebess + Dharmapedia
+excerpts (CH.9's ZEN FOURTH):**
+"All the Buddhas and all sentient beings are nothing but the One Mind,
+beside which nothing exists… The One Mind alone is the Buddha, and there
+is no distinction between the Buddha and sentient beings."
+- Full PDF in house: archive.org "Zen-Teaching-Of-Huang-Po" + zhenhost
+  mirror (ACQUIRE: extract + verify Taishō T2012 cite at draft).
+
+**[S14] just-buddha.org — "The Six Realms in Buddhism" (2025, fetched)
+— the CH.7 guard against personality-quiz flattening:**
+The six "do not replace its account of rebirth or divide living people
+into six spiritual personality types." + count note: "MN 12 lists five
+destinations… Asuras are not a separate destination in that list"
+(= BBC same, fetched — five-vs-six confirmed from a second angle).
+
+**[S15] Imphong (2023), *J. Education & Learning* — free at ERIC
+(fetched excerpt) — CH.2 beat B:**
+the magisteria argument in a Buddhist scholar's words: Buddhism's
+magisterium is "focused on human goals, meaning, and value," science's
+"the empirical world" — "they cannot be naturally compared."
+
 ## THE ESSAYS (the actual scholarship shelf)
 
 ### Tier 1 — directly the film's thesis (ACQUIRE full texts)
 | Essay | Why |
 |---|---|
-| **Gethin, "Cosmology and Meditation: From the Agganna-Sutta to the Mahayana," *History of Religions* 36 (1997): 183–217** | THE essay: how cosmology and practice co-evolve — the exact CH.4/CH.5 bridge (Brahmā-world = jhāna-attainable address). Cited across the field. |
-| **Hamilton, Sue, "The 'External World': Its Status and Relevance in the Pali Nikayas," *Religion* 29 (1999): 73–90** | The sutta-level "is the world out there at all?" question — underwrites CH.2 (world = sense-fields) |
-| **Burley, Mikel, "Conundrums of Buddhist Cosmology and Psychology," *Numen* 64(4) (2017): 343–370** | Title = owner's crux. The literal-vs-psychological conundrum argued in the scholarly register — CH.7's interlocutor |
+| **Gethin, "Cosmology and Meditation: From the Agganna-Sutta to the Mahayana," *History of Religions* 36 (1997): 183–217** | THE essay: how cosmology and practice co-evolve — the exact CH.5/CH.6 bridge (Brahmā-world = jhāna-attainable address). Cited across the field. |
+| **Hamilton, Sue, "The 'External World': Its Status and Relevance in the Pali Nikayas," *Religion* 29 (1999): 73–90** | The sutta-level "is the world out there at all?" question — underwrites CH.3 (world = sense-fields) |
+| **Burley, Mikel, "Conundrums of Buddhist Cosmology and Psychology," *Numen* 64(4) (2017): 343–370** | Title = owner's crux. The literal-vs-psychological conundrum argued in the scholarly register — CH.9's interlocutor |
 | **Reynolds/F. & M.B., "The Buddhist Cosmos: Paradise Lost, Gained, and Transcended — Three Worlds According to King Ruang, a Thai Buddhist Cosmology," *History of Religions* 24(1) (1984)** (Tambiah review) | The THAI side: Traibhūmikatha as its own cosmological system — proves "Thai" ≠ one map either |
 | **Sadakata, Akira — *Buddhist Cosmology: Philosophy and Origins*** | **FULL FREE PDF:** archive.org (ia902908… Sadakata). Abhidharma vs Mahāyāna two-stream thesis, hell history, Indian origins. Read next |
 
@@ -151,14 +226,14 @@ other psychological."**
   Literature," *History of Religions* 63(4) (2024): 327–348** — newest
   scholarly take on how the Theravāda map was built over centuries
 - **Sharf, Robert, "The Looping Structure of Buddhist Thought" (2021)**
-  — the realist/antirealist loop in Buddhist debates (CH.7 guard's
+  — the realist/antirealist loop in Buddhist debates (CH.9 guard's
   scholarly ally); also his "Buddhist Modernism and the Rhetoric of
   Meditative Experience" (1995) for the modernism guard
 - **Qi, Guanxiong, "On the Concept of 'Lokāntarikā'," *JIBS* 15(1)
   (2024): 1–18** — the space-between-worlds concept (transfer mechanics)
 - **Kotyk, Jeffrey — "Abhidharmakośa as a Reflection of Earlier Āgama and
   Nikāya Buddhism" (2022, UBC PDF free)** — argues the big map was
-  INHERITED from the suttas (supports CH.2→CH.3 continuity)
+  INHERITED from the suttas (supports CH.3→CH.4 continuity)
 - **Encyclopedia of Buddhism** (encyclopediaofbuddhism.org) — free,
   Gethin-quoted; source of quotes 1–4 above
 - **Oxford Research Encyclopedia of Religion — "Buddhist Cosmology"
@@ -183,9 +258,9 @@ other psychological."**
 ## What this changes in STRUCTURE
 - CH.1 cold-open now carries the scholarly count (31 vs 32/33) + three-
   cosmologies-in-Tibet — banked.
-- CH.7 gains its interlocutor: Burley 2017 (conundrum) + Gethin 1997 for
-  the meditation-cosmology bridge in CH.4/5.
-- CH.8's "no one is in charge" now has the purpose-relativity line
+- CH.9 gains its interlocutor: Burley 2017 (conundrum) + Gethin 1997 for
+  the meditation-cosmology bridge in CH.5/6.
+- CH.12's "no one is in charge" now has the purpose-relativity line
   (Berzin) as its steelman opponent — the guard writes itself: purpose-
   relative is the SMART literalism, and Toh174 still cuts under it.
 - ACQUIRE asura item: PARTIALLY RESOLVED (five-vs-six, Samye) — still
