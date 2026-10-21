@@ -135,6 +135,42 @@ won't see you."
 
 ---
 
+## THE INSTRUMENT (CH.8 — how the map is made)
+
+**[B10] DN 4 Soṇadaṇḍa — the map is declared from knowledge (pi, tid 233)** —
+"So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ
+pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti."
+— "This world with its gods, its Māras, its Brahmās, this generation with
+its recluses and brahmins, its gods and humans — having realized it with
+HIS OWN KNOWLEDGE, he declares it."
+— SLOT: CH.8 beat 1 money quote — lokavidū ("knower of the world") is the
+title; the construction method is `sayaṁ abhiññā` (own-direct-knowledge),
+not survey. The formula appears in the sutta's OWN mouth twice (DN 4 —
+verified this session at both occurrences).
+
+**[B11] Kangyur Toh 10 — the divine eye, named equipment (en, tid 5164)** —
+"With their purified divine eye that far surpasses the human, they see
+beings, and they know beings that are dying and being born; are beautiful,
+ugly, vile, or exemplary; are in a good form of life and in a terrible
+form of life — exactly in accord with the action."
+— SLOT: CH.8 beat 1 — the finer sensor, in the tradition's own equipment
+list. Pairs with Wheeler (SCHOLARSHIP, S3): both name an instrument as
+prior to the result.
+
+**[B12] Vism XII — openings, not roads (in-house BPS Ñāṇamoli PDF)** —
+"he split the earth in two and showed Avīci, and he parted the sky in two
+and showed the Brahmā-world." · elder Dhammadinna "turned his fan face
+upwards and an opening right up to the Brahmā-world appeared. Having
+thus aroused fear of hell and longing for the bliss of heaven, the elder
+taught the Dhamma."
+— Cite: Visuddhimagga, Ch. XII (Supernormal Powers), §§71, 80 — in-house
+`library/theravada/visuddhimagga-path-of-purification.pdf` (extracted this
+session, lines 22750 / 22860 of pdftotext).
+— SLOT: CH.8 beat 1 visual — the map is OPENED FROM HERE (the fan
+opening = the cheapest, truest money-shot idea in the film).
+
+---
+
 ## Pairs that make the film's argument (do not split)
 
 - **[B1] + [B6]**: same canon, deed-womb AND mind-made. Not a

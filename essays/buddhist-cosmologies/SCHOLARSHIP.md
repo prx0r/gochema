@@ -83,6 +83,58 @@
 
 ---
 
+## THE INSTRUMENT LEG (CH.8 sources — science side, fetched 2026-10-21)
+
+**[S3] Wheeler, J.A. — "Information, Physics, Quantum: The Search for
+Links" (1989/1990) — QUOTE FETCHED from the paper PDF (philpapers.org/
+archive/WHEIPQ.pdf):**
+"No element in the description of physics shows itself as closer to
+primordial than the elementary quantum phenomenon, that is, the
+elementary device-intermediated act of posing a yes-no physical question
+and eliciting an answer … Otherwise stated, every physical quantity,
+every it, derives its ultimate significance from bits, binary yes-or-no
+indications, a conclusion which we epitomize in the phrase, it from bit."
+— Fuller formulation (widely reprinted, Wheeler & Ford): "every it —
+every particle, every field of force, even the spacetime continuum itself
+— derives its function, its meaning, its very existence entirely — even
+if in some contexts indirectly — from the apparatus-elicited answers to
+yes or no questions, binary choices, bits."
+— ROLE in CH.8 beat 3: science pushed to its floor arrives at INFORMATION
+(an answer to a question) as the most granular thing — and answers require
+the asking. The instrument is inside the result. Owner's "that's the most
+granular you can get" = Wheeler's own claim.
+— Guard note: Wheeler = participatory physicalism, NOT Buddhism. The
+parting (beat 4): canon claims liberation-from-the-sensorium, Wheeler
+claims participation-in-it. Don't fuse them.
+
+**[S4] Berzin, Alexander — Kālacakra body-measures + clear-light ground —
+QUOTES FETCHED (studybuddhism.com Abhidharma-vs-Kalachakra + shambhala.com
+"Shape of the Universe"):**
+- Body-isomorphism: "From the bottom of the wind mandala to the peak of
+  Mount Meru is 400,000 yojanas. This parallels the measurement from the
+  bottom of the feet to the top of the head being four cubits… Mount Meru
+  being 100,000 yojanas parallels … the spine being one cubit. The neck of
+  Mount Meru being 25,000 yojanas parallels the neck of the human body."
+- Same-shape summary (Shambhala): "the proportions and shape of the
+  universe, human body, and the mandala and body of the Buddha-figure
+  Kalachakra are all the same."
+- Ground (Shambhala): "A description of the external and internal worlds
+  in terms of their unifying parallels reveals the shared underlying basis
+  from which both derive, namely, clear light mind. The winds of karma
+  that provide the impulses for a particular universe to evolve come from
+  the collective karma on the clear light minds of prior beings."
+- Not-for-navigation (studybuddhism): "neither was formulated for the
+  sake of navigation."
+— ROLE: CH.8 beat 2 is the tradition saying "awareness is the ground
+truth, body is the doorway" IN ITS OWN WORDS with numbers attached.
+
+**[S5] Gethin two-angle line (fetched via Enc. of Buddhism) — the
+scholarly frame for beat 4's synthesis: "Buddhist thought approaches the
+analysis of duḥkha from two different angles, one cosmological and the
+other psychological."**
+
+---
+
 ## THE ESSAYS (the actual scholarship shelf)
 
 ### Tier 1 — directly the film's thesis (ACQUIRE full texts)

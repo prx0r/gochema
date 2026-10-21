@@ -122,7 +122,90 @@ psychology" — then AN 10.216's birth-language loses its meaning) and
 naive literalism ("solid heavens" — then the Buddha's own minimalism and
 Toh174's nonrealms are ignored).]
 
-### CH.8 — THE SHARED WORLDVIEW (the agreement table)
+### CH.8 — THE INSTRUMENT: NOT A MAP OF THE SOLAR SYSTEM (the unsaid)
+> Owner thesis (2026-10-21): "are these literally maps of the cosmos
+> basically where awareness is the ground truth and instead of navigating
+> external planes you are going internal and the body is the doorway to the
+> universe… it's not like a map of the solar system… science is basically
+> exploring the external world with sensors yet they will always find
+> something that looks like information because thats the most granular you
+> can get its the minimal unit, in order to go beyond that you need a finer
+> sensor which is consciousness itself." — treated here as the film's
+> interpretive key; every leg below carries a fetched source.
+
+**Beat 1 — the tradition says the map is made of knowledge, not survey.**
+The Buddha's title isn't "world-cartographer" — it's lokavidū, KNOWER of
+the world. And the construction method is stated in the formula [READ —
+DN 4, FoJin tid 233, banked Pali]: "So imaṁ lokaṁ sadevakaṁ samārakaṁ
+sabrahmakaṁ … sayaṁ abhiññā sacchikatvā pavedeti" — "this world with its
+gods, its Māras, its Brahmās … having realized it with his OWN KNOWLEDGE,
+he declares it." The instrument is named too [READ — Toh 10, FoJin tid
+5164, banked]: "With their purified divine eye that far surpasses the
+human, they see beings that are dying and being born … exactly in accord
+with the action." Survey needs roads; this needs a finer sensor — and the
+canon says so in its own equipment list. Local material for the visual
+beat [Vism XII, in-house PDF]: the Buddha "split the earth in two and
+showed Avīci, and he parted the sky in two and showed the Brahmā-world" —
+and the elder Dhammadinna "turned his fan face upwards and an opening
+right up to the Brahmā-world appeared." The map is OPENED FROM HERE, not
+traveled to.
+
+**Beat 2 — body as doorway: the measured universe IS the measured body
+(Kālacakra, the most literal version anyone wrote).** [SCHOLARSHIP —
+Berzin, StudyBuddhism, fetched]: Kālacakra maps every measurement onto the
+human frame — "From the bottom of the wind mandala to the peak of Mount
+Meru is 400,000 yojanas. This parallels the measurement from the bottom of
+the feet to the top of the head being four cubits… Mount Meru being
+100,000 yojanas parallels … the spine being one cubit. The neck of Mount
+Meru … parallels the neck of the human body." Not metaphor-by-mood: the
+same numbers. And the stated ground beneath BOTH maps [SCHOLARSHIP —
+Berzin via Shambhala, fetched]: "A description of the external and internal
+worlds in terms of their unifying parallels reveals the shared underlying
+basis from which both derive, namely, clear light mind. The winds of karma
+that provide the impulses for a particular universe to evolve come from
+the collective karma on the clear light minds of prior beings." — the
+tradition's own "awareness is the ground truth" sentence. Sutta-side
+version already banked: the brahma-world is reached by a METHOD — mettā
+[B5, MN 99]: the address was never spatial, it was always a state you can
+enter. "The body is the doorway" is not a modern gloss; Kālacakra says
+the universe and the body have literally the same measures and the same
+basis (Berzin: "the proportions and shape of the universe, human body,
+and the mandala … are all the same" — fetched).
+
+**Beat 3 — the science mirror: every sensor bottoms out at information.**
+[SCIENCE, banked — Wheeler, "Information, physics, quantum: the search
+for links," 1989/1990, fetched from the paper PDF]: "No element in the
+description of physics shows itself as closer to primordial than the
+elementary quantum phenomenon, that is, the elementary device-
+intermediated act of posing a yes-no physical question and eliciting an
+answer … Otherwise stated, every physical quantity, every it, derives its
+ultimate significance from bits, binary yes-or-no indications, a
+conclusion which we epitomize in the phrase, it from bit." Science, pushed
+to its own floor, arrives at: the most granular thing is an ANSWER —
+information — and answers require an asking. The instrument is inside the
+result. That is precisely where the owner's argument lands: to go past the
+information floor you don't need a bigger sensor, you need a finer one —
+and every contemplative tradition claims to be running one.
+
+**Beat 4 — the synthesis AND the difference (the honest cut).**
+Both systems hit the same wall — the measuring is prior to the measured —
+and they part ways on what it means: Wheeler stays physicalist
+("information-theoretic in origin … a participatory universe"), the canon
+makes the ground not information but liberation-from-the-whole-sensorium
+(SN 35.107 [B7]: even "the world" is the six fields and their chain). So
+the verdict on "are these maps of the cosmos?": NOT in the solar-system
+sense — [SCHOLARSHIP — Berzin, fetched] "neither was formulated for the
+sake of navigation." They are maps of where consciousness lands, what it
+builds, and what opens when the instrument is refined — WHICH IS WHY the
+same tradition can hold 31 planes, nonrealms, and body-measures without
+flinching: three readings of one instrument manual. [GUARD: two prices
+paid out loud — (a) mysticism-flattening ("it's all just the mind") is
+refuted by B1: the deed-womb produces BIRTHS, not moods; (b) science-
+proves-Buddhism cheap shots are refuted by the parting: the canon claims
+cessation, Wheeler claims participation, and that difference is the
+film's last cut — not waved away.]
+
+### CH.9 — THE SHARED WORLDVIEW (the agreement table)
 Internal agreement table (structure seed — expand into table): (1) engine =
 kamma, never creator (all schools) · (2) address = dependent-arising, not
 substance (Madhyamaka makes this explicit, Abhidhamma implies it in tables)
@@ -132,17 +215,20 @@ substance (Madhyamaka makes this explicit, Abhidhamma implies it in tables)
 seeing-through. What they share even when they contradict: NOBODY IS IN
 CHARGE.
 
-### CH.9 — GUARD + CLOSE
+### CH.10 — GUARD + CLOSE
 Guard: one more time — the map is not the claim; the chain is. This film's
 own close-line: "the realm you're in is the one your actions are building."
-Close: the agreement table (CH.8) holds — five maps, one engine, nobody in
+Close: the agreement table (CH.9) holds — five maps, one engine, nobody in
 charge — so the question was never "which cosmology is right" but "what
 kind of thing are you assuming a realm is before you ask." [DIR: table →
 wheel → blank white.]
 
-## What's banked (this session, FoJin-verified — see WEAVE.md)
-B1–B7 primary passages with URNs/text_ids + Pali/English verbatim from
-read_passage this session. NOTHING quoted from memory.
+## What's banked (this session, FoJin-verified — see WEAVE.md + SCHOLARSHIP.md)
+B1–B9 primary passages with URNs/text_ids + Pali/English verbatim from
+read_passage this session; CH.8's three legs: DN 4 formula (tid 233) +
+Toh 10 divine eye (tid 5164) + Berzin Kālacakra body-measures / clear-
+light-mind (fetched) + Wheeler it-from-bit (fetched from paper PDF).
+NOTHING quoted from memory.
 
 ## What's NOT here yet
 - Owner: cold-open words + verdict phrasing for CH.7 (the "are they all
