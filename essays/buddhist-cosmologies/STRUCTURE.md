@@ -182,6 +182,16 @@ So the film's own order IS the history: refusal (this chapter) →
 systematization (CH.4) → its competitors (CH.6–CH.9) → what kind of map
 it ever was (CH.10).
 
+**Frontier line (banked in SCHOLARSHIP — "THE FRONTIER ARGUMENTS"):**
+each row of the table above still has a LIVE voice in the fight —
+Bodhi ("reduce the Dhamma to tatters") vs Buddhadasa ("I do not deny that
+it exists") · the Dalai Lama ("Buddhism must abandon many aspects of the
+Abhidharma cosmology" vs. "did Vasubandhu even believe his own map?") ·
+Madhyamaka's samsāra=nirvāṇa dissolve · Yogācāra's idealism-debate ·
+Pure Land's other-direction vs mind-only (CH.7's fight inside CH.8's
+tradition). One beat of CH.9 can carry the strongest of these as the
+"modern" voice in the four-readings stack.
+
 ### CH.4 — THE 31 PLANES (the big map)
 Abhidhamma/Visuddhimagga expansion: kāma/rūpa/arūpa, 11+16+4 = 31, every
 plane a psychophysical address produced by kamma. [ACQUIRE: Vism chapter

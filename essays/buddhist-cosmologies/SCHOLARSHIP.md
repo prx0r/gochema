@@ -242,6 +242,101 @@ and Nikāya Buddhism" (UBC, 2022 — free PDF, fetched excerpts):**
   Thanissaro via Gutenberg) — for the B13 translation choice at draft;
   Pali is the bank.
 
+## THE FRONTIER ARGUMENTS — cosmology's live fights, per tradition (websearched 2026-10-21)
+> Provenance: verbatim excerpts from result pages (URLs implied by titles
+> below); re-check at draft before READ-aloud. These are the CURRENT
+> scholarly/live debates — CH.9's scholarly mirror + CH.3 Beat D's
+> "modern live fight" rows in one place.
+
+### Theravāda — Buddhadasa vs Bhikkhu Bodhi (the headline fight)
+- **McMahan's frame** (via Seeger/Suan Mokkh, fetched): Buddhist modernism
+  = "detraditionalization, demythologization and psychologization" —
+  Buddhadasa is its Thai flagship; King Mongkut (Rama IV) preceded him
+  (skeptic on heaven/hell/future states — also in Analayo fn.4, in-house).
+- **Buddhadasa's own careful position** (fetched, Seeger quoting): "the
+  cycle of rebirth that consists of dying, being placed in a coffin, being
+  reborn again… is something I am not concerned with; **I do not touch
+  this kind of rebirth but I do not deny that it exists.**" — decline, not
+  denial.
+- **Bodhi's counter** (fetched): removing rebirth "would virtually reduce
+  the Dhamma to tatters"; the suttas "never hint that these terms are
+  meant symbolically" — they say rebirth occurs "with the breakup of the
+  body, after death," which "clearly implies they intend the idea of
+  rebirth to be taken quite literally."
+- SCHOLARLY VERDICT SHAPE: both sides claim the Pali; the fight is over
+  what "with the breakup of the body" is doing (index of truth vs. figure
+  of speech).
+
+### Tibetan — the Dalai Lama's two-step (the frontier's sharpest moment)
+- **Step one (fetched, Dalai Lama 2005:80 via JHI Blog/Sheehy):** "it is
+  hard to take the Abhidharma cosmology literally… even without recourse
+  to modern science, there is a sufficient range of contradictory models
+  for cosmology within Buddhist thought for one to question the literal
+  truth of any particular version. **My own view is that Buddhism must
+  abandon many aspects of the Abhidharma cosmology.**"
+- **Step two (fetched, Sheehy 2020 fn.):** elsewhere he "does not concede
+  that the Buddha was wrong about cosmology but rather shifts to question
+  **whether Vasubandhu actually believed in the Buddhist cosmology that
+  he presented**" (Dalai Lama 2005, 80) — did the systematizer mean it?
+- **Internal context (fetched, Sheehy):** three cosmologies coexist
+  (Abhidharma/Kālacakra/Dzogchen); Kālacakra = "syncretism of Vaibhāṣika
+  atomic theory, Sāṃkya… and Jaina and Purāṇic cosmographies"; the Meru-
+  question "was not raised in Tibet until the twentieth century"
+  (Gendun Chopel, via Lopez); Tibetan astronomers already knew spherical
+  planets from Kālacakra.
+- FRONTIER SHAPE: the tradition's own hierarchy publicly reweights its own
+  map while not conceding the source was wrong — CH.3 Beat D's "triple +
+  repair" row has a living voice.
+
+### Madhyamaka — the map is conventional truth; and samsāra = nirvāṇa
+- **Two truths** (fetched, SEP): Nāgārjuna — "only the transactional truth
+  is capable of being articulated in language"; conventional truth is
+  "a kind of screen… putative truths of quotidian life are actually
+  delusions that, if believed, prevent one from attaining… nirvana."
+  Cosmology is *usable furniture at the conventional level*, not a thesis
+  about reality.
+- **The radical edge** (fetched, Britannica): "If this world of constant
+  change is not real, neither can the serial transmigration be real, nor
+  its opposite, nirvana. Transmigration and nirvana being equally unreal,
+  they are one and the same." — the strongest frontier claim: no need to
+  choose between map-real and map-unreal, because the distinction
+  dissolves at the ultimate.
+- **The live technical fight** (fetched, SEP/IEP): Svātantrika vs
+  Prāsangika — is there a "true convention" (tathya-saṃvṛti) or does
+  sorting conventions collapse into "anything goes"? (The debate that
+  decides whether cosmology-talk can be *better or worse* even while
+  merely conventional.)
+
+### Yogācāra — mind-only: how idealist, exactly?
+- (fetched, SEP Yogācāra 2024) cittamātra/vijñaptimātra is "the hotly
+  debated doctrine" — "quite difficult to determine whether the doctrine
+  of 'mere consciousness' holds true at the ultimate level"; standardly
+  read as ontological OR epistemological idealism.
+- **The school's self-position** (fetched): the middle way between "the
+  'nihilistic' interpretation of emptiness attributed to Madhyamaka and
+  the Abhidharmic reification of phenomena" (Saṃdhinirmocana via SEP).
+- **Allies or rivals** (fetched, Garfield & Westerhoff 2015, OUP): Indian
+  and Tibetan doxographies treat Madhyamaka/Yogācāra as rivals; modern
+  scholarship keeps asking if they can be synthesized — CH.9's mind-made
+  reading vs deconstructive reading, institutionalized as a 21st-c.
+  research question.
+
+### Pure Land — other-direction vs mind-only (the mode/destination fight, internal)
+- (fetched, Wikipedia Sukhāvatī) Chinese Buddhism holds TWO views, "most
+  often combined": **other-direction Pure Land** (a realm far away from
+  ours) vs **mind-only Pure Land** ("non-dual with our world which only
+  appears impure due to our minds") — CH.7's whole fight, inside CH.8's
+  tradition.
+- Also contested: Sukhāvatī as sambhogakāya land (Shandao) vs nirmāṇakāya
+  (some Tibetans) (fetched).
+- **The text itself evolved** (fetched, Harrison 1998, J. Indian Phil.):
+  across recensions of the Larger Sutra, the "no women" stance moves from
+  "hard-line" to "ambiguous… with nymphs" — the geography is visibly
+  redacted over centuries (historical-critical frontier line).
+- Practice-side frontier: self-power vs other-power (Hōnen/Shinran;
+  "faith alone"; nembutsu as gratitude not transaction) (fetched, Britannica
+  + Buddhistdoor review).
+
 ## THE ESSAYS (the actual scholarship shelf)
 
 ### Tier 1 — directly the film's thesis (ACQUIRE full texts)
