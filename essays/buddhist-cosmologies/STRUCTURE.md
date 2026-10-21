@@ -377,6 +377,25 @@ namely when we die ourselves" + his pivot: "what remains of central
 importance is to learn to face mortality… rather than turning a blind eye
 to it."
 
+**Beat B2 — THE CASCADE (owner's charge, locked verbatim): "if tehy got
+that wrong why should we just rebirth views? could these also be
+outdated?"** The epistemic cascade at full strength: if the tradition's
+physics was physically wrong (S16: flat earth, sun around Sumeru), the
+tradition's testimony about anything unseen — rebirth included — inherits
+the discredit: same people, same texts, same confidence. Three responses
+banked, in order of strength: (i) **the domains answer** — the geography
+failed as OBSERVATION (Kotyk: no planets, era-limited), but the karmic-
+continuum was never an observation claim in the same sense (S15
+magisteria — Imphong); (ii) **the frame-kill** — see Beat E/N3: "outdated"
+applies to hypotheses; rebirth-as-claim isn't one; (iii) **the honest
+concession** — the reformers DO hold parts as revisable (Dalai Lama) and
+the traditionalists hold them as given (Bodhi), UNRESOLVED — so the
+cascade bites, and the film says so rather than patching it. Contrast
+line for Beat A of the era-context: [SCHOLARSHIP S20, fetched] Analayo
+on early Buddhism itself: "a precious fossil from bygone times; it can
+provide much inspiration, but it cannot be revived." — the scholar's own
+"outdated" admission, kept for the guard.
+
 **Beat C — what the Dalai Lama offers as solution (banked two-step).**
 1. **Credibility first:** "to uphold a tenet that contradicts reason is to
    undermine one's credibility; to contradict empirical evidence is a
@@ -395,7 +414,35 @@ to it."
    offer solves credibility with the world and re-opens fidelity with the
    tradition: that trade IS the frontier (banked in SCHOLARSHIP).
 
-**Beat D — the film's non-partisan hold (observer stance).** The critique
+**Beat D — Ñāṇavīra's clean resolution + the letters (owner's candidate,
+refined against the actual text).**
+> Owner (locked): "is the clean cosmology resolution nanaviras saying its
+> both psychological and physical they are both temproal and the mind is
+> not dependent on either?" · "nanavira committed suicide right in his
+> letters he mustve commented on rebirth / expected to get reborn"
+
+What he ACTUALLY says (Clearing the Path, in-house, read this session —
+N1–N4 banked): closer and cleaner than the paraphrase. (1) The chain is
+STRUCTURAL, not temporal [N1] — "not the description of a process" — so
+the physical-vs-psychological fight (both are temporal-geographical
+claims) is dissolved by refusing the hypothesis-frame: "outdated" cannot
+apply to a structure, only to a hypothesis [N3]. (2) His both-and [N2]:
+the dependence is seen HERE, directly, "not involving time"; the
+successive existence is accepted "on the Buddha's authority" — seen here,
+trusted there. (3) The formula: "unless craving has ceased, rebirth does
+take place" — no how, just THAT. And he kills the modern meta-error in
+advance: "the Buddha was an agnostic on rebirth… a very slight
+acquaintance with the Suttas will correct this idea."
+Death coda [N4]: Letter 1 = "'to be opened in the event of my death'";
+his decision (illness → concentration impossible → "no further use for
+this life") in his own words; and his OWN formula applies to him —
+sotāpanna, avijjā not exhausted → rebirth on trust-and-seeing, with the
+Theragāthā line he chose to quote: "Only the arahat has no anguish in the
+face of death." So yes — by his own stated epistemology he expected
+rebirth; the letters and the position agree. Sober handling, no
+melodrama. [ACQUIRE: page-number pass over CTP quotes at draft.]
+
+**Beat E — the film's non-partisan hold (observer stance).** The critique
 bites the GEOGRAPHY, never the engine: Bodhi and Buddhadasa agree on the
 chain, kamma, mind-made, cessation — they fight over furniture. And the
 Buddha already said where the commitment belongs [B13, MN 63]: declared =

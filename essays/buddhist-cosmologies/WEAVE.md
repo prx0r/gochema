@@ -199,6 +199,70 @@ in his own words). Pairs with DN 1 (same frame: 62 views catalogued).
 
 ---
 
+## ÑĀṆAVĪRA (in-house — Clearing the Path, essays/fire-simile/library/clearing-the-path.pdf, read this session)
+> Legacy encoding in the PDF (jàti/taõhà) normalized to standard diacritics
+> below; re-verify wording against page numbers at draft (compiler law).
+
+**[N1] — structural, not temporal (the resolution of physical/psychological/temporal):**
+"paṭiccasamuppāda has nothing to do with temporal succession (cause-and-
+effect). Precedence in paṭiccasamuppāda is structural, not temporal:
+paṭiccasamuppāda is not the description of a process."
+— Plus his critique of the three-life reading: so long as it is read as
+temporal succession, rebirth "is liable to be regarded as some kind of
+hypothesis (that there is rebirth and that it is caused by avijjā) to be
+verified (or not) in the course of time (like any hypothesis of the
+natural sciences)."
+— SLOT: CH.9b Beat E — the clean resolution: the chain is a present
+STRUCTURE ("as it is, so it was, so it will be"), so neither geography-
+outdated nor psychology-vs-physics applies; the hypothesis-frame is the
+error.
+
+**[N2] — direct seeing HERE, authority THERE (his both-and):**
+"It is possible for a Buddha to see the rebirth that is at each moment
+awaiting a living individual who still has taṇhā… the dependence of
+rebirth upon taṇhā is a matter of direct seeing, not involving time.
+But this is by no means always possible… for an ariyasāvaka, who, though
+he sees paṭiccasamuppāda for himself… may still need to accept rebirth on
+the Buddha's authority."
+— And the trust-formula: "To be a follower of the Buddha it is certainly
+necessary to accept on trust that for one who is not rid of avijjā at his
+death there is rebirth, but it is by no means sufficient. What is
+sufficient is to see paṭiccasamuppāda."
+— SLOT: CH.9b Beat E — the owner's "both" intuition, precisely stated:
+seen here (the dependence, timeless), trusted there (the successive
+existence) — and he uses THE deathless-formula for the chain itself:
+"sandiññhiko akāliko ehipassiko… immediate, timeless, evident" (MN 8
+quoted).
+
+**[N3] — not-a-hypothesis + the Buddha is not an agnostic:**
+"The Buddha does not explain how rebirth takes place; he states simply
+that, unless craving has ceased, rebirth does take place." · any
+acceptance built on scientific explanations of rebirth "is built on
+quicksand" · and: "A curious view, that the Buddha was an agnostic on the
+question of rebirth and refused to pronounce on it, seems to be gaining
+currency. Even a very slight acquaintance with the Suttas will correct
+this idea."
+— SLOT: CH.9b Beat B2 (the cascade) — the counter to "could rebirth be
+outdated too?": outdated applies to hypotheses; this isn't one.
+
+**[N4] — the man who banked his own death (letters, context only):**
+Letter 1 of the collection is titled "'to be opened in the event of my
+death'". The decision, his words: "The ravages of amœbiasis play havoc
+with the practice of mental concentration, and if I cannot practise
+mental concentration I have no further use for this life… there is no
+doubt at all (barring accidents) which I should choose. For me at least,
+the more intelligent of these two courses of action is suicide."
+— And the rebirth-expectation question, answered by his own position: he
+recorded sotāpatti (27.6.1959, banked in rebirth resource 05) — a
+stream-enterer, not arahat — so HIS OWN FORMULA [N2] applies to him: at
+his death, avijjā not fully gone → rebirth taken on trust-and-seeing. The
+only-arahat line he cites frames the alternative: "Only the arahat has no
+anguish in the face of death" (Theragāthā 606–607, quoted in CTP).
+— SLOT: CH.9b Beat E coda — handle soberly, no melodrama; the film's
+point is that his epistemology and his death agree.
+
+---
+
 ## Pairs that make the film's argument (do not split)
 
 - **[B1] + [B6]**: same canon, deed-womb AND mind-made (CH.9's crux). Not a

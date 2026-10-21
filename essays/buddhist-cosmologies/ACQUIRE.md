@@ -60,6 +60,16 @@ explaining this" — explainer/witness material for CH.2 + CH.7, NOT sources)
 | **Tricycle / McKeever** (S10 banked) | fractal quote source | quote-brief OK |
 
 ## New ACQUIRE items (STRUCTURE v2 additions)
+0. **Ñāṇavīra CTP page-pass** — all N1–N4 quotes came from the in-house
+   PDF (`essays/fire-simile/library/clearing-the-path.pdf`, pdftotext this
+   session): locate page/letter numbers for each (L.10 era for the Story
+   letter; "a note on paṭiccasamuppāda" section for N1–N2; Letter 1 +
+   the decision letter for N4) + decide READ vs paraphrase slots.
+1a. **Analayo, "Situating Mindfulness Part 1" (S19)** — OPEN PDF download
+    (hamburg) → full read; the SN 1.70/SĀ 1008 context + his cosmology
+    section verbatim (CH.2/CH.3/CH.9b all cite it).
+1b. **Analayo, "The Sixty-two Views" (2010)** — free on buddhistinquiry
+    publications page → pairs with DN 1 catalog (CH.3 Beat B).
 1. **Analayo, *Rebirth in Early Buddhism and Current Research* — IN HOUSE**
    (`library/buddhist-debate/analayo-rebirth.txt`) — RETARGETED (owner
    2026-10-21): "The Denial of Rebirth" (line 120/1538) + "The Destiny of

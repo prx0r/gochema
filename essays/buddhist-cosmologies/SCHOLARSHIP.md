@@ -363,6 +363,40 @@ verbatim this session:**
   the ANNIHILATIONIST wrong view from the canon's own list (Brahmajāla/
   Sāmaññaphala) — i.e. denial is an old opponent, not a modern discovery.
 
+## THE ANALAYO-COSMOLOGY SOURCES (CH.9b — the primary scholarly voice, fetched 2026-10-21)
+
+**[S19] Analayo — "Situating Mindfulness, Part 1: Early Buddhism and
+Scientific Research in Psychology" (Mindfulness 2021/22, OPEN PDF at
+hamburg.de — fetched excerpts):** THE cosmology paper of his — abstract
+covers "the Buddha's omniscience, Buddhist cosmology, the notion of
+karma, the role of rebirth… and the role of religious authority vis-à-vis
+the scope of personal investigation."
+- The reframe (owner's thesis, from the primary scholar): "the emphasis is
+  on 'the world' as a construct of the senses (SN 1.70 and SĀ 1008)."
+- "Different dimensions of ancient Indian cosmology, taken over in the
+  Buddhist traditions, can probably be better appreciated within the
+  setting provided by such an orientation toward the construction of
+  experience."
+- The question that names CH.9b's whole critique: "which Buddhist
+  doctrines can be eliminated while allowing Buddhism to remain Buddhism.
+  **Can there be Buddhism without Mount Meru? Can you play chess without
+  the queen?**"
+- His stance: a "corrective to… Buddhist modernists… to overlook or even
+  deny rational dimensions of Buddhist thought."
+- ACQUIRE: download full PDF (buddhismuskunde.uni-hamburg.de/…/situating1.pdf).
+
+**[S20] Analayo — "Early Buddhism" (Insight Journal 2023, FREE PDF,
+fetched excerpts) — the "outdated?" beat's own scholar:**
+- "early Buddhism is a precious fossil from bygone times; it can provide
+  much inspiration, but it cannot be revived."
+- "Buddhism has never been and will never be a static and solid entity…
+  a continuous process of responding to changing circumstances."
+- "The Dharma is a raft: it is not to be clung to but to be used for
+  crossing over." (his closing frame)
+- ACQUIRE also: "The Sixty-two Views – A Comparative Study" (Fuyan
+  Buddhist Studies 2010, extracts from "Views and the Tathāgata", listed
+  free on his publications page) → pairs with DN 1's own 62-views catalog.
+
 ## THE ESSAYS (the actual scholarship shelf)
 
 ### Tier 1 — directly the film's thesis (ACQUIRE full texts)
