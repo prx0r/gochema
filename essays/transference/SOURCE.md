@@ -95,6 +95,35 @@ anus→hells.
   `avasthas_voids_pack.zip`, `dvadasanta_axis_pack.zip`, `tantraloka-skia-framework-source.zip`
 - Rendered reference: `ochema/emerald-tablet/`, `ochema/atalanta/`, `ochema/poimandres/` shorts
 
+## OPEN WEB SOURCES (Lotsawa-class archives — verified 2026-10-24)
+
+**Tibetan translation archives (free, same spirit as Lotsawa House):**
+- `84000.co` — the canon project (Kangyur 42% done; free; app with passage-sharing + offline — passage tool doubles as READ-card maker)
+- `longchennyingtik.org` — Nyingtik Project (Longchen Nyingtik core texts in English; Orgyen Tobgyal Rinpoche phowa teachings, free ebook via all-otr.org)
+- `lotsawahouse.org/topics/dying-bardos` — death/bardo topic incl. *Wisdom of the Hour of Death* sūtra (Kangyur, Cook trans.)
+- `rigpawiki.org/index.php?title=Phowa` · `tibetanbuddhistencyclopedia.com` (Phowa, Grong-'jug) · `rywiki.tsadra.org` (grong 'jug dict entry) · `buddha-wisdom.org/doku.php?id=phowa` (detailed taxonomy: ösal, lung-riding modes)
+- Practice PDFs: Kathok Singapore *Longchen Nyingthig Transference* (Vajrayoginī phowa) · all-otr.org Orgyen Tobgyal commentary
+
+**Entering-another-body file (the special's research core):**
+- Achard 2025, *Drongjuk — The Practice of Entering a Corpse* (12pp, khyungmkhar.blogspot.com): grong 'jug = Skt parakāyapraveśana; Kagyü transmission lost with Marpa's son; Nyingma/Bön lines survive — pairs with Karma Chakme's "no practice lineage" card (two independent witnesses that the Tibetan line died)
+- Berounský, *Entering Dead Bodies… Karma Pakshi* Part II (academia.edu): grong 'jug in tulku recognition history
+- Mei 2004, *Early Transmission of 'Pho ba Teachings* (Tibet Journal 29/4, JSTOR free-read): grong 'jug separated from phowa yoga in Marpa's root verses
+- Wallis 2014 dissertation, *To Enter, to be entered, to merge* (escholarship.org, OA): Tantric Shaivism religious experience — the Hindu entering/being-entered phenomenology, free
+
+**Hindu tantra texts (free):**
+- `gretil.sub.uni-goettingen.de` — Svacchandatantra e-text (EFEO Saiva group input) + full register
+- `sanskritdocuments.org/sanskrit/tantra` — scanned books + etexts
+- `archive.org/details/tantraloka` — KSTS Sanskrit TĀ, full text · Manthanabhairava V5 (Dyczkowski trans., free) · VBT Sanskrit+English
+- `tantra112.app` — Wallis's complete free VBT English (112 practices) + meditations
+- `sanskrit-trikashaivism.com` — Pradipaka's free Trika translations (community, verify before READ)
+- `anuttaratrikakula.org/tantraloka-translation` — Dyczkowski 11-vol TĀ (paid; page documents what's in it)
+
+**Utkrānti scholarship (the Hindu-side academic backbone):**
+- Linder 2020, *Is Yogic Suicide Useless?* (JIP 48:427–445, Springer — quote-only) + **free MP3 of her 2017 OCHS lecture**: `ochs-lectures.s3.amazonaws.com/1880-is-yogic-suicide-useless-…_171026.mp3` — the whole corpus (MVT 17/25ff, ParT 14/104c-107, Pāñcarātra) in one talk
+- `ochs.org.uk/tantraloka-readings/` — Sanderson's TĀ readings (audio)
+- Szántó 2012 abstract: 'pho ba's Sanskrit name is *utkrānti*, attested earlier in Brahmanical/Śaiva sources; Buddhist adoption came later — THE bridge thesis (Hindu origin → Buddhist phowa), cite as pointer
+- White 2010, *Utkranti: Epic Warrior's Apotheosis → Tantric Yogi's Suicide* (festschrift) · Jonker 2021, Pāśupata yoga and dying (Equinox, check OA)
+
 ## FILM MAP (when Track B builds)
 
 - Rebirth CH.8 (Tibetan tour): Karma Chakme nine-doors + training/application
