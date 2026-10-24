@@ -365,10 +365,12 @@ black. flame goes out.
    banked (`library/rebirth-sources/milindapanha-rebirth-flame.txt`).
    ACTION: fetch the Nāgasena chariot exchange (Miln II.1) from
    buddhanet/sacca mirrors, bank full passage, fill the READ.
-2. **TH2/TH3 Abhidhammatthasaṅgaha §12 + §13 fn (CH.4)** — quoted "hand",
-   no source file. ACTION: bank the Nārada (or Bhikkhu Bodhi) translation
-   passages; the §13 footnote is the film's best "pop-misreading killer,"
-   it must be letter-exact.
+2. **TH2/TH3 Abhidhammatthasaṅgaha §12 + §13 fn (CH.4)** — CLOSED 2026-10-24,
+   banked: `quotes/abhidhammattha-javana.txt` (Nārada, Buddhanet PDF).
+   §13 fn verified letter-except-"amongst some" (insert it). §12 READ as
+   drafted ("links together the two consecutive existences") is NOT Nārada —
+   his is "linking the existences"; either verify against Bodhi's Comprehensive
+   Manual or swap to the banked Nārada sentence before voice record.
 3. **Y1/Y2 Waldron Ālaya Treatise (CH.5)** — "hand via search". ACTION:
    bank the Waldron passages (seed/support + nurturing-into-next-life).
 4. **Asaṅga identity receipt (CH.5)** — retagged as survey summary (see
