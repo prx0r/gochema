@@ -66,6 +66,35 @@ anus→hells.
 - `essays/global-rebirth/films/specials/gateway/SPEC.md` — gateway mechanism
   (anattā guard: no personal focus-er travels; instruction + stream).
 
+## R2 LOCATIONS (fetch on demand, never vendored — verified 2026-10-24)
+
+**Tantra texts (bucket `source-library`, prefix `tantra/`):**
+- `abhinavagupta/ahnika-01..37.txt` + `gretil_tantraloka.txt` — full TĀ, mirrors volume texts-clean
+- `uploads/.../sa_abhinavagupta_tantraloka.jsonl` (3.7 MB), `..._tantrasara.jsonl`,
+  `..._paramarthasara.jsonl` + `_comm`, `..._izvarapratyabhijjavimarzini.jsonl`
+  (IPV!), `sa_ksemaraja_pratyabhijjahrdaya.jsonl`, `sa_utpaladeva_ajadapramatrsiddhi.jsonl`
+  — machine-readable Sanskrit corpus (`root-projects-patalafinal/.../translations/`)
+
+**Scholarship ROs (bucket `uploads`, `root-projects-basecamp/knowledge/`):**
+- `research-objects/tantra/ro-dyczkowski-doctrine-vibration/`, `ro-ksemaraja-pratyabhijnahrdayam/`,
+  `ro-lakshmanjoo-shiva-sutras/`, `ro-lakshmanjoo-vijnana-bhairava/`, `ro-utpaladeva-ipk/`,
+  `ro-tantraloka-{dialogical-revelation,initiation,mantra-breath,matter-of-wonder}` (+ more)
+- `learning-workbooks/PRATYABHIJNA-WORKBOOK.md`, `SPANDA-WORKBOOK.md`
+- `philosophers/po-abhinavagupta/po.json`, `abhinavagupta-in-comparison.md`,
+  `key_spanda.txt`, `spanda_all_results.txt`
+
+**Watch/listen (bucket `uploads`):**
+- `cx-train-root-files/The Tantrāloka by Abhinavagupta: Content and Construction — Dr. Mark Dyczkowski [Part-1(B)].en.vtt` — lecture transcript (Part B only; find A)
+- Local (not R2): `library/tantra/journey-in-the-world-of-the-tantras-dyczkowski.pdf` — the Journey book is in-repo
+
+**Visual packs for bardo/transference sequences (bucket `essayviz-videos`, `ochema-assets/`):**
+- `vijnanabhairava_24_scene_pack.zip`, `tantraloka_36_tattvas_pack.zip`,
+  `five_kalas_cosmic_eggs_pack.zip`, `bhuvanadhvan_224_worlds_pack.zip`,
+  `kalicakra_12_kalis_pack.zip`, `cosmic_body_pack.zip`, `malas_three_veils_pack.zip`,
+  `pramatr_taxonomy_pack.zip`, `khecari_mudra_consciousness_pack.zip`,
+  `avasthas_voids_pack.zip`, `dvadasanta_axis_pack.zip`, `tantraloka-skia-framework-source.zip`
+- Rendered reference: `ochema/emerald-tablet/`, `ochema/atalanta/`, `ochema/poimandres/` shorts
+
 ## FILM MAP (when Track B builds)
 
 - Rebirth CH.8 (Tibetan tour): Karma Chakme nine-doors + training/application
